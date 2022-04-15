@@ -12,7 +12,7 @@ keywords: 关于,Jerry_Zhou,Jerry_Zhou,Jerry,YangguangZhou,周洋光
 comments: true
 ---
 
-![欢迎](https://card.jerryz.com.cn)
+![欢迎](https://card.jerryz.com.cn/white)
 
 
 # 个人简介
