@@ -1,0 +1,52 @@
+{
+    "name": "Jerry Zhou的个人博客",
+    "short_name": "Jerry Zhou",
+    "theme_color": "#279fff",
+    "background_color": "#279fff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+          "src": "img/favicon/36.png",
+          "sizes": "36x36",
+          "type": "image/png"
+        },
+        {
+            "src": "img/favicon/48.png",
+          "sizes": "48x48",
+          "type": "image/png"
+        },
+        {
+          "src": "img/favicon/72.png",
+          "sizes": "72x72",
+          "type": "image/png"
+        },
+        {
+          "src": "img/favicon/96.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        },
+        {
+          "src": "img/favicon/144.png",
+          "sizes": "144x144",
+          "type": "image/png"
+        },
+        {
+          "src": "img/favicon/192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        },
+        {
+            "src": "img/favicon/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "img/favicon/favicon.png",
+            "sizes": "200x200",
+            "type": "image/png"
+        }
+      ],
+      "splash_pages": null
+  }

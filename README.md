@@ -1,2 +1,1 @@
-# blog
-Jerry Zhou 的个人博客
+# Jerry Zhou的个人博客
