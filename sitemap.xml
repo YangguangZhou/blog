@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/article/gcc-compile-paras/</loc>
+    
+    <lastmod>2022-05-02</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/article/about/</loc>
+    
+    <lastmod>2022-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/article/Luogu-User-Card/</loc>
+    
+    <lastmod>2022-03-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/article/github-speed-up/</loc>
+    
+    <lastmod>2022-02-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/manifest.json</loc>
+    
+    <lastmod>2022-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/article/solution-P7886/</loc>
+    
+    <lastmod>2022-01-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/baidu_verify_code-RHg5TXxMHd.html</loc>
+    
+    <lastmod>2022-01-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/article/hexo-butterfly-bilibili/</loc>
+    
+    <lastmod>2022-01-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/article/translate-CF1608A/</loc>
+    
+    <lastmod>2021-12-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/article/solution-CF1608A/</loc>
+    
+    <lastmod>2021-12-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/article/Steve-Jobs/</loc>
+    
+    <lastmod>2021-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/messageboard/index.html</loc>
+    
+    <lastmod>2021-11-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/index.html</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/categories/index.html</loc>
+    
+    <lastmod>2021-11-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/myself/index.html</loc>
+    
+    <lastmod>2021-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/timeline/index.html</loc>
+    
+    <lastmod>2021-11-25</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://blog.jerryz.com.cn/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/GitHub/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/%E6%B4%9B%E8%B0%B7/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/C/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/%E8%8B%B9%E6%9E%9C/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/%E7%A7%91%E6%8A%80/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/%E4%B8%AA%E4%BA%BA/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/Windows/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/Hexo/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/CodeForces/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/tags/%E7%BF%BB%E8%AF%91/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/categories/%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/categories/%E5%85%B6%E5%AE%83/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/categories/%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AE/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/categories/C-%E9%A2%98%E8%A7%A3/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.jerryz.com.cn/categories/%E9%A2%98%E7%9B%AE%E7%BF%BB%E8%AF%91/</loc>
+    <lastmod>2022-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
