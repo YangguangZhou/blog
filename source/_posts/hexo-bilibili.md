@@ -20,7 +20,7 @@ description: 如何在Hexo博客（butterfly主题）中插入bilibili视频
 ## 效果
 
 <div>
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1U54y1S7FQ&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1au411B7cf&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 </div>
 
 # 方法
@@ -30,7 +30,7 @@ description: 如何在Hexo博客（butterfly主题）中插入bilibili视频
 
 ```markdown
 <div style="position:relative; padding-bottom:75%; width:100%; height:0">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1U54y1S7FQ&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1au411B7cf&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
 </div>
 ```
 
@@ -39,7 +39,7 @@ description: 如何在Hexo博客（butterfly主题）中插入bilibili视频
 ## 效果
 
 <div style="position:relative; padding-bottom:75%; width:100%; height:0">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1U54y1S7FQ&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1au411B7cf&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
 </div>
 
 # 原理
@@ -73,7 +73,7 @@ description: 如何在Hexo博客（butterfly主题）中插入bilibili视频
 ### 效果
 
 <div style="position:relative; padding-bottom:75%; width:100%; height:0">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1U54y1S7FQ&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1au411B7cf&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 </div>
 
 ## 修改视频质量
@@ -83,5 +83,5 @@ B站默认视频质量是最低的，可以通过在src的最后添加`&high_qua
 ### 效果
 
 <div style="position:relative; padding-bottom:75%; width:100%; height:0">
-    <iframe src="//player.bilibili.com/player.html?bvid=BV1U54y1S7FQ&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
+    <iframe src="//player.bilibili.com/player.html?bvid=BV1au411B7cf&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"></iframe>
 </div>
