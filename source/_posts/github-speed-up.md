@@ -3,7 +3,7 @@ title: GitHub访问加速
 cover: https://img.examcoo.com/ask/7386438/202112/163868409645050.png
 date: 2021/12/04 11:33:23
 categories:
-- 其它
+- 编程
 tags:
 - GitHub
 - Windows
