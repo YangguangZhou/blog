@@ -1,5 +1,5 @@
 ---
-title: CF1728A Colored Balls:Revisited
+title: CF1728A Colored Balls:Revisited 题解
 date: 2022/09/10 23:45:49
 categories:
 - C++题解

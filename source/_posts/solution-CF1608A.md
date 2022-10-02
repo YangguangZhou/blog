@@ -1,5 +1,5 @@
 ---
-title: CodeForces CF1608A Find Array题解
+title: CodeForces CF1608A Find Array 题解
 date: 2021/12/12 23:49:00
 categories:
 - C++题解

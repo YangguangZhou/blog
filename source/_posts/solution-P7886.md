@@ -1,5 +1,5 @@
 ---
-title: 洛谷P7886 「MCOI-06」Gerrymandering题解
+title: 洛谷P7886 「MCOI-06」Gerrymandering 题解
 date: 2021/10/02 21:49:00
 categories:
 - C++题解
