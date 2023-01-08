@@ -26,7 +26,17 @@ tag_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 category_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 about_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 
-default_cover: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
+cover:
+  # display the cover or not (是否显示文章封面)
+  index_enable: true
+  aside_enable: true
+  archives_enable: true
+  # the position of cover in home page (封面显示的位置)
+  # left/right/both
+  position: both
+  # When cover is not set, the default cover is displayed (当没有设置cover时，默认的封面显示)
+  default_cover:
+    https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 
 # Avatar (頭像)
 avatar:
@@ -73,18 +83,18 @@ katex:
 # the banner image of home page
 index_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 
-# electric_clock
-electric_clock:
-  enable: true # 开关
-  priority: 5 #过滤器优先权
-  enable_page: all # 应用页面
-  exclude:
-    # - /posts/
-    # - /about/
-  layout: # 挂载容器类型
-    type: class
-    name: sticky_layout
-    index: 0
+# # electric_clock
+# electric_clock:
+#   enable: true # 开关
+#   priority: 5 #过滤器优先权
+#   enable_page: all # 应用页面
+#   exclude:
+#     # - /posts/
+#     # - /about/
+#   layout: # 挂载容器类型
+#     type: class
+#     name: sticky_layout
+#     index: 0
 
 # Code Blocks (代碼相關)
 # --------------------------------------  //代码高亮配置 我喜欢mac light样式，可以自行选择
