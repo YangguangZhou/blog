@@ -18,9 +18,9 @@ keywords: 编程,GitHub,Android,MaterialYou,Monet,莫奈,谷歌,Android12,Androi
 
 可通过音量键选择是否安装对应应用的取色模块
 
-[GitHub地址](https://github.com/YangguangZhou/Monet-All)
+**[GitHub地址](https://github.com/YangguangZhou/Monet-All)**
 
-[酷安原帖](https://monet.jerryz.com.cn/coolapk)
+**[酷安原帖](https://monet.jerryz.com.cn/coolapk)**
 
 ## v1.4更新日志
  - 新增：豆瓣、贴吧Lite、Clash(foss版本)、享做笔记的莫奈取色
