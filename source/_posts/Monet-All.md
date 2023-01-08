@@ -30,6 +30,7 @@ keywords: 编程,GitHub,Android,MaterialYou,Monet,莫奈,谷歌,Android12,Androi
 如果您的Clash为Premium版本(可以在Clash的关于中找到自己的版本)，可以使用MT管理器将/模块路径/system/priv-app/Clash.apk中两个文件里`(monet.)com.github.kr328.clash.foss`后的`.foss`删去(共三处)
 
 ## 包含的应用及原作者（来自酷安）
+
 ```
 微信（play 8.0.21）（由 JerryZhouYG 修改聊天气泡圆角）大且丑
 酷安 人在且号无
@@ -50,15 +51,35 @@ Clash（foss版本） JerryZhouYG
 ```
 
 ## 刷入方式
+
 Magisk模块
 
 **⚠️⚠️⚠️刷入前请先确认模块适用的应用版本**
 
 ## 简介
+
 莫奈主题是 Android12 的 Material You 新特性，它会根据壁纸来生成系统主题色，软件也会根据系统主题色来变化。
 
 ## 效果
-![](https://monet.jerryz.com.cn/resources/1.png)
+
+<img src="https://monet.jerryz.com.cn/resources/1.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/2.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/3.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/4.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/5.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/6.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/7.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/8.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/9.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/10.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/11.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/12.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/13.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/14.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/15.png" height = "500"/>
+<img src="https://monet.jerryz.com.cn/resources/16.png" height = "500"/>
+
+<!-- ![](https://monet.jerryz.com.cn/resources/1.png)
 
 ![](https://monet.jerryz.com.cn/resources/2.png)
 
@@ -88,4 +109,4 @@ Magisk模块
 
 ![](https://monet.jerryz.com.cn/resources/15.png)
 
-![](https://monet.jerryz.com.cn/resources/16.png)
+![](https://monet.jerryz.com.cn/resources/16.png) -->
