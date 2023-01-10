@@ -22,13 +22,9 @@ keywords: 编程,GitHub,Android,MaterialYou,Monet,莫奈,谷歌,Android12,Androi
 
 **[酷安原帖](https://monet.jerryz.com.cn/coolapk)**
 
-<<<<<<< HEAD
-# v1.4更新日志
-=======
 **[下载地址](https://monet.jerryz.com.cn/Monet-All.zip)**
 
-## v1.4更新日志
->>>>>>> 8ffc00e536980dfa74a168140f6cd51eef8f6a5c
+# v1.4更新日志
  - 新增：豆瓣、贴吧Lite、Clash(foss版本)、享做笔记的莫奈取色
  - 更新：微信键盘莫奈取色更新至v1.2
  - 支持自动检查更新
@@ -73,11 +69,7 @@ Magisk模块
 <img src="https://monet.jerryz.com.cn/resources/3.png" height = "500"/>
 <img src="https://monet.jerryz.com.cn/resources/4.png" height = "200"/>
 <img src="https://monet.jerryz.com.cn/resources/5.png" height = "500"/>
-<<<<<<< HEAD
 <img src="https://monet.jerryz.com.cn/resources/6.png" height = "150"/>
-=======
-<img src="https://monet.jerryz.com.cn/resources/6.png" height = "200"/>
->>>>>>> 8ffc00e536980dfa74a168140f6cd51eef8f6a5c
 <img src="https://monet.jerryz.com.cn/resources/7.png" height = "500"/>
 <img src="https://monet.jerryz.com.cn/resources/8.png" height = "500"/>
 <img src="https://monet.jerryz.com.cn/resources/9.png" height = "500"/>
