@@ -309,8 +309,7 @@ index_generator:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo
-  use:
-    - Waline
+  use: Waline
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
@@ -325,7 +324,7 @@ baidu_analytics: 2d0f2589d6d85efeff9dcfd00a508157
 waline:
   serverURL:  https://waline.jerryz.com.cn/ # Waline server address url
   # bg: https://cdn.jsdelivr.net/gh/YangguangZhou/jzblog-waline@main/comment.webp # waline background
-  visitor: true
+  pageview: false
   option:
 
 footer:
@@ -371,7 +370,7 @@ index_post_content:
   length: 500 # if you set method to 2 or 3, the length need to config
 
 google_adsense:
-  enable: true
+  enable: false
   auto_ads: true
   js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
   client: ca-pub-2597042766299857 # 填入个人识别码
