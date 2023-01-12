@@ -120,6 +120,7 @@ inject:
   head:
     - <link rel="stylesheet" href="https://at.alicdn.com/t/font_2954574_qxc29mwlkyg.css">
     - <link rel="stylesheet" href="/css/mycss.css">
+    - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
     # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StylishThemes/GitHub-Dark@master/github-dark.user.css">
   # javascript
   # bottom:
