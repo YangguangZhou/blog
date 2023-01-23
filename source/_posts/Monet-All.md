@@ -18,21 +18,20 @@ keywords: 编程,GitHub,Android,MaterialYou,Monet,莫奈,谷歌,Android12,Androi
 
 可通过音量键选择是否安装对应应用的取色模块
 
-**[GitHub地址](https://github.com/YangguangZhou/Monet-All)**
+https://monet.jerryz.com.cn/
 
 **[酷安原帖](https://monet.jerryz.com.cn/coolapk)**
 
-**[下载地址](https://monet.jerryz.com.cn/Monet-All.zip)**
+**[下载地址](https://monet.jerryz.com.cn/download)**
 
-# v1.4更新日志
+## v1.4更新日志
  - 新增：豆瓣、贴吧Lite、Clash(foss版本)、享做笔记的莫奈取色
  - 更新：微信键盘莫奈取色更新至v1.2
  - 支持自动检查更新
  
 如果您的Clash为Premium版本(可以在Clash的关于中找到自己的版本)，可以使用MT管理器将/模块路径/system/priv-app/Clash.apk中两个文件里`(monet.)com.github.kr328.clash.foss`后的`.foss`删去(共三处)
 
-# 包含的应用及原作者（来自酷安）
-
+## 包含的应用及原作者（来自酷安）
 ```
 微信（play 8.0.21）（由 JerryZhouYG 修改聊天气泡圆角）大且丑
 酷安 人在且号无
@@ -52,63 +51,43 @@ Clash（foss版本） JerryZhouYG
 享做笔记 Esing
 ```
 
-# 刷入方式
-
+## 刷入方式
 Magisk模块
 
 **⚠️⚠️⚠️刷入前请先确认模块适用的应用版本**
 
-# 简介
-
+## 简介
 莫奈主题是 Android12 的 Material You 新特性，它会根据壁纸来生成系统主题色，软件也会根据系统主题色来变化。
 
-# 效果
+## 效果
+![](https://edu-image.nosdn.127.net/2D47183F931DC8127AF498BBF8ABBDDC.png)
 
-<img src="https://monet.jerryz.com.cn/resources/1.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/2.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/3.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/4.png" height = "200"/>
-<img src="https://monet.jerryz.com.cn/resources/5.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/6.png" height = "150"/>
-<img src="https://monet.jerryz.com.cn/resources/7.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/8.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/9.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/10.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/11.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/12.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/13.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/14.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/15.png" height = "500"/>
-<img src="https://monet.jerryz.com.cn/resources/16.png" height = "500"/>
+![](https://edu-image.nosdn.127.net/2DE588BF698E6F7EE51F2DC6394474EE.png)
 
-<!-- ![](https://monet.jerryz.com.cn/resources/1.png)
+![](https://edu-image.nosdn.127.net/3D7C5DDFA0F9DDC8FBBA97CA64665A6A.png)
 
-![](https://monet.jerryz.com.cn/resources/2.png)
+![](https://edu-image.nosdn.127.net/366E22CA079F858A35000A2231A6B86B.png)
 
-![](https://monet.jerryz.com.cn/resources/3.png)
+![](https://edu-image.nosdn.127.net/DB13A39D8E85D0EDE8523C354F8D60FC.png)
 
-![](https://monet.jerryz.com.cn/resources/4.png)
+![](https://edu-image.nosdn.127.net/7151A639A037CAD8826E596CE46147AC.png)
 
-![](https://monet.jerryz.com.cn/resources/5.png)
+![](https://edu-image.nosdn.127.net/50097A90636E6E05F07F6243E6605336.png)
 
-![](https://monet.jerryz.com.cn/resources/6.png)
+![](https://edu-image.nosdn.127.net/73212863BC8F2D98721CFF0754E0A6CE.png)
 
-![](https://monet.jerryz.com.cn/resources/7.png)
+![](https://edu-image.nosdn.127.net/663285D480FD7FCFEE9E0CBF419DF8FE.png)
 
-![](https://monet.jerryz.com.cn/resources/8.png)
+![](https://edu-image.nosdn.127.net/A899B8CF80E8774B9B5C0CD212EDCD74.png)
 
-![](https://monet.jerryz.com.cn/resources/9.png)
+![](https://edu-image.nosdn.127.net/D89A55979AFEE81284DC520BE22FA624.png)
 
-![](https://monet.jerryz.com.cn/resources/10.png)
+![](https://edu-image.nosdn.127.net/1247D707B5CA0705635BBB1EBAF39EB9.png)
 
-![](https://monet.jerryz.com.cn/resources/11.png)
+![](https://edu-image.nosdn.127.net/4C7B8ACD8111E1D96E504AD3020167DD.png)
 
-![](https://monet.jerryz.com.cn/resources/12.png)
+![](https://edu-image.nosdn.127.net/402B9A72CE7E1AD346E38ACDC61254C2.png)
 
-![](https://monet.jerryz.com.cn/resources/13.png)
+![](https://edu-image.nosdn.127.net/489F5430D40316AC69CFF23D86FA5A27.png)
 
-![](https://monet.jerryz.com.cn/resources/14.png)
-
-![](https://monet.jerryz.com.cn/resources/15.png)
-
-![](https://monet.jerryz.com.cn/resources/16.png) -->
+![](https://edu-image.nosdn.127.net/F4EC6594149E0F3301344560C030E48C.png)
