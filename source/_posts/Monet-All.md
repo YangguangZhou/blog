@@ -18,7 +18,7 @@ keywords: 编程,GitHub,Android,MaterialYou,Monet,莫奈,谷歌,Android12,Androi
 
 可通过音量键选择是否安装对应应用的取色模块
 
-https://monet.jerryz.com.cn/
+**[GitHub Repo](https://github.com/YangguangZhou/Monet-All)**
 
 **[酷安原帖](https://monet.jerryz.com.cn/coolapk)**
 
