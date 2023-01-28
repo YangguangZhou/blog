@@ -270,7 +270,7 @@ theme_color:
 
 canvas_fluttering_ribbon:
   enable: true
-  mobile: true
+  mobile: true # false 手机端不显示 true 手机端显示
 
 # 美化页面显示
 beautify:
@@ -332,6 +332,9 @@ footer:
   owner:
     enable: true
     since: 2021
+
+# footer是否显示图片背景(与top_img一致)
+footer_bg: true
 
 # copy settings
 # copyright: Add the copyright information after copied content (复製的内容后面加上版权信息)
