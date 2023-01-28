@@ -30,7 +30,7 @@ hexo.extend.filter.register('before_generate', () => {
     disqusjs_css: 'https://cdn.jsdelivr.net/npm/disqusjs@1/dist/disqusjs.css',
     utterances: 'https://utteranc.es/client.js',
     twikoo: 'https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js',
-    waline: 'https://cdn.jsdelivr.net/npm/@waline/client/dist/Waline.min.js',
+    waline: 'https://unpkg.com/@waline/client@v2/dist/waline.mjs',
     giscus: 'https://giscus.app/client.js',
 
     // share
