@@ -5,7 +5,7 @@ block content
     if top_img === false
       include includes/header/post-info.pug
 
-    article#article-container.post-content.heti!=page.content
+    article#article-container.post-content!=page.content
     include includes/post/post-copyright.pug
     .tag_share
       if (theme.post_meta.post.tags)
