@@ -54,8 +54,8 @@ hexo.extend.helper.register('cloudTags', function (options = {}) {
   return result
 })
 
-hexo.extend.helper.register('urlNoIndex', function (url = null) {
-  return prettyUrls(url || this.url, { trailing_index: false, trailing_html: false })
+hexo.extend.helper.register('urlNoIndex', function (url = null, trailingIndex = false, trailingHtml = false) {
+  return prettyUrls(url || this.url, { trailing_index: trailingIndex, trailing_html: trailingHtml })
 })
 
 hexo.extend.helper.register('md5', function (path) {
@@ -71,7 +71,13 @@ hexo.extend.helper.register('injectHtml', function (data) {
   return result
 })
 
-hexo.extend.helper.register('findArchivesTitle', function (menu) {
+hexo.extend.helper.register('findArchivesTitle', function (page, menu, date) {
+  if (page.year) {
+    const dateStr = page.month ? `${page.year}-${page.month}` : `${page.year}`
+    const dateFormat = page.month ? hexo.theme.config.aside.card_archives.format : 'YYYY'
+    return date(dateStr, dateFormat)
+  }
+
   const defaultTitle = this._p('page.archives')
   if (!menu) return defaultTitle
 
@@ -88,4 +94,12 @@ hexo.extend.helper.register('findArchivesTitle', function (menu) {
   }
 
   return loop(menu) || defaultTitle
+})
+
+hexo.extend.helper.register('isImgOrUrl', function (path) {
+  const imgTestReg = /\.(png|jpe?g|gif|svg|webp)(\?.*)?$/
+  if (path.indexOf('//') !== -1 || imgTestReg.test(path)) {
+    return true
+  }
+  return false
 })

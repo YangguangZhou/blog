@@ -19,7 +19,8 @@
   let localSearch = 'undefined';
   if (theme.local_search && theme.local_search.enable) {
     localSearch = JSON.stringify({
-      path: config.search.path,
+      path: theme.local_search.CDN ? theme.local_search.CDN : config.root + config.search.path,
+      preload: theme.local_search.preload,
       languages: {
         // search languages
         hits_empty: _p("search.local_search.hits_empty"),
@@ -113,11 +114,15 @@ script.
     Snackbar: !{Snackbar},
     source: {
       justifiedGallery: {
-        js: '!{url_for(theme.CDN.flickr_justified_gallery_js)}',
-        css: '!{url_for(theme.CDN.flickr_justified_gallery_css)}'
+        js: '!{url_for(theme.asset.flickr_justified_gallery_js)}',
+        css: '!{url_for(theme.asset.flickr_justified_gallery_css)}'
       }
     },
     isPhotoFigcaption: !{theme.photofigcaption},
     islazyload: !{theme.lazyload.enable},
-    isAnchor: !{theme.anchor}
+    isAnchor: !{theme.anchor.auto_update || false},
+    percent: {
+      toc: !{theme.toc.scroll_percent},
+      rightside: !{theme.rightside_scroll_percent},
+    }
   }

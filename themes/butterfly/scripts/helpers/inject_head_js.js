@@ -8,6 +8,10 @@
 hexo.extend.helper.register('inject_head_js', function () {
   const { darkmode, aside } = this.theme
 
+  const { theme_color } = hexo.theme.config
+  const themeColorLight = (theme_color && theme_color.enable && theme_color.meta_theme_color_light) || '#ffffff'
+  const themeColorDark = (theme_color && theme_color.enable && theme_color.meta_theme_color_dark) || '#0d0d0d'
+
   const localStore = `
     win.saveToLocal = {
       set: function setWithExpiry(key, value, ttl) {
@@ -56,19 +60,30 @@ hexo.extend.helper.register('inject_head_js', function () {
     })
   `
 
+  const getCSS = `
+    win.getCSS = url => new Promise((resolve, reject) => {
+      const link = document.createElement('link')
+      link.rel = 'stylesheet'
+      link.href = url
+      link.onload = () => resolve()
+      link.onerror = () => reject()
+      document.head.appendChild(link)
+    })
+  `
+
   let darkmodeJs = ''
   if (darkmode.enable) {
     darkmodeJs = `
       win.activateDarkMode = function () {
         document.documentElement.setAttribute('data-theme', 'dark')
         if (document.querySelector('meta[name="theme-color"]') !== null) {
-          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#0d0d0d')
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '${themeColorDark}')
         }
       }
       win.activateLightMode = function () {
         document.documentElement.setAttribute('data-theme', 'light')
         if (document.querySelector('meta[name="theme-color"]') !== null) {
-          document.querySelector('meta[name="theme-color"]').setAttribute('content', '#ffffff')
+          document.querySelector('meta[name="theme-color"]').setAttribute('content', '${themeColorLight}')
         }
       }
       const t = saveToLocal.get('theme')
@@ -140,5 +155,5 @@ hexo.extend.helper.register('inject_head_js', function () {
     detectApple()
     `
 
-  return `<script>(win=>{${localStore + getScript + darkmodeJs + asideStatus + detectApple}})(window)</script>`
+  return `<script>(win=>{${localStore + getScript + getCSS + darkmodeJs + asideStatus + detectApple}})(window)</script>`
 })

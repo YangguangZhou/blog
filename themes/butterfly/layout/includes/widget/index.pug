@@ -6,7 +6,6 @@
     if showToc && tocStyleVal
       .sticky_layout
         include ./card_post_toc.pug
-        !=partial('includes/widget/card_hitokoto', {}, {cache:true})
     else
       !=partial('includes/widget/card_author', {}, {cache: true})
       !=partial('includes/widget/card_announcement', {}, {cache: true})

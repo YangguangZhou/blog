@@ -1,35 +1,29 @@
-- const { serverURL, visitor, option } = theme.waline
+- const { serverURL, option, pageview } = theme.waline
+- const { lazyload, count, use } = theme.comments
 
 script.
   function loadWaline () {
     function initWaline () {
-      const waline = new Waline(Object.assign({
+      const waline = Waline.init(Object.assign({
         el: '#waline-wrap',
         serverURL: '!{serverURL}',
-        path: location.pathname,
-        visitor: !{visitor},
-        avatar: 'robohash',
-        emoji: [
-          'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/bilibili',
-          'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-emoji',
-          'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/weibo',
-          'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/qq',
-          'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tieba',
-          'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/alus',
-          'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-symbol',
-          'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw-flag',
-          'https://cdn.jsdelivr.net/gh/walinejs/emojis@1.0.0/tw'
-        ],
-        dark: 'html[data-theme="dark"]'
+        pageview: !{lazyload ? false : pageview},
+        dark: 'html[data-theme="dark"]',
+        path: window.location.pathname,
+        comment: !{lazyload ? false : count},
       }, !{JSON.stringify(option)}))
     }
 
-    if (typeof Waline === 'function') initWaline()
-    else getScript('!{url_for(theme.CDN.waline)}').then(initWaline)
+    if (typeof Waline === 'object') initWaline()
+    else {
+      getCSS('!{url_for(theme.asset.waline_css)}').then(() => {
+        getScript('!{url_for(theme.asset.waline_js)}').then(initWaline)
+      })
+    }
   }
 
-  if ('!{theme.comments.use[0]}' === 'Waline' || !!{theme.comments.lazyload}) {
-    if (!{theme.comments.lazyload}) btf.loadComment(document.getElementById('waline-wrap'),loadWaline)
+  if ('!{use[0]}' === 'Waline' || !!{lazyload}) {
+    if (!{lazyload}) btf.loadComment(document.getElementById('waline-wrap'),loadWaline)
     else setTimeout(loadWaline, 0)
   } else {
     function loadOtherComment () {

@@ -15,7 +15,7 @@
       height: auto
 
     &:hover
-      img.post_bg
+      img.post-bg
         transform: scale(1.1)
 
     &.ads-wrap
@@ -31,7 +31,7 @@
         width: 100%
         height: 230px
 
-      img.post_bg
+      .post-bg
         @extend .imgHover
 
       &.right
@@ -81,6 +81,9 @@
 
         i
           margin: 0 4px 0 0
+
+        .fa-spinner
+          margin: 0
 
         .article-meta-label
           if hexo-config('post_meta.page.label')
