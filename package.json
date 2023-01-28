@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@neilsustc/markdown-it-katex": "^1.0.0",
-    "@waline/vercel": "latest",
+    "@waline/vercel": "^1.26.0",
     "hexo": "^6.3.0",
     "hexo-browsersync": "^0.3.0",
     "hexo-butterfly-clock": "^1.0.7",
