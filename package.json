@@ -40,5 +40,8 @@
   "scripts": {
     "dev": "hexo server -p $PORT",
     "build": "hexo generate"
+  },
+  "devDependencies": {
+    "@waline/client": "^2.14.7"
   }
 }
