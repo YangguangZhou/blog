@@ -34,6 +34,7 @@
     "hexo-theme-butterfly": "^4.5.1",
     "hexo-util": "^3.0.1",
     "hexo-wordcount": "^6.0.1",
+    "@waline/vercel": "latest",
     "package-lock.json": "^1.0.0",
     "package.json": "^2.0.1"
   },
