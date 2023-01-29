@@ -110,6 +110,26 @@ error_404:
   subtitle: 'Page Not Found'
   background: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 
+post_meta:
+  page:
+    date_type: both # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
+    date_format: relative # date/relative 顯示日期還是相對日期
+    categories: true # true or false 主頁是否顯示分類
+    tags: true # true or false 主頁是否顯示標籤
+    label: true # true or false 顯示描述性文字
+  post:
+    date_type: both # created or updated or both 文章頁日期是創建日或者更新日或都顯示
+    date_format: relative # date/relative 顯示日期還是相對日期
+    categories: true # true or false 文章頁是否顯示分類
+    tags: true # true or false 文章頁是否顯示標籤
+    label: true # true or false 顯示描述性文字
+
+
+作者: Jerry
+連結: https://butterfly.js.org/posts/4aa8abbe/#%E6%96%87%E7%AB%A0meta%E9%A1%AF%E7%A4%BA
+來源: Butterfly
+著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。
+
 local_search:
   enable: true
   labels:
@@ -352,12 +372,6 @@ post_copyright:
   author_href: https://blog.jerryz.com.cn/
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
-
-
-作者: Jerry
-連結: https://butterfly.js.org/posts/4aa8abbe/#%E6%96%87%E7%AB%A0%E7%89%88%E6%AC%8A
-來源: Butterfly
-著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。
 
 # anchor
 # when you scroll in post , the url will update according to header id.
