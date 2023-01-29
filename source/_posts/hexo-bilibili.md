@@ -3,11 +3,13 @@ title: Hexo博客引用B站视频
 cover: https://img.examcoo.com/ask/7386438/202112/163897318350010.png
 date: 2021/12/07 21:03:22
 categories:
+- 网站
 - 博客配置
 tags:
-- 编程
+- 网站
 - Hexo
-keywords: 编程,Hexo,butterfly,bilibili,哔哩哔哩,视频,博客,博客美化
+- 博客配置
+keywords: Hexo,butterfly,bilibili,哔哩哔哩,视频,博客,博客美化
 description: 如何在Hexo博客（butterfly主题）中插入bilibili视频
 ---
 
