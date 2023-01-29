@@ -1,3 +1,15 @@
+---
+title: 利用 Vercel+OneManager 搭建个人网盘
+#cover: https://img.examcoo.com/ask/7386438/202205/165147777180700.png
+date: 2023/01/29 21:32:58
+categories:
+- 网站
+tags:
+- 网站
+keywords: Vercel,网站,OneManager,网盘,云盘
+---
+
+
 # 前言
 目前网络上已经有了不少搭建个人网盘的方法。但作为一名学生党，资金并非那么充裕，无法购买私有云。于是我便找到了这种零成本搭建个人网盘的方法。
 
