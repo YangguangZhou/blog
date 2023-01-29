@@ -344,7 +344,20 @@ copy:
   enable: true
   copyright:
     enable: true
-    limit_count: 50
+    limit_count: 60
+
+post_copyright:
+  enable: true
+  decode: true
+  author_href: https://blog.jerryz.com.cn/
+  license: CC BY-NC-SA 4.0
+  license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+作者: Jerry
+連結: https://butterfly.js.org/posts/4aa8abbe/#%E6%96%87%E7%AB%A0%E7%89%88%E6%AC%8A
+來源: Butterfly
+著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。
 
 # anchor
 # when you scroll in post , the url will update according to header id.
