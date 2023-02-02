@@ -5,6 +5,7 @@ menu:
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   开往: https://www.travellings.cn/go.html || fas fa-train-subway
+  虫洞: http://foreverblog.cn/go.html || fas fa-circle-o
   留言板: /messageboard/ || fas fa-comments
   # 说说: /shuoshuo/ || fas fa-comment-dots
   # 友链: /link/ || fas fa-link
@@ -123,12 +124,6 @@ post_meta:
     categories: true # true or false 文章頁是否顯示分類
     tags: true # true or false 文章頁是否顯示標籤
     label: true # true or false 顯示描述性文字
-
-
-作者: Jerry
-連結: https://butterfly.js.org/posts/4aa8abbe/#%E6%96%87%E7%AB%A0meta%E9%A1%AF%E7%A4%BA
-來源: Butterfly
-著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。
 
 local_search:
   enable: true
