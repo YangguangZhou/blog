@@ -28,6 +28,19 @@ tag_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 category_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 about_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 
+inject:
+  # css
+  head:
+    - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_2954574_aar1gzrlpuj.css">
+    - <link rel="stylesheet" href="/css/mycss.css">
+    - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
+    - <link rel="stylesheet" href="https://unpkg.com/heti/umd/heti.min.css">
+    # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StylishThemes/GitHub-Dark@master/github-dark.user.css">
+  # javascript
+  bottom:
+      - <script async src="https://ackee.jerryz.com.cn/tracker.js" data-ackee-server="https://ackee.jerryz.com.cn" data-ackee-domain-id="ba68e92d-83bc-4e8a-bf48-6e6142837991" data-ackee-opts='{ "detailed": true }'></script>
+  #   - <script src="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/js/hideMobileSidebar.js"></script>
+
 cover:
   # display the cover or not (是否显示文章封面)
   index_enable: true
@@ -130,19 +143,6 @@ local_search:
   labels:
     input_placeholder: Search for Posts
     hits_empty: "很抱歉，暂无${query}相关的内容" # if there are no result
-
-inject:
-  # css
-  head:
-    - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_2954574_aar1gzrlpuj.css">
-    - <link rel="stylesheet" href="/css/mycss.css">
-    - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
-    - <link rel="stylesheet" href="https://unpkg.com/heti/umd/heti.min.css">
-    # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StylishThemes/GitHub-Dark@master/github-dark.user.css">
-  # javascript
-  bottom:
-      - <script async src="https://ackee.jerryz.com.cn/tracker.js" data-ackee-server="https://ackee.jerryz.com.cn" data-ackee-domain-id="ba68e92d-83bc-4e8a-bf48-6e6142837991"></script>
-  #   - <script src="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/js/hideMobileSidebar.js"></script>
 
 # toc (目錄)
 toc:
