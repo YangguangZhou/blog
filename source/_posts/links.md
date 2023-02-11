@@ -13,7 +13,7 @@ keywords: 编程,GitHub,网站,友链,Links,Links-友链合集,随机跳转
 ---
 # Links-友链合集
 
-![Links](https://links.jerryz.com.cn/assets/favicon.png)
+<img src="https://links.jerryz.com.cn/assets/favicon.png" width="75">
 
 ![stars](https://img.shields.io/github/stars/YangguangZhou/Links?style=flat)
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Links)
@@ -47,14 +47,13 @@ Links是一个友链合集，可以通过 https://links.jerryz.com.cn/go 进行�
 
 - 将Links的链接(https://links.jerryz.com.cn/go)，加入您的**顶栏**导航或**侧栏**导航中，**便于访客看到并点击**
 
-- 建议直接插入Links的徽标 `https://links.jerryz.com.cn/assets/favicon.png` 
+- 建议直接插入Links的徽标 `https://links.jerryz.com.cn/assets/favicon.png` 或 `https://links.jerryz.com.cn/assets/Links-White.png` 或 `https://links.jerryz.com.cn/assets/Links-Black.png`
   
   <img src="https://links.jerryz.com.cn/assets/favicon.png" width="30">
+  <img src="https://links.jerryz.com.cn/assets/Links-White.png" width="30">
+  <img src="https://links.jerryz.com.cn/assets/Links-Black.png" width="30">
 
 - 如需 iconfont ，直接使用图标库即可：
-  
-  <img src="https://links.jerryz.com.cn/assets/favicon.png" width="30">
-  
   #### Unicoide：
   ```
   @font-face {
