@@ -33,6 +33,7 @@ inject:
   # css
   head:
     - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_2954574_aar1gzrlpuj.css">
+    - <link rel="stylesheet" href="//at.alicdn.com/t/c/font_3891026_wggdqlhqrxg.css">
     - <link rel="stylesheet" href="/css/mycss.css">
     - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
     - <link rel="stylesheet" href="https://unpkg.com/heti/umd/heti.min.css">
