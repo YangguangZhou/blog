@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "@neilsustc/markdown-it-katex": "^1.0.0",
+    "ackee-tracker": "^5.1.0",
     "hexo": "^6.3.0",
     "hexo-abbrlink": "^2.2.1",
     "hexo-browsersync": "^0.3.0",
