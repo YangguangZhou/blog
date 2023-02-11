@@ -1,6 +1,6 @@
 ---
 title: Links-友链合集
-cover: https://img.examcoo.com/ask/7386438/202302/167611233087570.png
+cover: https://img.examcoo.com/ask/7386438/202302/167611637160090.png
 date: 2023/02/11 17:27:01
 # hidden: true
 categories:
@@ -37,7 +37,7 @@ Links是一个友链合集，可以通过 https://links.jerryz.com.cn/go 进行�
 
 ## 运行方式
 
-`网页A → Links → 网页B → Links → 网页C → Links → 网页D → Links → 网页E → Links → 网页F → Links → 网页G …`
+`网页A → Links → 网页B → Links → 网页C → Links → 网页D → Links → 网页E → Links → 网页F …`
 
 ## 加入Links
 
@@ -48,9 +48,13 @@ Links是一个友链合集，可以通过 https://links.jerryz.com.cn/go 进行�
 - 将Links的链接(https://links.jerryz.com.cn/go)，加入您的**顶栏**导航或**侧栏**导航中，**便于访客看到并点击**
 
 - 建议直接插入Links的徽标 `https://links.jerryz.com.cn/assets/favicon.png` 
-  ![Links](https://links.jerryz.com.cn/assets/favicon.png)
+  
+  <img src="https://links.jerryz.com.cn/assets/favicon.png" width="30">
 
 - 如需 iconfont ，直接使用图标库即可：
+  
+  <img src="https://links.jerryz.com.cn/assets/favicon.png" width="30">
+  
   #### Unicoide：
   ```
   @font-face {
