@@ -38,8 +38,8 @@ inject:
     # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StylishThemes/GitHub-Dark@master/github-dark.user.css">
   # javascript
   bottom:
-      - <script async src="https://ackee.jerryz.com.cn/tracker.js" data-ackee-server="https://ackee.jerryz.com.cn" data-ackee-domain-id="ba68e92d-83bc-4e8a-bf48-6e6142837991" data-ackee-opts='{ "detailed": true }'></script>
-  #   - <script src="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/js/hideMobileSidebar.js"></script>
+    - <script async src="https://ackee.jerryz.com.cn/tracker.js" data-ackee-server="https://ackee.jerryz.com.cn" data-ackee-domain-id="ba68e92d-83bc-4e8a-bf48-6e6142837991"></script>
+  # - <script src="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/js/hideMobileSidebar.js"></script>
 
 cover:
   # display the cover or not (是否显示文章封面)
@@ -126,13 +126,13 @@ error_404:
 
 post_meta:
   page:
-    date_type: both # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
+    date_type: created # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
     date_format: relative # date/relative 顯示日期還是相對日期
     categories: true # true or false 主頁是否顯示分類
     tags: true # true or false 主頁是否顯示標籤
     label: true # true or false 顯示描述性文字
   post:
-    date_type: both # created or updated or both 文章頁日期是創建日或者更新日或都顯示
+    date_type: created # created or updated or both 文章頁日期是創建日或者更新日或都顯示
     date_format: relative # date/relative 顯示日期還是相對日期
     categories: true # true or false 文章頁是否顯示分類
     tags: true # true or false 文章頁是否顯示標籤
