@@ -57,7 +57,7 @@ Links是一个友链合集，可以通过 https://links.jerryz.com.cn/go 进行�
 
 - 如需 iconfont ，直接使用图标库即可：
   #### Unicoide
-  ```
+  ```css
   @font-face {
     font-family: 'iconfont';  /* Project id 3891026 */
     src: url('//at.alicdn.com/t/c/font_3891026_wggdqlhqrxg.woff2?t=1676106315250') format('woff2'),
