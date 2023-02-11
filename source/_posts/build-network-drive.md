@@ -1,6 +1,6 @@
 ---
 title: 利用 Vercel+OneManager 搭建个人网盘
-cover: https://drive.jerryz.com.cn/Photos/7f99ea3df6f45d7c42f3bdf2c4ced4f8.png
+cover: https://img.examcoo.com/ask/7386438/202302/167610403813040.png
 date: 2023/01/29 21:32:58
 categories:
 - 网站
