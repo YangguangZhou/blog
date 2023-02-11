@@ -43,6 +43,8 @@ Links是一个友链合集，可以通过 https://links.jerryz.com.cn/go 进行�
 
 博客，主页，工具，导航等都可以，只要是乐于分享的网页就可以加入Links。
 
+[加入Links](https://github.com/YangguangZhou/Links/issues/new?assignees=YangguangZhou&labels=申请收录&template=beta.yml)
+
 ### 放置Links的链接与图标
 
 - 将Links的链接(https://links.jerryz.com.cn/go)，加入您的**顶栏**导航或**侧栏**导航中，**便于访客看到并点击**
@@ -54,7 +56,7 @@ Links是一个友链合集，可以通过 https://links.jerryz.com.cn/go 进行�
   <img src="https://links.jerryz.com.cn/assets/Links-Black.png" width="30">
 
 - 如需 iconfont ，直接使用图标库即可：
-  #### Unicoide：
+  #### Unicoide
   ```
   @font-face {
     font-family: 'iconfont';  /* Project id 3891026 */
