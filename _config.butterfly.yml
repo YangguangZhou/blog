@@ -7,7 +7,7 @@ menu:
   留言板: /messageboard/ || fas fa-comments
   # 说说: /shuoshuo/ || fas fa-comment-dots
   友链|| fas fa-link:
-      Links: https://links.jerryz.com.cn/go/ || iconfoont icon-Links-White
+      Links: https://links.jerryz.com.cn/go/ || iconfont icon-Links-White
       开往: https://www.travellings.cn/go.html || fas fa-train-subway
       虫洞: http://foreverblog.cn/go.html || far fa-circle
   关于: /article/about/ || fas fa-heart
