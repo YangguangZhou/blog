@@ -47,7 +47,7 @@ Links是一个友链合集，可以通过 https://links.jerryz.com.cn/go 进行�
 
 ### 放置Links的链接与图标
 
-- 将Links的链接(https://links.jerryz.com.cn/go)，加入您的**顶栏**导航或**侧栏**导航中，**便于访客看到并点击**
+- 将Links的链接(https://links.jerryz.com.cn/go )，加入您的**顶栏**导航或**侧栏**导航中，**便于访客看到并点击**
 
 - 建议直接插入Links的徽标 `https://links.jerryz.com.cn/assets/favicon.png` 或 `https://links.jerryz.com.cn/assets/Links-White.png` 或 `https://links.jerryz.com.cn/assets/Links-Black.png`
   
