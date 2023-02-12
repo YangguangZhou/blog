@@ -19,7 +19,7 @@ keywords: 编程,GitHub,网站,友链,Links,Links-友链合集,随机跳转
 ![visitor](https://visitor-badge.laobi.icu/badge?page_id=Links)
 ![last commit](https://shields.io/github/last-commit/YangguangZhou/Links?style=flat)
 
-**[GitHub Repo](https://github.com/YangguangZhou/Monet-All)**
+**[GitHub Repo](https://github.com/YangguangZhou/Links)**
 
 ## 网址
 
