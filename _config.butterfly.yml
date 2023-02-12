@@ -6,7 +6,7 @@ menu:
   分类: /categories/ || fas fa-folder-open
   留言板: /messageboard/ || fas fa-comments
   # 说说: /shuoshuo/ || fas fa-comment-dots
-  友链|| fas fa-link
+  友链|| fas fa-link:
       Links: https://links.jerryz.com.cn/go/ || iconfoont icon-Links-White
       开往: https://www.travellings.cn/go.html || fas fa-train-subway
       虫洞: http://foreverblog.cn/go.html || far fa-circle
@@ -32,8 +32,8 @@ about_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 inject:
   # css
   head:
-    - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_2954574_aar1gzrlpuj.css">
-    - <link rel="stylesheet" href="//at.alicdn.com/t/c/font_3891026_wggdqlhqrxg.css">
+    # - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_2954574_aar1gzrlpuj.css">
+    - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_3891026_wggdqlhqrxg.css">
     - <link rel="stylesheet" href="/css/mycss.css">
     - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
     - <link rel="stylesheet" href="https://unpkg.com/heti/umd/heti.min.css">
