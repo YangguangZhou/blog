@@ -40,7 +40,7 @@ inject:
     # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StylishThemes/GitHub-Dark@master/github-dark.user.css">
   # javascript
   bottom:
-    - <script async src="https://ackee.jerryz.com.cn/tracker.js" data-ackee-server="https://ackee.jerryz.com.cn" data-ackee-domain-id="ba68e92d-83bc-4e8a-bf48-6e6142837991" data-ackee-opts='{ "detailed" : true }' ></script>
+    - <script async src="https://ackee.jerryz.com.cn/tracker.js" data-ackee-server="https://ackee.jerryz.com.cn" data-ackee-domain-id="ba68e92d-83bc-4e8a-bf48-6e6142837991" ></script>
   # - <script src="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/js/hideMobileSidebar.js"></script>
 
 cover:
