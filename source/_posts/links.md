@@ -95,7 +95,7 @@ Links是一个友链合集，可以通过 https://links.jerryz.com.cn/go 进行�
 
 ## 成员列表
 
-[点此查看](https://github.com/YangguangZhou/Links/blob/master/member.md)成员列表，已有超500成员加入过Links。
+[点此查看](https://github.com/YangguangZhou/Links/blob/master/member.md)成员列表
 
 ## 赞助
 
