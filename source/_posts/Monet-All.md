@@ -24,7 +24,7 @@ keywords: 编程,GitHub,Android,MaterialYou,Monet,莫奈,谷歌,Android12,Androi
 ![last commit](https://img.shields.io/github/last-commit/YangguangZhou/Monet-All?style=flat)
 [![Telegram](https://img.shields.io/badge/Telegram-Monet__All-informational?logo=telegram)](https://monet.jerryz.com.cn/group)
 
-**[monet.jerryz.com.cn](https://monet.jerryz.com.cn/)**
+**[GitHub Repo](https://github.com/YangguangZhou/Monet-All)**
 
 **[酷安原帖](https://monet.jerryz.com.cn/coolapk)**
 
