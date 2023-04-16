@@ -38,10 +38,10 @@ inject:
     - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
     - <link rel="stylesheet" href="https://unpkg.com/heti/umd/heti.min.css">
     - <link rel="stylesheet" href="https://unpkg.com/@waline/client@2.15.0/dist/waline-meta.css" />
+    - <script async defer data-website-id="9e81821e-2405-426c-9bf5-45823b4d2184" src="https://um.jerryz.com.cn/umami.js"></script>
     # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StylishThemes/GitHub-Dark@master/github-dark.user.css">
   # javascript
   bottom:
-    - <script async defer data-website-id="9e81821e-2405-426c-9bf5-45823b4d2184" src="https://um.jerryz.com.cn/umami.js"></script>
   # - <script src="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/js/hideMobileSidebar.js"></script>
 
 cover:
