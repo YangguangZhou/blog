@@ -1,15 +1,15 @@
 ---
 title: 洛谷用户信息卡片 Luogu-User-Card
-cover: https://img.examcoo.com/ask/7386438/202112/163852910932280.png
-date: 2021/12/03 21:27:06
-# hidden: true
+cover: 'https://img.examcoo.com/ask/7386438/202112/163852910932280.png'
+date: '2021/12/03 21:27:06'
 categories:
-- 编程
+  - 编程
 tags:
-- 编程
-- GitHub
-- 洛谷
-keywords: 编程,GitHub,洛谷,Luogu,vercel,卡片,洛谷卡片
+  - 编程
+  - GitHub
+  - 洛谷
+keywords: '编程,GitHub,洛谷,Luogu,vercel,卡片,洛谷卡片'
+abbrlink: 51822
 ---
 
 # [Luogu-User-Card](https://api.jerryz.com.cn/)

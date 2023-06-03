@@ -1,15 +1,16 @@
 ---
 title: P8550 冬之花 题解
-date: 2022/10/03 00:27:03
+date: '2022/10/03 00:27:03'
 categories:
-- C++题解
+  - C++题解
 tags:
-- CodeForces
-- 题解
-- 编程
-- C++
-cover: https://img.examcoo.com/ask/7386438/202210/166472880218680.png
-keywords: 题解,P8550,C++,Luogu,洛谷
+  - CodeForces
+  - 题解
+  - 编程
+  - C++
+cover: 'https://img.examcoo.com/ask/7386438/202210/166472880218680.png'
+keywords: '题解,P8550,C++,Luogu,洛谷'
+abbrlink: 34684
 ---
 
 读题点 [这里](https://www.luogu.com.cn/problem/P8550)

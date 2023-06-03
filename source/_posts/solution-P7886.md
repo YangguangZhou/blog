@@ -1,15 +1,16 @@
 ---
 title: 洛谷P7886 「MCOI-06」Gerrymandering 题解
-date: 2021/10/02 21:49:00
+date: '2021/10/02 21:49:00'
 categories:
-- C++题解
+  - C++题解
 tags:
-- 洛谷
-- 题解
-- 编程
-- C++
-cover: https://img.examcoo.com/ask/7386438/202112/163887683575550.png
-keywords: 题解,P7886,C++,洛谷,Luogu
+  - 洛谷
+  - 题解
+  - 编程
+  - C++
+cover: 'https://img.examcoo.com/ask/7386438/202112/163887683575550.png'
+keywords: '题解,P7886,C++,洛谷,Luogu'
+abbrlink: 5542
 ---
 
 # **这是本蒟蒻的第一篇题解**

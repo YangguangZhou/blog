@@ -1,14 +1,15 @@
 ---
 title: 纪念史蒂夫·乔布斯逝世十周年
-date: 2021/10/05 22:24:36
+date: '2021/10/05 22:24:36'
 categories:
-- 其它
+  - 其它
 tags:
-- 苹果
-- 科技
+  - 苹果
+  - 科技
 mathjax: true
-cover: https://img.examcoo.com/ask/7386438/202110/163344356028400.jpg
-keywords: 乔布斯,史蒂夫·乔布斯,Steve Jobs,苹果,科技
+cover: 'https://img.examcoo.com/ask/7386438/202110/163344356028400.jpg'
+keywords: '乔布斯,史蒂夫·乔布斯,Steve Jobs,苹果,科技'
+abbrlink: 62127
 ---
 他改变了电脑。
 

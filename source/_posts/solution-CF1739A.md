@@ -1,15 +1,15 @@
 ---
 title: CF1739A Immobile Knight 题解
-date: 2022/10/28 22:56:06
+date: '2022/10/28 22:56:06'
 categories:
-- C++题解
+  - C++题解
 tags:
-- CodeForces
-- 题解
-- 编程
-- C++
-# cover: https://img.examcoo.com/ask/7386438/202209/166282763048590.png
-keywords: 题解,CF1739A,C++,CodeForces
+  - CodeForces
+  - 题解
+  - 编程
+  - C++
+keywords: '题解,CF1739A,C++,CodeForces'
+abbrlink: 24687
 ---
 
 读题点 [这里](https://www.luogu.com.cn/problem/CF1739A)

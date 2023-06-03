@@ -1,15 +1,16 @@
 ---
 title: CodeForces CF1608A Find Array 翻译
-date: 2021/12/12 22:30:56
+date: '2021/12/12 22:30:56'
 categories:
-- 题目翻译
+  - 题目翻译
 tags:
-- CodeForces
-- 翻译
-- 编程
-- C++
-cover: https://img.examcoo.com/ask/7386438/202112/163974886715310.png
-keywords: CodeForces,翻译,编程,C++
+  - CodeForces
+  - 翻译
+  - 编程
+  - C++
+cover: 'https://img.examcoo.com/ask/7386438/202112/163974886715310.png'
+keywords: 'CodeForces,翻译,编程,C++'
+abbrlink: 13045
 ---
 
 # [题目地址](https://www.luogu.com.cn/problem/CF1608A)

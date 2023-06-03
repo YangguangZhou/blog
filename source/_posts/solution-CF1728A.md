@@ -1,15 +1,16 @@
 ---
-title: CF1728A Colored Balls:Revisited 题解
-date: 2022/09/10 23:45:49
+title: 'CF1728A Colored Balls:Revisited 题解'
+date: '2022/09/10 23:45:49'
 categories:
-- C++题解
+  - C++题解
 tags:
-- CodeForces
-- 题解
-- 编程
-- C++
-cover: https://img.examcoo.com/ask/7386438/202209/166282763048590.png
-keywords: 题解,CF1728A,C++,CodeForces
+  - CodeForces
+  - 题解
+  - 编程
+  - C++
+cover: 'https://img.examcoo.com/ask/7386438/202209/166282763048590.png'
+keywords: '题解,CF1728A,C++,CodeForces'
+abbrlink: 45605
 ---
 
 读题点 [这里](https://www.luogu.com.cn/problem/CF1728A)

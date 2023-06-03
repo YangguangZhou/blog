@@ -1,13 +1,14 @@
 ---
 title: 常见的 GCC C++ 编译选项
-cover: https://img.examcoo.com/ask/7386438/202205/165147777180700.png
-date: 2022/05/02 15:16:56
+cover: 'https://img.examcoo.com/ask/7386438/202205/165147777180700.png'
+date: '2022/05/02 15:16:56'
 categories:
-- 编程
+  - 编程
 tags:
-- 编程
-- C++
-keywords: 编程,C++,cpp.gcc,g++,编译
+  - 编程
+  - C++
+keywords: '编程,C++,cpp.gcc,g++,编译'
+abbrlink: 43354
 ---
 
 一个典型的 GCC C++编译过程为：

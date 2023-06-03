@@ -1,15 +1,16 @@
 ---
 title: CodeForces CF1608A Find Array 题解
-date: 2021/12/12 23:49:00
+date: '2021/12/12 23:49:00'
 categories:
-- C++题解
+  - C++题解
 tags:
-- CodeForces
-- 题解
-- 编程
-- C++
-cover: https://img.examcoo.com/ask/7386438/202112/163940894215270.png
-keywords: 题解,CF1608A,C++,CodeForces
+  - CodeForces
+  - 题解
+  - 编程
+  - C++
+cover: 'https://img.examcoo.com/ask/7386438/202112/163940894215270.png'
+keywords: '题解,CF1608A,C++,CodeForces'
+abbrlink: 36757
 ---
 
 读题点[这里](https://www.luogu.com.cn/problem/CF1608A)

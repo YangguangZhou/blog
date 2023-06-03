@@ -1,15 +1,15 @@
 ---
 title: Links-友链合集
-cover: https://img.examcoo.com/ask/7386438/202302/167611637160090.png
-date: 2023/02/11 17:27:01
-# hidden: true
+cover: 'https://img.examcoo.com/ask/7386438/202302/167611637160090.png'
+date: '2023/02/11 17:27:01'
 categories:
-- 编程
+  - 编程
 tags:
-- 编程
-- GitHub
-- 网站
-keywords: 编程,GitHub,网站,友链,Links,Links-友链合集,随机跳转
+  - 编程
+  - GitHub
+  - 网站
+keywords: '编程,GitHub,网站,友链,Links,Links-友链合集,随机跳转'
+abbrlink: 6050
 ---
 # Links-友链合集
 

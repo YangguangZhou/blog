@@ -1,15 +1,15 @@
 ---
 title: 关于我
-type: about 
-cover: https://img.examcoo.com/ask/7386438/202112/163859146268730.png
-date: 2021/11/27 22:15:23
-# hidden: true
+type: about
+cover: 'https://img.examcoo.com/ask/7386438/202112/163859146268730.png'
+date: '2021/11/27 22:15:23'
 categories:
-- 其它
+  - 其它
 tags:
-- 个人
-keywords: 关于,Jerry_Zhou,Jerry_Zhou,Jerry,YangguangZhou,周洋光
+  - 个人
+keywords: '关于,Jerry_Zhou,Jerry_Zhou,Jerry,YangguangZhou,周洋光'
 comments: true
+abbrlink: 19487
 ---
 
 ![欢迎](https://card.jerryz.com.cn/white)

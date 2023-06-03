@@ -1,16 +1,16 @@
 ---
 title: Monet-All 莫奈取色整合模块
-cover: https://img.zcool.cn/community/015b0260af5e4911013f47205f9ade.gif
-date: 2023/01/08 23:56:06
-# hidden: true
+cover: 'https://img.zcool.cn/community/015b0260af5e4911013f47205f9ade.gif'
+date: '2023/01/08 23:56:06'
 categories:
-- 编程
+  - 编程
 tags:
-- 编程
-- GitHub
-- Android
-- Material You
-keywords: 编程,GitHub,Android,MaterialYou,Monet,莫奈,谷歌,Android12,Android13
+  - 编程
+  - GitHub
+  - Android
+  - Material You
+keywords: '编程,GitHub,Android,MaterialYou,Monet,莫奈,谷歌,Android12,Android13'
+abbrlink: 40660
 ---
 
 莫奈取色整合的Magisk模块，可通过音量键选择是否安装对应应用的取色模块

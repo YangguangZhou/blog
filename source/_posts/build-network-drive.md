@@ -1,12 +1,13 @@
 ---
 title: 利用 Vercel+OneManager 搭建个人网盘
-cover: https://img.examcoo.com/ask/7386438/202302/167610403813040.png
-date: 2023/01/29 21:32:58
+cover: 'https://img.examcoo.com/ask/7386438/202302/167610403813040.png'
+date: '2023/01/29 21:32:58'
 categories:
-- 网站
+  - 网站
 tags:
-- 网站
-keywords: Vercel,网站,OneManager,网盘,云盘
+  - 网站
+keywords: 'Vercel,网站,OneManager,网盘,云盘'
+abbrlink: 30026
 ---
 
 

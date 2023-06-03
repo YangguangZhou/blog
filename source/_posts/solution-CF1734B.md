@@ -1,15 +1,15 @@
 ---
-title: CF1734B Bright, Nice, Brilliant 题解
-date: 2022/10/28 22:25:01
+title: 'CF1734B Bright, Nice, Brilliant 题解'
+date: '2022/10/28 22:25:01'
 categories:
-- C++题解
+  - C++题解
 tags:
-- CodeForces
-- 题解
-- 编程
-- C++
-# cover: https://img.examcoo.com/ask/7386438/202209/166282763048590.png
-keywords: 题解,CF1734B,C++,CodeForces
+  - CodeForces
+  - 题解
+  - 编程
+  - C++
+keywords: '题解,CF1734B,C++,CodeForces'
+abbrlink: 49538
 ---
 
 读题点 [这里](https://www.luogu.com.cn/problem/CF1734B)
