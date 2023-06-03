@@ -4,31 +4,7 @@ date: '2023/06/03 20:16:01'
 hidden: true
 abbrlink: 8127
 ---
-<div align="left">
-<a href="/README_zh-CN.md">中文</a> &nbsp;|&nbsp;
-<a href="/README.md">English</a>
-</div>
-
-
-<h1 align="center">御坂のMaterial You软件仓库</h1>
-
-<p align="center">
-  <img src="https://i.ibb.co/3CYKN00/Wallpaper4.png">
-</p>
-<p align="center">
- <img src="https://img.shields.io/github/stars/misaka-13766/Material-You-App-Repository?style=for-the-badge&colorA=FFEBEB&colorB=FFD9DC&logo=github&logoColor=black">
-</p>
-<p align="center">
-  <a href="https://t.me/misakamaterialyou">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=%E9%A2%91%E9%81%93&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyou" alt="Telegram">
-  </a>
-  <a href="https://t.me/misakamaterialyouchat">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&colorA=DAE9FC&colorB=056DE8&label=%E7%BE%A4%E8%81%8A&logo=telegram&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dtelegram%26queryKey%3Dmisakamaterialyouchat" alt="Telegram">
-  </a>
-  <a href="https://www.coolapk.com/u/26677673">
-    <img src="https://img.shields.io/badge/Coolapk-yuban13766-%231B914C?style=for-the-badge&colorA=E1F6E1&colorB=126736" alt="酷安">
-  </a>
-</p>
+<h1 align="center">Material You软件仓库</h1>
 
 ## ⛩️序言
 ### ❓️什么是Material Design 3？Material You又是什么？
@@ -105,14 +81,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 |**`Full`**|✅|✅|
 
 ### 💖感谢
-- **特别感谢**：[Material-You-app-list](https://github.com/nyas1/Material-You-app-list)，目前最著名的Material You APP收集项目，它为我的收集工作提供了莫大的帮助。  
-- 酷安用户[@培明](http://www.coolapk.com/u/2080396)，他的应用集为这次Applist的收集也提供了不少素材。
-- [F-Droid](https://f-droid.org)，fd里收录了很多基于最新设计的开源APP，为本列表中的应用来源提供不少线索。
-- 在github、酷安等平台活跃的那些坚持使用Material Design 3开发APP的开发者大大们，你们为谷歌的软件生态做出了不可埋没的贡献！
-- Telegram频道：[某不知名杂货铺](https://t.me/youthkinga)、[HUC-Projects](https://t.me/anubis_recommended)、[WPX Projects](https://t.me/WSTprojects)、[Android Reposity](https://t.me/AndroidRepo)等。
-- 我的好友CK酱，帮助我收集了不少APP，提了不少建议，代码技术也很高超，贴贴！
-- 列表建设初期为我提供建议的大佬们。
-- **正在浏览这个列表的，热爱Material You的你们！**
+- **特别感谢**：[Material-You-app-list](https://github.com/nyas1/Material-You-app-list)，目前最著名的Material You APP收集
 ## 📜目录
 - [🦖 谷歌应用](#谷歌应用)
 - [👨‍💻 OEM厂商/类原生定制应用](#oem%E5%8E%82%E5%95%86%E7%B1%BB%E5%8E%9F%E7%94%9F%E5%AE%9A%E5%88%B6%E5%BA%94%E7%94%A8)
@@ -1211,13 +1180,3 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - 酷安上著名的Monet APP作者：
 	- [@Simba的小迷弟](https://www.coolapk.com/u/912927)（开山鼻祖）
 	- [@MonetCarlos](https://www.coolapk.com/u/9021855)、[@人在且号无](https://www.coolapk.com/u/3743516)、[@JerryZhouYG](https://www.coolapk.com/u/3803468)、[@null喵](https://www.coolapk.com/u/25367133)、[@C碳化钨](https://www.coolapk.com/u/4091987)、[@WhiCCX5](https://www.coolapk.com/u/1788296)
-# 🫠告诉我你发现的Material You应用
-如果你发现了这个列表中没出现的Material You应用，欢迎你来告诉我！
-
-以下是可用的反馈方式：
-
-- 在我的Github仓库中[提issue](https://github.com/misaka-13766/Material-You-App-Repository/issues)；
-- 在酷安@我或者给我发私信，我的酷安ID是[也许是御坂13766号吧](https://www.coolapk.com/u/26677673)（可能是大多数人的选择XD）；
-- 在我的Telegram群聊中提，直接跟我PM也是欢迎哒！
-# ⛩️附注
-- 标题图片来源：Pixiv ID [82225040](https://www.pixiv.net/artworks/82225040)，Author [@に](https://www.pixiv.net/users/1632590)
