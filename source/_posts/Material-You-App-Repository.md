@@ -6,8 +6,8 @@ abbrlink: 8127
 ---
 <h1 align="center">Material You软件仓库</h1>
 
-## ⛩️序言
-### ❓️什么是Material Design 3？Material You又是什么？
+# ⛩️序言
+## ❓️什么是Material Design 3？Material You又是什么？
 *以下内容部分来源于谷歌官方文档*
 
 Material Design 3，又称质感设计3，是Google于2021年在Google I/O开发者大会上推出的最新开源Android APP UI设计规范。与前代Material Design 2对直角、阴影的强调不同，Material Design 3更加扁平化，它带来了更多的圆角设计、丰富并富有个性的形状各异的控件、对不同尺寸屏幕的Android设备更加友好的适配，更重要的是，它带来了全新的取色机制 —— Monet取色 (Dynamic Color)，该机制可根据用户设备的壁纸颜色决定APP的强调色与主色调，让你的Android系统更富有个性。
@@ -15,20 +15,20 @@ Material Design 3，又称质感设计3，是Google于2021年在Google I/O开发
 Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人们对Android原生系统 “毛坯房” 的印象，在某些平台（如酷安）刮起了一股 “原生热” ，也成为了未来几年Android APP设计的美学规范之一。
 
 狭义上的Material You是指Material Design 3设计规范中的一些新特性，如Monet取色、更有设计感的控件等，广义的Material You即指Monet取色，只要某个APP加入了Monet取色，无论APP的UI基于什么设计，都可以称作Material You。
-### ❓️目前Material You APP生态的现状如何？
+## ❓️目前Material You APP生态的现状如何？
 在国外，Material You受到了广大开发者的追捧。越来越多的开发者将他们的APP设计从MD2迁移到Material You，或者在APP中加入Monet取色，并基于Material You进行了很多UI的创新。
 
 国内开发者大多喜欢自造轮子，不过也有不少开发者喜爱Material You，他们主要活跃于酷安、少数派等平台。同时，一些Magisk/KernelSU模块开发者热衷于Monet取色，他们为第三方未支持取色的应用开发了取色模块，并研究出了一套适配规则，具体可在酷安搜索“All Monet”。
 
 然而，除了Google和Meta (WhatsApp Beta) 以外，目前并未发现有大厂青睐Material You并将其用于APP的开发，国内国外都算上。
 
-### ❓️为什么会有这个列表？
+## ❓️为什么会有这个列表？
 - 首先当然是想让更多人了解Material You，感受Material You的奇妙魔法XD
 - 想让更多Material You爱好者检索软件方便、准确，毕竟想做一个最全最详细的Material You Applists desuwa~
 - 其实Material You Applists已经有人做出来了，流传也很广，相信大家也有所了解，但是似乎列表里的应用不太全，国内的不少应用列表里都莫得，所以，不如自己~~造个轮子~~吧！
 
 **同时，欢迎米娜桑帮助我补充下你们遇到的Material You应用！**
-### 🏷️标签说明
+## 🏷️标签说明
 针对每个应用不同的情况，我在列表中给出了几种标签，它们的含义见下：
 
 （非常绕，希望不要被绕晕…）
@@ -80,9 +80,9 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 |**`Monet`**|🚫|✅|
 |**`Full`**|✅|✅|
 
-### 💖感谢
+## 💖感谢
 - **特别感谢**：[Material-You-app-list](https://github.com/nyas1/Material-You-app-list)，目前最著名的Material You APP收集
-## 📜目录
+# 📜目录
 - [🦖 谷歌应用](#谷歌应用)
 - [👨‍💻 OEM厂商/类原生定制应用](#oem%E5%8E%82%E5%95%86%E7%B1%BB%E5%8E%9F%E7%94%9F%E5%AE%9A%E5%88%B6%E5%BA%94%E7%94%A8)
 - [👥 聊天社交](#聊天社交)
@@ -99,7 +99,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [#️⃣ Root/ADB](#%EF%B8%8F%E2%83%A3rootadb)
 - [🎮 游戏](#游戏)
 - [🪄 Monet取色修改模块](#monet取色修改模块)
-## 🏆小编推荐
+# 🏆小编推荐
 *下面是我认为最赞的20个Material You应用，从设计、功能上都很好的满足了我对Material You的想象w（排名不分先后）*
 - [vvex](https://github.com/guozhigq/flutter_v2ex) **`Full` `Multi`**
 - [FocusPodcast](https://play.google.com/store/apps/details?id=allen.town.focus.podcast) **`Full` `Multi`**
@@ -121,7 +121,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Journey](https://play.google.com/store/apps/details?id=com.journey.app) **`MD` `Multi`**
 - [InstallerX](https://github.com/iamr0s/InstallerX) **`Full` `Multi`**
 - [雹](https://github.com/aistra0528/Hail) **`Full` `Multi`**
-## 🆕最近上新
+# 🆕最近上新
 少女祈祷中…
 - [Touch Find](https://play.google.com/store/apps/details?id=com.davesla.easyfind) **`Full`**
 - [Echo](https://play.google.com/store/apps/details?id=com.niven.chat) **`MD`**
@@ -138,9 +138,9 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Nekome](https://github.com/Chesire/Nekome) **`Full`**
 - [Plex Manager](https://github.com/sikelio/plexmanager) **`MD-`**
 - **`NEW`** [WS Proxy](https://gitlab.com/Nekogram/wsproxy) **`Full`**
-## 📱应用列表
+# 📱应用列表
 **点击标题即可回到目录XD**
-### 🦖[谷歌应用](#目录)
+## 🦖[谷歌应用](#目录)
 作为Material Design 3的缔造者，谷歌几乎所有应用都在向MD3设计改变，这其中不乏优秀的产品。以下列出目前适配Material Design 3的谷歌官方应用。
 - [Google Clock](https://play.google.com/store/apps/details?id=com.google.android.deskclock) **`Full` `Multi`**
 - [Google Camera](https://play.google.com/store/apps/details?id=com.google.android.GoogleCamera) **`Full` `Multi`**
@@ -189,7 +189,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Android Device Policy](https://play.google.com/store/apps/details?id=com.google.android.apps.work.clouddpc) **`MD-` `Monet`**
 - [Personal Safety](https://play.google.com/store/apps/details?id=com.google.android.apps.safetyhub) **`MD`**
 ---
-### 👨‍💻[OEM厂商/类原生定制应用](#目录)
+## 👨‍💻[OEM厂商/类原生定制应用](#目录)
 据我所知，目前：
 - **Moto MyUI**
 - **ASUS Zenui**
@@ -228,7 +228,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 注：crDroid、Octavi OS的其他系统应用之后会考虑上传（如果它们在其他手机上可用）。
 
 ---
-### [👥聊天社交](#目录)
+## [👥聊天社交](#目录)
 - **通讯录/拨号/短信**   
 	- [Simple Contacts](https://github.com/SimpleMobileTools/Simple-Contacts) **`Full`**
 	- [Connect You](https://github.com/Bnyro/ConnectYou) **`Full`**
@@ -283,7 +283,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [FluffyChat](https://gitlab.com/famedly/fluffychat) **`Full` `Multi`**
 	- [Blog2App](https://play.google.com/store/apps/details?id=com.boltuix.blogtoapp) **`MD`**
 ---
-## [🎵媒体播放](#目录)
+# [🎵媒体播放](#目录)
 - **YouTube/YouTube Music第三方**
 	- [InnerTune](https://github.com/z-huang/InnerTune) **`MD-` `Monet` `Multi`**
 	- [LibreTube](https://github.com/libre-tube/LibreTube) **`Full`**
@@ -355,7 +355,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Ambient Music Mod](https://github.com/KieronQuinn/AmbientMusicMod) **`Full` `MOD`**
 	- [卡音](http://music.ijanz.cn/) **`MD`**
 ---
-## [✍写写画画](#目录)
+# [✍写写画画](#目录)
 - **笔记**
 	- [flowte](https://www.coolapk1s.com/feed/42984209) **`Full`**
 	- [Saber](https://github.com/adil192/saber) **`Full` `Multi`**
@@ -416,7 +416,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [卡片盒子](https://www.coolapk.com/apk/cards.putin.box) **`MD-`**
 	- [Hammer](https://github.com/Wavesonics/hammer-editor) **`MD`**
 ---
-## [🖼️图片摄像](#目录)
+# [🖼️图片摄像](#目录)
 - **相机**
 	- [Simple Camera](https://github.com/SimpleMobileTools/Simple-Camera) **`Full`**
 	- [Selfie Time Lapse](https://play.google.com/store/apps/details?id=com.isidroid.sfa) **`MD`**
@@ -439,7 +439,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Graphie](https://play.google.com/store/apps/details?id=com.pavelrekun.graphie) **`Full`**
 	- [Momentum Editor](https://play.google.com/store/apps/details?id=com.lware.momentum) **`MD`**
 ---
-## [🌐浏览器](#目录)
+# [🌐浏览器](#目录)
 - [FOSS Browser](https://github.com/scoute-dich/browser) **`Full` `Multi`**
 - [Stage浏览器](https://github.com/thalloerupt/stage2) **`Full` `Multi`**
 - [狐猴浏览器](https://play.google.com/store/apps/details?id=com.lemurbrowser.exts) **`Full` `Multi`**
@@ -453,7 +453,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 - [Vivaldi](https://play.google.com/store/apps/details?id=com.vivaldi.browser) **`Monet`**
 - [Hermit](https://play.google.com/store/apps/details?id=com.chimbori.hermitcrab) **`Full` `Multi`**
 ---
-## [📖阅读](#目录)
+# [📖阅读](#目录)
 - **小说**
 	- [Ranobe](https://github.com/ranobe-org/ranobe) **`Full`**
 	- [IReader](https://github.com/IReaderorg/IReader) **`MD`**
@@ -495,7 +495,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [CopyMangaX](https://github.com/CrowForKotlin/CopyMangaX) **`MD`**
 	- [NoyAcg](https://noy.asia/) **`MD-`**
 ---
-## [🌦️日常生活](#目录)
+# [🌦️日常生活](#目录)
 - **钱包记账**
 	- [小星记账](https://www.coolapk.com/apk/com.cxincx.xxjz) **`MD`**
 	- [Paisa](https://play.google.com/store/apps/details?id=dev.hemanths.paisa) **`Full` `Multi`**
@@ -624,7 +624,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
 	- [Food-E](https://github.com/SuhasDissa/Food-E-App) **`Full`**
 	- [MemorizeApp](https://github.com/SuhasDissa/MemerizeApp) **`Full`**
 ---
-## [🖌️主题美化](#目录)
+# [🖌️主题美化](#目录)
 - **启动器**
    	- [Niagara Launcher](https://play.google.com/store/apps/details?id=bitpit.launcher) **`Full` `Multi`**    
    	- [Lawnchair](https://t.me/youthkinga/6339) (A13) **`Full` `Multi`**    
@@ -735,7 +735,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [ComboSkin for 4PDA forum app](https://github.com/PycmShoma/4PDA-ComboSkin-MaterialYou) **`Monet`**    
    	- [Theme Engine](https://github.com/prathameshmm02/ThemeEngine) **`Full`**
 ---
-## [⚙️系统工具](#目录)
+# [⚙️系统工具](#目录)
 - **文件管理**
    	- [质感文件](https://github.com/zhanghai/MaterialFiles) **`Full` `Multi`**
    	- [Simple File Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) **`Full`**
@@ -867,7 +867,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Language Selecter](https://github.com/VegaBobo/Language-Selector) **`Full`**
    	- [EdgeBlock](https://play.google.com/store/apps/details?id=flar2.edgeblock) **`Full`**
 ---
-## [🧰小工具](#目录)
+# [🧰小工具](#目录)
 - **下载器**
    	- [ADM](https://play.google.com/store/apps/details?id=com.dv.adm) **`Monet` `Multi`**    
    	- [Seal](https://github.com/JunkFood02/Seal) **`Full`**    
@@ -1027,7 +1027,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Sound Meter](https://play.google.com/store/apps/details?id=com.codeclickers.soundmeter) **`Full`**
    	- [Simple Thank You](https://github.com/SimpleMobileTools/Simple-Thank-You) **`Full`**
 ---
-## [🔧开发工具](#目录)
+# [🔧开发工具](#目录)
 - **服务器**
    	- [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) **`Full` `Multi`**    
    	- [My Server Status](https://github.com/JGeek00/my-server-status-app) **`Full`**    
@@ -1064,7 +1064,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Maybe](https://1drv.ms/u/s!Atk49Scq_BtYhHpVn8A3ZDu-aKHX?e=51dtFM) **`Full`**
    	- [TermPlux](https://github.com/TermPlux/TermPlux-App) **`MD-` `Monet`**
 ---
-## [#️⃣Root/ADB](#目录)
+# [#️⃣Root/ADB](#目录)
 - **管理器**
    	- [Magisk Monet](https://github.com/datnerdguy/Magisk-Monet) **`Full`**    
    	- [Magisk Delta](https://github.com/HuskyDG/magisk-files) **`Full`**    
@@ -1126,7 +1126,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [Smart Dock](https://github.com/axel358/smartdock) **`Full`**
    	- [GApps Mod](https://github.com/jacopotediosi/GAppsMod) **`Full`**
 ---
-## [🎮游戏](#目录)
+# [🎮游戏](#目录)
 - **模拟器**
    	- [Skyline](https://skyline-emu.com/) **`Full`**    
    	- [Lemuroid](https://github.com/Swordfish90/Lemuroid) **`MD-` `Monet`**    
@@ -1173,7 +1173,7 @@ Material Design 3伴随着Android 12而来。它的诞生，彻底改变了人�
    	- [PCR Tool](https://www.coolapk.com/apk/cn.wthee.pcrtool) **`Full` `Multi`**
    	- [Yumesuki](https://github.com/nullxception/yumetsuki) **`TODO`**
 ---
-### [🪄Monet取色修改模块](#目录)
+## [🪄Monet取色修改模块](#目录)
 - [Monet-All](https://github.com/YangguangZhou/Monet-All)（为微信、B站等应用添加Monet取色）
 - [MIUI Monet Project](https://t.me/MIUIMonetUpdate)（现转为收费项目，为MIUI应用及系统界面添加Monet取色）
 - [自主制作三方应用Monet取色](https://www.coolapk1s.com/feed/38873051)[模块教程](https://www.coolapk.com/feed/38873051)
