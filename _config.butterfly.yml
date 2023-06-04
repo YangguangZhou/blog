@@ -390,7 +390,7 @@ chat_btn: true
 # tidio
 # https://www.tidio.com/
 tidio:
-  enable: true
+  enable: false
   public_key: fodbfserjbldd3xxm0uvbh6nltjp4i80
 
 # post_pagination (分页)
