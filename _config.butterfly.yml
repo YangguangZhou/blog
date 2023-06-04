@@ -164,6 +164,9 @@ related_post:
 reward:
   enable: true
   QR_code:
+    - img: https://pay.jerryz.com.cn/qrcode.png
+      link: https://pay.jerryz.com.cn
+      text: 万能收款码
     - img: https://img.examcoo.com/ask/7386438/202112/163940919901510.png
       link:
       text: 微信
