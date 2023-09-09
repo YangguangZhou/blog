@@ -38,7 +38,7 @@ inject:
     - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
     - <link rel="stylesheet" href="https://unpkg.com/heti/umd/heti.min.css">
     - <link rel="stylesheet" href="https://unpkg.com/@waline/client@2.15.0/dist/waline-meta.css" />
-    - <script async src="https://um.jerryz.com.cn/script.js" data-website-id="8eae608d-40e3-4298-8be2-f16799919666"></script>
+    - <script async src="https://analytics.umami.is/script.js" data-website-id="560b851a-9094-441d-9fa0-58df1f236b07"></script>
     # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StylishThemes/GitHub-Dark@master/github-dark.user.css">
   # javascript
   bottom:
