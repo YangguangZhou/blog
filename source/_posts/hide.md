@@ -8,4 +8,6 @@ hidden: true
 
 [C++ 学习](/article/cpp-learning)
 
+[LaTeX 常用写法](/article/LaTeX)
+
 [Material You 软件仓库](/article/Material-You-App-Repository)
