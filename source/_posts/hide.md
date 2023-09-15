@@ -8,6 +8,8 @@ hidden: true
 
 [C++ 学习](/article/cpp-learning)
 
-[LaTeX 常用写法](/article/LaTeX)
+[LaTeX 常用写法1](/article/LaTex)
+
+[LaTeX 常用写法2](https://www.luogu.com.cn/paste/yv87ocpg)
 
 [Material You 软件仓库](/article/Material-You-App-Repository)
