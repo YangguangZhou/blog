@@ -4,7 +4,9 @@ date: '2023/09/15 23:58:01'
 hidden: true
 ---
 
-[理科学习](/article/senior-high-learning)
+[高中学习](/article/senior-high-learning)
+
+[必修一必背古诗词](/article/poem)
 
 [C++ 学习](/article/cpp-learning)
 
