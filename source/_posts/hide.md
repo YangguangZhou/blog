@@ -2,6 +2,7 @@
 title: 隐藏文章
 date: '2023/09/15 23:58:01'
 hidden: true
+abbrlink: 54117
 ---
 
 [高中学习](/article/senior-high-learning)

@@ -2,6 +2,7 @@
 title: 高中学习
 date: '2023/09/16 00:01:01'
 hidden: true
+abbrlink: 62745
 ---
 # 语文
 ![](../img/语文高考.jpg)

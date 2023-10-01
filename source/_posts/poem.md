@@ -1,13 +1,14 @@
 ---
 title: 部编版语文必修上必背古诗文19首
 date: '2023/07/31 15:53:36'
-categories: 
+categories:
   - 学习
-tags: 
+tags:
   - 学习
   - 语文
   - 古诗词
 keywords: '学习,语文,古诗词,新高一,必修上,高中'
+abbrlink: 20878
 ---
 
 <h1 align='center'>《沁园春·长沙》</h1>

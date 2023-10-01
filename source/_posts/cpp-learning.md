@@ -2,6 +2,7 @@
 title: C++学习
 date: '2023/09/16 00:01:01'
 hidden: true
+abbrlink: 8279
 ---
 
 # 初赛/基础知识
