@@ -52,7 +52,7 @@ keywords: '题解,P9744,C++,洛谷,Luogu'
 
 # 复杂度
 
-时间复杂度为 $O(n+q \times m)$ ，
+时间复杂度为 $O(n+q \times m)$ 。
 
 # 代码
 
