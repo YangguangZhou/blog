@@ -1,5 +1,5 @@
 ---
-title: 洛谷P9744 「KDOI-06-S」消除序列
+title: 洛谷P9744 「KDOI-06-S」消除序列 题解
 date: '2023/10/18 13:28:01' 
 categories: 
   - C++题解 
