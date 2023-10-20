@@ -71,16 +71,6 @@ void addEdge(int u,int v,int w){
     head[u]=cnt;
 }
 
-void dfs(int u){
-    for(int i=head[u];i;i=e[i].nxt){
-        int v=e[i].to,w=e[i].w;
-        if(!vis[v]){
-            vis[v]=1;
-            dfs(v);
-        }
-    }
-}
-
 void dijkstra(int s){
 	priority_queue<heap> q;
 	memset(dis,0x3f,sizeof(dis));
