@@ -1,5 +1,5 @@
 ---
-title: 洛谷P9752 [CSP-S 2023] 密码锁
+title: 洛谷P9752 [CSP-S 2023] 密码锁 题解
 date: '2023/10/21 23:33:33' 
 categories: 
   - C++题解 
