@@ -18,7 +18,7 @@ keywords: '题解,P9756,C++,洛谷,Luogu'
 
 # 题目分析
 
-利用 $cnt$ 变量记录所有椅子可以按要求摆放在几张桌子旁。对于每一个 $a_i$ ，$cnt=cnt+\lfloor \frac{a_i}{4} \rfloor$ 。如果 $cnt \geq n$ ，则方案存在。
+利用 $cnt$ 变量记录所有椅子可以按要求摆放在几张桌子旁。对于每一个 $a_i$ ，$cnt=cnt+\lfloor \frac{a_i}{4} \rfloor$。如果 $cnt \geq n$ ，则方案存在。
 
 其中，需要特判这几种方案不存在的情况：
 
