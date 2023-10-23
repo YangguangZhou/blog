@@ -165,7 +165,7 @@ reward:
   enable: true
   QR_code:
     - img: https://pay.jerryz.com.cn/qrcode.png
-      link: https://pay.jerryz.com.cn
+      link: https://pay.jerryz.com.cn/sponsor
       text: 万能收款码
     - img: https://img.examcoo.com/ask/7386438/202112/163940919901510.png
       link:
@@ -385,13 +385,13 @@ sharejs:
 
 # Chat Button [recommend]
 # It will create a button in the bottom right corner of website, and hide the origin button
-chat_btn: true
+# chat_btn: true
 
 # tidio
 # https://www.tidio.com/
-tidio:
-  enable: false
-  public_key: fodbfserjbldd3xxm0uvbh6nltjp4i80
+# tidio:
+#   enable: false
+#   public_key: fodbfserjbldd3xxm0uvbh6nltjp4i80
 
 # post_pagination (分页)
 # value: 1 || 2 || false
