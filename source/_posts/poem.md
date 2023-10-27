@@ -6,8 +6,8 @@ categories:
 tags:
   - 学习
   - 语文
-  - 古诗词
-keywords: '学习,语文,古诗词,新高一,必修上,高中'
+  - 古诗文
+keywords: '学习,语文,古诗文,新高一,必修上,高中'
 abbrlink: 20878
 cover: 'https://img.examcoo.com/ask/7386438/202310/169816329996090.png'
 ---
