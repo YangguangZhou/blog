@@ -14,6 +14,8 @@ description: 可以插入Markdown文件或HTML网页的计数器
 
 可以插入Markdown文件或HTML网页的计数器
 
+[GitHub Repo](https://github.com/YangguangZhou/Counter)
+
 ![Vercel](https://vercel.jerryz.com.cn/api/YangguangZhou/Counter)
 
 Powered by [Vercel](https://vercel.com/) and [Aircode](https://aircode.io/)
@@ -38,7 +40,7 @@ Powered by [Vercel](https://vercel.com/) and [Aircode](https://aircode.io/)
 
 代码块前后也可以插入文字，例如：
 
-<center>您是该网页的第 ![Counter](https://counter.jerryz.com.cn/counter?name=counter) 位访客。</center>
+<center>您是该网页的第 <img src="https://counter.jerryz.com.cn/counter?name=counter" alt="Counter"> 位访客。</center>
 
 
 ## 参数说明
