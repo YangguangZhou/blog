@@ -38,7 +38,7 @@ Powered by [Vercel](https://vercel.com/) and [Aircode](https://aircode.io/)
 
 代码块前后也可以插入文字，例如：
 
-您是该网页的第 <img src="https://counter.jerryz.com.cn/counter?name=counter" alt="Counter" style="display: inline;"> 位访客。
+<center>您是该网页的第 ![Counter](https://counter.jerryz.com.cn/counter?name=counter) 位访客。</center>
 
 
 ## 参数说明
