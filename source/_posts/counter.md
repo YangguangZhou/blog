@@ -40,7 +40,9 @@ Powered by [Vercel](https://vercel.com/) and [Aircode](https://aircode.io/)
 
 代码块前后也可以插入文字，例如：
 
-<center>您是该网页的第 <img src="https://counter.jerryz.com.cn/counter?name=counter" alt="Counter"> 位访客。</center>
+```markdown
+您是该网页的第 ![Counter](https://counter.jerryz.com.cn/counter?name=counter) 位访客。
+```
 
 
 ## 参数说明
