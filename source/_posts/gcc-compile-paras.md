@@ -1,13 +1,14 @@
 ---
 title: 常见的 GCC C++ 编译选项
 cover: 'https://img.examcoo.com/ask/7386438/202205/165147777180700.png'
-date: '2022/05/02 15:16:56'
+date: '2023/05/02 15:16:56'
 categories:
   - 编程
 tags:
   - 编程
   - C++
-keywords: '编程,C++,cpp.gcc,g++,编译'
+  - NOI Linux
+keywords: '编程,C++,cpp.gcc,g++,编译,NOI Linux'
 abbrlink: 43354
 ---
 
@@ -28,6 +29,15 @@ g++ hello.cpp -o hello  -I /opt/include -isystem /usr/include -L /opt/include -l
 
 ```
 g++ hello.cpp -O2 --std=c++14
+```
+
+编译后的代码，如果没有指定输出文件，默认将会输出到 `a.out
+` 中
+
+如果要运行编译后的代码，可以使用以下命令
+
+```
+./a.out
 ```
 
 # 路径和链接库
