@@ -186,7 +186,7 @@ aside:
   # 公告栏
   card_announcement:
       enable: true
-      content: 如果您觉得文章对您用帮助，您可以前往这里 <a herf="https://pay.jerryz.com.cn/sponsor/" target="_blank" >支持作者</a> ，或者您也可以点击页面内的一两个广告为我带来一些收入。   #修改此处
+      content: 如果您觉得文章对您用帮助，您可以前往 https://pay.jerryz.com.cn/sponsor/ 支持作者</a> ，或者您也可以点击页面内的一两个广告为我带来一些收入。   #修改此处
   card_author:
     enable: true
     description: 永远相信美好的事情即将发生
@@ -295,9 +295,9 @@ theme_color:
   hr_color: "#A4D8FA"
   toc_color: "#279cff"
 
-# canvas_fluttering_ribbon:
-#   enable: true
-#   mobile: true # false 手机端不显示 true 手机端显示
+canvas_fluttering_ribbon:
+  enable: true
+  mobile: true # false 手机端不显示 true 手机端显示
 
 # 美化页面显示
 beautify:
@@ -416,16 +416,16 @@ google_adsense:
 
 # HexoPlusPlus Talk
 # see https://hexoplusplus.js.org
-hpptalk:
-  enable: true 
-  domain: hpp.jerryz.com.cn
-  path: hpptalk
-  limit: 8
-  start: 0
-  js: https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@latest/talk_user.js
-  css: https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@latest/talk.css
+# hpptalk:
+#   enable: true 
+#   domain: hpp.jerryz.com.cn
+#   path: hpptalk
+#   limit: 8
+#   start: 0
+#   js: https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@latest/talk_user.js
+#   css: https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@latest/talk.css
 
-vanta:
-  enable: true
-  effect: birds
-  # option:
+# vanta:
+#   enable: true
+#   effect: birds
+#   # option:
