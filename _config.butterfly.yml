@@ -7,7 +7,7 @@ menu:
   留言板: /messageboard/ || fas fa-comments
   # 说说: /shuoshuo/ || fas fa-comment-dots
   友链|| fas fa-link:
-      Links: https://links.jerryz.com.cn/go/ || fas fa-link
+      Links: https://links.jerryz.com.cn/go/ || iconfont icon-Links
       开往: https://www.travellings.cn/go.html || fas fa-train-subway
       # 虫洞: http://foreverblog.cn/go.html || far fa-circle
   # 关于: /article/about/ || fas fa-heart
@@ -33,8 +33,10 @@ about_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 inject:
   # css
   head:
-    # - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_2954574_aar1gzrlpuj.css">
-    - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_3891026_wggdqlhqrxg.css">
+    # 图标
+    - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_2954574_1ck6xsanalb.css">
+    # Links
+    # - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_3891026_wggdqlhqrxg.css">
     - <link rel="stylesheet" href="/css/mycss.css">
     - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
     - <link rel="stylesheet" href="https://unpkg.com/heti/umd/heti.min.css">
@@ -218,12 +220,12 @@ busuanzi:
   site_pv: true
   page_pv: true
   
-# # 網頁運行時間
-# runtimeshow:
-#   enable: true
-#   publish_date: 20/11/2021/ 00:00:00
-#   #格式: 月/日/年 時間
-#   #也可以 年/月/日 時間
+# 網頁運行時間
+runtimeshow:
+  enable: true
+  publish_date: 2021/11/27 22:15:23
+  #格式: 月/日/年 時間
+  #也可以 年/月/日 時間
 
 # # Typewriter Effect (打字效果)
 # # https://github.com/disjukr/activate-power-mode
