@@ -414,14 +414,6 @@ google_adsense:
   client: ca-pub-2597042766299857 # 填入个人识别码
   enable_page_level_ads: true
 
-pwa:
-  enable: true
-  manifest: /manifest.json
-  apple_touch_icon: /img/favicon/favicon.png
-  favicon_32_32: /img/favicon/32.png
-  favicon_16_16: /img/favicon/16.png
-  mask_icon: /img/favicon/favicon.svg
-
 # HexoPlusPlus Talk
 # see https://hexoplusplus.js.org
 hpptalk:

@@ -13,6 +13,7 @@
     "hexo-browsersync": "^0.3.0",
     "hexo-butterfly": "^1.0.0",
     "hexo-butterfly-clock": "^1.0.7",
+    "hexo-butterfly-hpptalk": "^1.0.4",
     "hexo-deployer-git": "^3.0.0",
     "hexo-filter-nofollow": "^2.0.2",
     "hexo-generator-archive": "^2.0.0",
@@ -26,7 +27,6 @@
     "hexo-generator-tag": "^2.0.0",
     "hexo-hide-posts": "^0.2.0",
     "hexo-math": "^4.0.0",
-    "hexo-offline": "^2.0.1",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-jade": "^0.5.0",
     "hexo-renderer-markdown-it": "^6.1.0",
@@ -39,6 +39,7 @@
     "hexo-util": "^3.0.1",
     "hexo-wordcount": "^6.0.1",
     "markdown-toc": "^1.2.0",
+    "npm-check-updates": "^16.14.12",
     "package-lock.json": "^1.0.0",
     "package.json": "^2.0.1"
   },
