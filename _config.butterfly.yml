@@ -427,3 +427,8 @@ pwa:
 hpptalk:
   enable: true 
   domain: hpp.jerryz.com.cn
+  path: hpptalk
+  limit: 8
+  start: 0
+  js: https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@latest/talk_user.js
+  css: https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@latest/talk.css
