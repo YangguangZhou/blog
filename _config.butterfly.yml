@@ -186,7 +186,7 @@ aside:
   # 公告栏
   card_announcement:
       enable: true
-      content: 永远相信美好的事情即将发生  #修改此处
+      content: 如果您觉得文章对您用帮助，您可以前往 pay.jerryz.com.cn/sponsor <a herf="https://unpkg.com/">支持作者</a>   #修改此处
   card_author:
     enable: true
     description: 永远相信美好的事情即将发生
