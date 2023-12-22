@@ -424,3 +424,8 @@ hpptalk:
   start: 0
   js: https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@latest/talk_user.js
   css: https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@latest/talk.css
+
+vanta:
+  enable: true
+  effect: birds
+  # option:
