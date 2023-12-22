@@ -26,7 +26,7 @@ keywords: 'ChatGPT,PandoraNext,AI,国内,免费,GPT3.5,GPT4,Onekey,VISA'
 
 需要准备一个用于注册的邮箱。
 
-{% note warn %}
+{% note warning %}
 经测试 `@qq.com` 、 `@163.com` 和 `@126.com` 邮箱均不可用。
 
 建议使用 `@gmail.com` 或 `@outlook.com` 邮箱。
