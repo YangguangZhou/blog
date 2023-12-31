@@ -9,6 +9,7 @@ tags:
   - 编程 
   - C++ 
 keywords: '题解,P9744,C++,洛谷,Luogu' 
+cover: https://img.examcoo.com/ask/7386438/202312/170399557406620.png
 ---
 
 读题点[这里](https://www.luogu.com.cn/problem/P9744)
