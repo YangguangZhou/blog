@@ -10,6 +10,7 @@ tags:
   - C++
 keywords: '题解,CF1739B,C++,CodeForces'
 abbrlink: 3380
+cover: https://img.examcoo.com/ask/7386438/202312/170399453330930.png
 ---
 
 读题点 [这里](https://www.luogu.com.cn/problem/CF1739B)

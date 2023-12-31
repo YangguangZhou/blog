@@ -8,6 +8,7 @@ tags:
   - API
 keywords: Hexo,网站,API,计数器,markdown,HTML
 description: 可以插入Markdown文件或HTML网页的计数器
+cover: https://img.examcoo.com/ask/7386438/202312/170399415281190.png
 ---
 
 # Counter 计数器

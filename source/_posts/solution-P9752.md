@@ -9,6 +9,7 @@ tags:
   - 编程 
   - C++ 
 keywords: '题解,P9752,C++,洛谷,Luogu,CSP,NOIP,CSP-S,CSP提高组,CSP-S 2023,CSP 2023' 
+cover: https://img.examcoo.com/ask/7386438/202312/170399470348180.png
 ---
 
 读题点[这里](https://www.luogu.com.cn/problem/P9752)
