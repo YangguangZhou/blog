@@ -5,6 +5,7 @@ menu:
   标签: /tags/ || fas fa-tags
   分类: /categories/ || fas fa-folder-open
   留言板: /messageboard/ || fas fa-comments
+  图库: /gallery/ || fas fa-images
   # 说说: /shuoshuo/ || fas fa-comment-dots
   友链|| fas fa-link:
       Links: https://links.jerryz.com.cn/go/ || iconfont icon-Links
