@@ -3,6 +3,7 @@ title: 壁纸
 date: 2024-01-27 19:15:55
 description: 收藏的一些壁纸
 top_img: https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png
+comments: false
 type: galleryGroup
 ---
 {% gallery true %}
