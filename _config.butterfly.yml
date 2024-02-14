@@ -12,10 +12,11 @@ menu:
       开往: https://www.travellings.cn/go.html || fas fa-train-subway
       # 虫洞: http://foreverblog.cn/go.html || far fa-circle
   # 关于: /article/about/ || fas fa-heart
-  支持: https://pay.jerryz.com.cn/ || fas fa-heart
+  支持: https://p.jerryz.com.cn/pay?id=1 || fas fa-heart
   更多||fa fa-list:
     个人主页: https://jerryz.com.cn/ || fas fa-home
     GitHub: https://github.com/YangguangZhou || fab fa-github
+    工具和项目: https://tools.jerryz.com.cn/ || fas fa-toolbox
     站点监控: https://status.jerryz.com.cn/ || fas fa-signal
   #   音乐: /music/ || fas fa-music
   #   照片: /Gallery/ || fas fa-images
