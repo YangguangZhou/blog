@@ -8,14 +8,14 @@
   "dependencies": {
     "@neilsustc/markdown-it-katex": "^1.0.0",
     "ackee-tracker": "^5.1.0",
-    "hexo": "^7.0.0",
+    "hexo": "^7.1.1",
     "hexo-abbrlink": "^2.2.1",
     "hexo-browsersync": "^0.3.0",
     "hexo-butterfly": "^1.0.0",
     "hexo-butterfly-clock": "^1.0.7",
     "hexo-butterfly-hpptalk": "^1.0.4",
     "hexo-butterfly-vanta": "^1.0.0",
-    "hexo-deployer-git": "^3.0.0",
+    "hexo-deployer-git": "^4.0.0",
     "hexo-filter-nofollow": "^2.0.2",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-baidu-sitemap": "^0.1.9",
@@ -26,21 +26,21 @@
     "hexo-generator-search": "^2.4.3",
     "hexo-generator-sitemap": "^3.0.1",
     "hexo-generator-tag": "^2.0.0",
-    "hexo-hide-posts": "^0.2.0",
+    "hexo-hide-posts": "^0.4.2",
     "hexo-math": "^4.0.0",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-jade": "^0.5.0",
-    "hexo-renderer-markdown-it": "^6.1.0",
+    "hexo-renderer-markdown-it": "^7.1.1",
     "hexo-renderer-markdown-it-plus": "^1.0.6",
     "hexo-renderer-mathjax": "^0.6.0",
-    "hexo-renderer-stylus": "^2.1.0",
+    "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
     "hexo-tag-tiy": "0.0.2",
-    "hexo-theme-butterfly": "^4.11.0",
-    "hexo-util": "^3.0.1",
+    "hexo-theme-butterfly": "^4.13.0",
+    "hexo-util": "^3.2.0",
     "hexo-wordcount": "^6.0.1",
     "markdown-toc": "^1.2.0",
-    "npm-check-updates": "^16.14.12",
+    "npm-check-updates": "^16.14.15",
     "package-lock.json": "^1.0.0",
     "package.json": "^2.0.1"
   },
@@ -49,6 +49,6 @@
     "build": "hexo generate"
   },
   "devDependencies": {
-    "@waline/client": "^2.14.7"
+    "@waline/client": "^3.1.3"
   }
 }
