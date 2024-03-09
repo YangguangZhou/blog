@@ -326,11 +326,11 @@ fancybox: true
 # prefetch (预加载)
 instantpage: true
 
-# Pjax [Beta]
-# It may contain bugs and unstable, give feedback when you find the bugs.
-# https://github.com/MoOx/pjax
-pjax: 
+# https://github.com/vinta/pangu.js
+# Insert a space between Chinese character and English character (中英文之间添加空格)
+pangu:
   enable: true
+  field: post # site/post
 
 index_generator:
   path: ''
