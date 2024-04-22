@@ -8,6 +8,7 @@ menu:
   图库: /gallery/ || fas fa-images
   # 说说: /shuoshuo/ || fas fa-comment-dots
   友链|| fas fa-link:
+      友链: /links/ || fas fa-link
       Links: https://links.jerryz.com.cn/go/ || iconfont icon-Links
       开往: https://www.travellings.cn/go.html || fas fa-train-subway
       # 虫洞: http://foreverblog.cn/go.html || far fa-circle
