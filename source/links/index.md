@@ -2,14 +2,15 @@
 title: 友链 
 type: links
 top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
+comments: false
 ---
 
 # 友链
 
 <div id="qexo-friends"></div>
-<link rel="stylesheet" href="https://unpkg.com/qexo-static@1.6.0/hexo/friends.css"/>
+<link rel="stylesheet" href="https://unpkg.com/apursuer-qexo-friend-links@1.0.4/friends.css"/>
 
-<script src="https://unpkg.com/qexo-static@1.6.0/hexo/friends.js"></script>
+<script src="https://unpkg.com/apursuer-qexo-friend-links@1.0.4/friends.js"></script>
 <script>loadQexoFriends("qexo-friends", "https://qexo.jerryz.com.cn")</script>
 
 # 申请友链
@@ -74,7 +75,6 @@ top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
         </div>
     </div>
 </article>
-<script src="https://recaptcha.net/recaptcha/api.js?render=6LcEZ8MpAAAAANNHHMcWZPU5HbqZorfCTF34N7it"></script>
 <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
 <script>
 function TestUrl(url) {
@@ -108,40 +108,35 @@ function askFriend (event) {
         return;
     }
     event.target.classList.add('is-loading');
-    grecaptcha.ready(function() {
-          grecaptcha.execute('6LcEZ8MpAAAAANNHHMcWZPU5HbqZorfCTF34N7it', {action: 'submit'}).then(function(token) {
-              $.ajax({
-                type: 'get',
-                cache: false,
-                url: url,
-                dataType: "jsonp",
-                async: false,
-                processData: false,
-                //timeout:10000, 
-                complete: function (data) {
-                    if(data.status==200){
-                    $.ajax({
-                        type: 'POST',
-                        dataType: "json",
-                        data: {
-                            "name": name,
-                            "url": url,
-                            "image": image,
-                            "description": des,
-                            "verify": token,
-                        },
-                        url: 'https://qexo.jerryz.com.cn/pub/ask_friend/',
-                        success: function (data) {
-                            alert(data.msg);
-                        }
-                    });}
-                    else{
-                        alert("无法访问URL！");
+    $.ajax({
+        type: 'get',
+        cache: false,
+        url: url,
+        dataType: "jsonp",
+        async: false,
+        processData: false,
+        complete: function (data) {
+            if(data.status==200){
+                $.ajax({
+                    type: 'POST',
+                    dataType: "json",
+                    data: {
+                        "name": name,
+                        "url": url,
+                        "image": image,
+                        "description": des,
+                    },
+                    url: 'https://qexo.jerryz.com.cn/pub/ask_friend/',
+                    success: function (data) {
+                        alert(data.msg);
                     }
-                    event.target.classList.remove('is-loading');
-                }
-          });
-        });
+                });
+            }
+            else{
+                alert("无法访问URL！");
+            }
+            event.target.classList.remove('is-loading');
+        }
     });
 }
 </script>
