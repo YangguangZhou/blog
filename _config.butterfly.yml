@@ -7,13 +7,9 @@ menu:
   留言板: https://jerryz.com.cn/messageboard/ || fas fa-comments
   图库: /gallery/ || fas fa-images
   # 说说: /shuoshuo/ || fas fa-comment-dots
-  友链|| fas fa-link:
-      友链: /links/ || fas fa-link
-      Links: https://links.jerryz.com.cn/go/ || iconfont icon-Links
-      开往: https://www.travellings.cn/go.html || fas fa-train-subway
-      # 虫洞: http://foreverblog.cn/go.html || far fa-circle
+  友链: /links/ || fas fa-link
   # 关于: /article/about/ || fas fa-heart
-  支持: https://p.jerryz.com.cn/pay?id=1 || fas fa-heart
+  支持: https://pay.jerryz.com.cn/sponsor/ || fas fa-heart
   更多||fa fa-list:
     个人主页: https://jerryz.com.cn/ || fas fa-home
     GitHub: https://github.com/YangguangZhou || fab fa-github
