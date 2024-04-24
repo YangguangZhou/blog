@@ -44,7 +44,7 @@ top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
             <div class="field">
                 <label class="label">图标</label>
                 <div class="control has-icons-left">
-                    <input class="input" type="url" placeholder="您的网站图标（尽可能圆）" id="friend-icon" required>
+                    <input class="input" type="url" placeholder="您的网站图标" id="friend-icon" required>
                     <span class="icon is-small is-left">
                         <i class="fas fa-image"></i>
                     </span>
