@@ -25,7 +25,7 @@ top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
             <div class="field">
                 <label class="label">名称</label>
                 <div class="control has-icons-left">
-                    <input class="input" type="text" placeholder="您的站点名称" id="friend-name" required>
+                    <input class="input" type="text" placeholder="您的网站名称" id="friend-name" required>
                     <span class="icon is-small is-left">
                         <i class="fas fa-signature"></i>
                     </span>
@@ -34,12 +34,12 @@ top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
             <div class="field">
                 <label class="label">链接</label>
             <div class="control has-icons-left">
-                <input class="input" type="url" placeholder="您的站点主页链接" id="friend-link" required>
+                <input class="input" type="url" placeholder="您的网站主页链接" id="friend-link" required>
                 <span class="icon is-small is-left">
                     <i class="fas fa-link"></i>
                 </span>
             </div>
-            <p class="help ">请确保站点可以访问！</p>
+            <p class="help ">请确保网站可以访问！</p>
             </div>
             <div class="field">
                 <label class="label">图标</label>
@@ -53,7 +53,7 @@ top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
             <div class="field">
                 <label class="label">描述</label>
                 <div class="control has-icons-left">
-                    <input class="input" type="text" placeholder="请用一句话描述您的站点。" id="friend-des" required>
+                    <input class="input" type="text" placeholder="请用一句话描述您的网站。" id="friend-des" required>
                     <span class="icon is-small is-left">
                         <i class="fas fa-info"></i>
                     </span>
@@ -62,7 +62,7 @@ top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
             <div class="field">
                 <div class="control">
                     <label class="checkbox">
-                        <input type="checkbox" id="friend-check"/> 我提交的信息是真实的。
+                        <input type="checkbox" id="friend-check"/> 我提交的信息不是无意义的。
                     </label>
                 </div>
             </div>
@@ -91,7 +91,7 @@ function askFriend (event) {
     let image = $("#friend-icon").val();
     let des = $("#friend-des").val();
     if(!check){
-        alert("请勾选\"我提交的信息是真实的\"");
+        alert("请勾选\"我提交的信息不是无意义的\"");
         return;
     }
     if(!(name&&url&&image&&des)){
@@ -116,20 +116,21 @@ function askFriend (event) {
         processData: false,
         complete: function (data) {
             if(data.status==200){
-            $.ajax({
-                type: 'POST',
-                dataType: "json",
-                data: {
-                    "name": name,
-                    "url": url,
-                    "image": image,
-                    "description": des,
-                },
-                url: 'https://qexo.jerryz.com.cn/pub/ask_friend/',
-                success: function (data) {
-                    alert(data.msg);
-                }
-            });}
+                $.ajax({
+                    type: 'POST',
+                    dataType: "json",
+                    data: {
+                        "name": name,
+                        "url": url,
+                        "image": image,
+                        "description": des,
+                    },
+                    url: 'https://qexo.jerryz.com.cn/pub/ask_friend/',
+                    success: function (data) {
+                        alert(data.msg);
+                    }
+                });
+            }
             else{
                 alert("无法访问URL！");
             }
