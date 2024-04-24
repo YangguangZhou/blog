@@ -108,32 +108,19 @@ function askFriend (event) {
     }
     event.target.classList.add('is-loading');
     $.ajax({
-        type: 'get',
-        cache: false,
-        url: url,
-        dataType: "jsonp",
-        async: false,
-        processData: false,
-        complete: function (data) {
-            if(data.status==200){
-                $.ajax({
-                    type: 'POST',
-                    dataType: "json",
-                    data: {
-                        "name": name,
-                        "url": url,
-                        "image": image,
-                        "description": des,
-                    },
-                    url: 'https://qexo.jerryz.com.cn/pub/ask_friend/',
-                    success: function (data) {
-                        alert(data.msg);
-                    }
-                });
-            }
-            else{
-                alert("无法访问URL！");
-            }
+        type: 'POST',
+        dataType: "json",
+        data: {
+            "name": name,
+            "url": url,
+            "image": image,
+            "description": des,
+        },
+        url: 'https://qexo.jerryz.com.cn/pub/ask_friend/',
+        success: function (data) {
+            alert(data.msg);
+        },
+        complete: function () {
             event.target.classList.remove('is-loading');
         }
     });
