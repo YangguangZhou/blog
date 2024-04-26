@@ -1,46 +1,68 @@
 ---
-title: ChatGPT 国内免费注册、使用、充值
-date: '2023/12/21 21:56:01'
+title: ChatGPT 国内镜像站
+date: '2024/04/26 22:56:01'
 categories:
   - AI
 tags:
   - 编程
   - AI
   - ChatGPT
-description: '利用PandoraNext在国内注册、使用ChatGPT，利用Onekey虚拟VISA卡实现ChatGPT充值'
-keywords: 'ChatGPT,PandoraNext,AI,国内,免费,GPT3.5,GPT4,Onekey,VISA'
+description: 'CNChat-ChatGPT官网镜像站，支持GPTs、DALL·E-3 模型、所有 Plugin 插件功能。全态模型包括上传 PDF、图片进行分析、联网对话等功能'
+keywords: 'ChatGPT,PandoraNext,AI,国内,免费,GPT3.5,GPT4,镜像站'
 hidden: true
 ---
 
-如果你已经有 ChatGPT 账号了，请直接跳转到 [使用](#使用)。
+**[网址：cn.ai0.cn](https://cn.ai0.cn/)**
 
-# 注册
+### 特性
 
-利用 [PandoraNext](https://github.com/pandora-next/deploy) 实现国内免费注册、使用 ChatGPT。
+- 🛡️ **稳定**
+  自2023年3月份起开始运营，运营时间超过多数网站。拥有API备用站点，确保CNChat始终在线。
 
-使用PandoraNext注册，有以下几点优势：
- - 免梯
- - 免费
- - 数量不受限制
+- 🤖 **精准**
+  CNChat 支持 GPTs、DALL·E-3 模型、所有 Plugin 插件功能。全态模型包括上传 PDF、图片进行分析、联网对话等，无需担心封号风险。
 
-## 准备
+- ✨ **简洁**
+  使用体验与官网完全一致，能够第一时间体验到官网的所有新功能。与其他国内版本相比，CNChat 支持的功能更全面，使用体验更佳。
 
-需要准备一个用于注册的邮箱。
+- 🚀 **易用**
+  无需科学上网，内置多个 Plus 账号，无需担心次数限制，真正做到打开即用。
 
-{% note warning %}
-经测试 `@qq.com` 、 `@163.com` 和 `@126.com` 邮箱均不可用。
+![logo](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/cnchat.png){ width=200px }
 
-建议使用 `@gmail.com` 或 `@outlook.com` 邮箱。
-{% endnote %}
 
-如果没有上述邮箱，可以联系作者获取。
+## 简介
 
-## 步骤
+网址：https://cn.ai0.cn/
 
-1. 访问 [PandoraNext](https://chat1.zhile.io/) ，点击 `Sign up` 注册。
-2. 输入邮箱，点击 `Send verification code` 发送验证码。
-3. 登录邮箱，复制验证码，粘贴到 `Verification code` ，点击 `Sign up` 。
+CNChat的初衷是降低ChatGPT官网的使用门槛，CNChat支持的功能，包括但不限于如下：
 
-# 使用
+1. 使用体验与官网完全一致，可在第一时间体验到官网所有新功能。
+2. 无需科学上网。
+3. 内置多个Plus账号，不用担心次数不够。
+4. 支持所有GPTs功能：DALL·E-3模型等。
+5. 支持所有Plugin插件功能。
+6. 支持全态模型：上传PDF、图片进行分析。
+7. 支持联网对话功能。
+8. 无需担心封号风险。
+9. 对话隔离，他人无法看到你的对话内容，保护隐私。
+10. 相比于其他国内版的网站，CNChat支持的功能**更全面，使用体验更好**。
+11. 为保证账号安全，**禁止Creat GPTs**，这样是为了防止违规操作导致的封号。
 
-通过 [PandoraNext](https://chat1.zhile.io/) 就可以免梯使用了。
+![演示](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/1.png)
+
+## 定价
+
+🤖4.0会员价格：
+
+✨限时特惠✨
+
+- 日卡 3
+- 周卡 29
+- 月卡 49
+- 季卡 129
+- 年卡 399
+
+## 文档
+
+更多详细信息和使用说明请见 [CNChat文档](https://cn.jerryz.com.cn/)
