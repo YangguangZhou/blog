@@ -10,6 +10,7 @@ tags:
   - 洛谷
 keywords: '编程,GitHub,洛谷,Luogu,vercel,卡片,洛谷卡片'
 abbrlink: 51822
+description: 'Luogu-User-Card是一个动态生成洛谷用户数据卡片的工具,可以展示用户的基本信息、做题情况、咕值信息等,可以插入到个人主页、博客、GitHub等支持插入图片的地方'
 ---
 
 # [Luogu-User-Card](https://api.jerryz.com.cn/)
