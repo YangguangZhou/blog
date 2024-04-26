@@ -9,7 +9,7 @@ tags:
   - ChatGPT
 description: 'CNChat-ChatGPT官网镜像站，支持GPTs、DALL·E-3 模型、所有 Plugin 插件功能。全态模型包括上传 PDF、图片进行分析、联网对话等功能'
 keywords: 'ChatGPT,PandoraNext,AI,国内,免费,GPT3.5,GPT4,镜像站'
-hidden: true
+cover: 'https://img.examcoo.com/ask/7386438/202404/171414645629320.png'
 ---
 
 **[网址：cn.ai0.cn](https://cn.ai0.cn/)**
@@ -28,8 +28,7 @@ hidden: true
 - 🚀 **易用**
   无需科学上网，内置多个 Plus 账号，无需担心次数限制，真正做到打开即用。
 
-![logo](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/cnchat.png){ width=200px }
-
+<img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/cnchat.png" width="100px" alt="logo">
 
 ## 简介
 
