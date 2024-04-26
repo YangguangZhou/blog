@@ -1,7 +1,7 @@
 ---
 title: 留言板 
 type: messageboard
-top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
+top_img: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
 --- 
 
 # 留言板：

@@ -1,7 +1,7 @@
 ---
 title: 友链 
 type: links
-top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
+top_img: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
 ---
 
 # 友链
@@ -13,6 +13,25 @@ top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 <script>loadQexoFriends("qexo-friends", "https://qexo.jerryz.com.cn")</script>
 
 # 申请友链
+
+## 我的友链💕
+
+> 站点名称：Jerry Zhou的博客
+站点介绍：永远相信美好的事情即将发生
+站点链接：https://blog.jerryz.com.cn
+站点图标：https://img.examcoo.com/ask/7386438/202111/163626915705190.jpg
+
+## 友链交换须知🥰
+1. 友链网站必须为免费性质的**博客**。包括但不限于付费下载、付费浏览定义为非免费性质网站。一经发现，直接删除友联恕不通知。
+2. 友链的申请请在下方进行申请，申请前请先添加本站的友链。
+3. 友链的申请结果将会通过邮箱进行告知，请耐心等待。若长时间未显示，可以联系 i@jerryz.com.cn 。
+4. 友链网站现在可以在中国大陆区域正常访问，内容符合中国大陆法律法规。
+5. 友链将会被不定期进行检查，若出现违反以上的申请须知，我将会第一时间删除友链，恕不通知！
+
+
+{% hideToggle 免责声明 %}
+本博客遵守中华人民共和国相关法律。本页内容仅作为方便学习而产生的快速链接的链接方式，对与友情链接中存在的链接、好文推荐链接等均为其他网站。我本人能力有限无法逐个甄别每篇文章的每个字，并无法获知是否在收录后原作者是否对链接增加了违反法律甚至其他破坏用户计算机等行为。所以友链网站均可能存在风险，请你须知。
+{% endhideToggle %}
 
 <link rel="stylesheet" href="https://cdn.jerryz.com.cn/gh/YangguangZhou/blog@main/source/links/links.css"/>
 
