@@ -1,15 +1,16 @@
 ---
-title: 洛谷P9756 [COCI2022-2023#3] Estimathon 题解
-date: '2023/10/17 21:49:01' 
-categories: 
-  - C++题解 
-tags: 
-  - 洛谷 
-  - 题解 
-  - 编程 
-  - C++ 
-keywords: '题解,P9756,C++,洛谷,Luogu' 
-cover: https://img.examcoo.com/ask/7386438/202312/170399492862340.png
+title: '洛谷P9756 [COCI2022-2023#3] Estimathon 题解'
+date: '2023/10/17 21:49:01'
+categories:
+  - C++题解
+tags:
+  - 洛谷
+  - 题解
+  - 编程
+  - C++
+keywords: '题解,P9756,C++,洛谷,Luogu'
+cover: 'https://img.examcoo.com/ask/7386438/202312/170399492862340.png'
+abbrlink: 42126
 ---
 读题点[这里](https://www.luogu.com.cn/problem/P9756)
 

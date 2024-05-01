@@ -7,9 +7,12 @@ tags:
   - 编程
   - AI
   - ChatGPT
-description: 'CNChat - ChatGPT官网镜像站，支持GPTs、DALL·E-3 模型、所有 Plugin 插件功能。全态模型包括上传 PDF、图片进行分析、联网对话等功能'
+description: >-
+  CNChat - ChatGPT官网镜像站，支持GPTs、DALL·E-3 模型、所有 Plugin 插件功能。全态模型包括上传
+  PDF、图片进行分析、联网对话等功能
 keywords: 'ChatGPT,PandoraNext,AI,国内,免费,GPT3.5,GPT4,镜像站'
 cover: 'https://img.examcoo.com/ask/7386438/202404/171414645629320.png'
+abbrlink: 26443
 ---
 
 **[网址：cn.ai0.cn](https://cn.ai0.cn/)**

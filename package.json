@@ -3,13 +3,14 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "6.3.0"
+    "version": "7.2.0"
   },
   "dependencies": {
     "@neilsustc/markdown-it-katex": "^1.0.0",
     "ackee-tracker": "^5.1.0",
-    "hexo": "^7.1.1",
+    "hexo": "^7.2.0",
     "hexo-abbrlink": "^2.2.1",
+    "hexo-ai-excerpt": "^1.1.1",
     "hexo-browsersync": "^0.3.0",
     "hexo-butterfly": "^1.0.0",
     "hexo-butterfly-clock": "^1.0.7",

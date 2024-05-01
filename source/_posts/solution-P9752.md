@@ -1,15 +1,16 @@
 ---
-title: 洛谷P9752 [CSP-S 2023] 密码锁 题解
-date: '2023/10/21 23:33:33' 
-categories: 
-  - C++题解 
-tags: 
-  - 洛谷 
-  - 题解 
-  - 编程 
-  - C++ 
-keywords: '题解,P9752,C++,洛谷,Luogu,CSP,NOIP,CSP-S,CSP提高组,CSP-S 2023,CSP 2023' 
-cover: https://img.examcoo.com/ask/7386438/202312/170399521139050.png
+title: '洛谷P9752 [CSP-S 2023] 密码锁 题解'
+date: '2023/10/21 23:33:33'
+categories:
+  - C++题解
+tags:
+  - 洛谷
+  - 题解
+  - 编程
+  - C++
+keywords: '题解,P9752,C++,洛谷,Luogu,CSP,NOIP,CSP-S,CSP提高组,CSP-S 2023,CSP 2023'
+cover: 'https://img.examcoo.com/ask/7386438/202312/170399521139050.png'
+abbrlink: 4511
 ---
 
 读题点[这里](https://www.luogu.com.cn/problem/P9752)

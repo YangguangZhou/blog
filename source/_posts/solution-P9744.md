@@ -1,15 +1,16 @@
 ---
 title: 洛谷P9744 「KDOI-06-S」消除序列 题解
-date: '2023/10/18 13:28:01' 
-categories: 
-  - C++题解 
-tags: 
-  - 洛谷 
-  - 题解 
-  - 编程 
-  - C++ 
-keywords: '题解,P9744,C++,洛谷,Luogu' 
-cover: https://img.examcoo.com/ask/7386438/202312/170399557406620.png
+date: '2023/10/18 13:28:01'
+categories:
+  - C++题解
+tags:
+  - 洛谷
+  - 题解
+  - 编程
+  - C++
+keywords: '题解,P9744,C++,洛谷,Luogu'
+cover: 'https://img.examcoo.com/ask/7386438/202312/170399557406620.png'
+abbrlink: 2474
 ---
 
 读题点[这里](https://www.luogu.com.cn/problem/P9744)
