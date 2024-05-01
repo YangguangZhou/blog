@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+theme: anzhiyu
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -81,13 +81,6 @@ deploy:
   type: git
   repo: https://github.com/YangguangZhou/blog
   branch: master
-
-markdown:
-  plugins:
-    - plugin:
-      name: '@neilsustc/markdown-it-katex'
-      options:
-        strict: false
 
 # 自动生成sitemap
 sitemap:
