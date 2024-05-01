@@ -1,0 +1,92 @@
+---
+title: 高中学习
+date: '2023/10/27 17:56:01'
+hidden: true
+abbrlink: 62745
+---
+
+# 物理
+
+## 运动
+
+### 基本公式
+
+ - $v=\frac{\Delta x}{\Delta t}$
+ - $a=\frac{\Delta v}{\Delta t}$
+ - $v=v_0+at$
+ - $x=v_0t+\frac{1}{2}at^2$
+ - $v^2-v_0^2=2ax$
+
+### 拓展公式
+
+#### 匀变速直线运动
+
+ - 连续相等的相邻时间间隔 $T$ 内的位移差相等，即 $x_2-x_1=x_3-x_2=\ldots=x_n-x_{n-1}=aT^2$，可以推广到 $x_m-x_n=(m-n)aT^2$
+ - $\bar{v}=\frac{v_1+v_2}{2}=\frac{\Delta x}{\Delta t}=v_{\frac{t}{2}}$
+ - $v_{\frac{x}{2}}=\sqrt{\frac{v_0^2+v^2}{2}}$
+
+#### 初速度为 0 的匀加速直线运动
+
+!!!note
+    末速度为 $0$ 的匀减速直线运动与之相反
+
+ - $T$ 末、$2T$ 末、$3T$ 末、$\ldots$、$nT$ 末的瞬时速度之比为 $v_1:v_2:v_3:\ldots:v_n=1:2:3:\ldots:n$
+ - 前 $T$ 内、前 $2T$ 内、前 $3T$ 内、$\ldots$、前 $nT$ 内的位移之比为 $x_1:x_2:x_3:\ldots:x_n=1^2:2^2:3^2:\ldots:n^2$
+ - 第 $1$ 个 $T$ 内、第 $2$ 个 $T$ 内、第 $3$ 个 $T$ 内、$\ldots$、第 $n$ 个 $T$ 内的瞬时位移之比为 $x_1:x_2:x_3:\ldots:x_n=1:3:5:\ldots:(2n-1)$
+ - 通过连续相等的位移 $x$ 所用时间之比为 $t_1:t_2:t_3:\ldots:x_n=1:(\sqrt{2}-1):(\sqrt{3}-\sqrt{2}):\ldots:(\sqrt{n}-\sqrt{n-1})$
+
+#### 自由落体运动
+
+ - $v=\sqrt{2gh}$
+ - $t=\frac{v_0}{g}$
+
+#### 图像
+
+ - $a-t$ 图像：$S=\Delta v$
+ - $\frac{x}{t}-t$ 图像：$k=\frac{1}{2}a$，纵截距 $h=v_0$，$\frac{x}{t}=v_0+\frac{1}{2}at$
+ - $v^2-x$ 图像：$k=2a$，$v^2=v_0^2+2ax$
+ - $a-x$ 图像：$S=\frac{v^2-v_0^2}{2}$
+ - $v-x$ 图像：$v=\sqrt{v_0^2+2ax}$，$x=\frac{v^2-v_0^2}{2a}$
+
+# 化学
+
+## 物质的量
+
+### 物质的量
+$n$（$mol$）
+
+$n=\frac{N}{N_A}=\frac{m}{M}=\frac{V}{V_m}$
+
+### 阿伏加德罗常数
+$N_A$（$mol^{-1}$）
+
+$N_A\approx 6.02\times 10^{23}$
+
+### 粒子数
+$N$（$个$）
+
+$N=n \times N_a$
+
+### 摩尔质量
+$M$（$g/mol$）
+
+$M=\frac{m}{n}=$ 相对原子/分子质量 $=V_m\times \rho$
+
+$m=M \times n$
+
+### 气体摩尔体积
+$V_m$（$L/mol$）
+
+$V_m\approx 22.4L/mol$
+
+$V=n\times V_m$
+
+### 阿伏加德罗定律（**气体**）
+
+$pV=nRT$
+
+$p$ 为压强，$V$ 为体积，$n$ 为物质的量，$R$ 为常数，$T$ 为温度。
+
+在温度和压强相等的情况下，$\frac{V_1}{V_2}=\frac{N_1}{N_2}=\frac{n_1}{n_2}$，$\frac{\rho_1}{\rho_2}=\frac{M_1}{M_2}$
+
+在温度和体积相等的情况下，$\frac{p_1}{p_2}=\frac{N_1}{N_2}=\frac{n_1}{n_2}$
