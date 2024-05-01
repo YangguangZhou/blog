@@ -7,5 +7,5 @@ type: galleryGroup
 comments: false
 ---
 
-{% gallery url,https://cdn.jerryz.com.cn/gh/YangguangZhou/image@main/gallery.json,false,220,10 %}
-{% endgallery %}
+<!-- {% gallery url,https://cdn.jerryz.com.cn/gh/YangguangZhou/image@main/gallery.json,false,220,10 %} -->
+<!-- {% endgallery %} -->

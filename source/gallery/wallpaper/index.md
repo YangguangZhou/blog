@@ -6,7 +6,7 @@ top_img: https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png
 comments: false
 type: galleryGroup
 ---
-{% gallery true %}
+<!-- {% gallery true %} -->
 ![material-1.png](https://i.loli.net/2019/11/10/lP3rLNUBaGtSVzc.png)
 ![material-8.png](https://i.loli.net/2019/11/10/T7Mu8Aod3egmC4Q.png)
 ![material-6.png](https://i.loli.net/2019/11/10/53eTB2uiNRlXwFP.png)
@@ -57,4 +57,4 @@ type: galleryGroup
 ![material-2.png](https://i.loli.net/2019/11/10/gcnavZbmepS8d4u.png)
 ![material-5.png](https://i.loli.net/2019/11/10/3wkO7fuQpgda6vz.png)
 ![material-9.png](https://i.loli.net/2019/11/10/egVhFWopA5mP2Hk.png)
-{% endgallery %}
+<!-- {% endgallery %} -->
