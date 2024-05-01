@@ -1,7 +1,7 @@
 ---
 title: 友链 
 type: links
-top_img: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
+cover: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
 ---
 
 # 友链
