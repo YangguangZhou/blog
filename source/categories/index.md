@@ -1,6 +1,6 @@
 ---
 title: 分类
-type: categories 
+type: 'categories'
+date: 2021-04-06 12:01:51
 comments: false
-top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
 ---

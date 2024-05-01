@@ -11,7 +11,6 @@ abbrlink: 30026
 description: '本文介绍利用Vercel平台和OneManager程序搭建个人网盘的方法。文章首先介绍了Vercel和OneManager,接着列出了搭建所需的准备工作,然后详细讲解了在Vercel上部署OneManager的具体步骤,以及如何配置OneDrive、GoogleDrive和阿里云盘等不同存储方式。最后,作者分享了成功搭建的个人网盘,展示了其功能。通过这种方法,可以零成本拥有一个功能完善的个人网盘。'
 ---
 
-
 # 前言
 目前网络上已经有了不少搭建个人网盘的方法。但作为一名学生党，资金并非那么充裕，无法购买私有云。于是我便找到了这种零成本搭建个人网盘的方法。
 
@@ -38,12 +37,13 @@ GitHub地址： https://github.com/qkqpttgf/OneManager-php
 # 具体方法
 使用魔法访问 https://vercel.com
 
-![vercel.com](https://mydrive.jerryz.com.cn/Photos/28fde367a401c7f6d158f7eec00f9dfb.png)
+![vercel.com](https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/3803468_cea08981_7318_6522_775@864x1489.png.m.5j403xz2ay.jpg)
+
 
 点击Start Deploying，使用GitHub登录
 进入 https://vercel.com/account/tokens ，按下图的设置进行配置
 
-![配置](https://mydrive.jerryz.com.cn/Photos/110d948ff58b67670ab81d911b497c89.png)
+![配置](https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/3803468_67dcb9f8_7318_6526_918@864x1478.png.m.8kzw560l2d.jpg)
 
 点击Create，然后复制自己的token
 
@@ -56,7 +56,7 @@ https://github.com/qkqpttgf/OneManager-php/archive/refs/heads/master.zip 下载�
 
 在4.中填上项目的名称，然后点击Deploy
 
-![配置](https://mydrive.jerryz.com.cn/Photos/2911375011610061a1b711807b9decd1.png)
+![配置](https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/3803468_554ebd12_7318_6529_232@864x1221.png.m.9gwdkmacs0.jpg)
 
 部署成功后，打开提供的链接，按照提示设置密码
 到此，网盘就算部署完成了
@@ -69,7 +69,7 @@ https://github.com/qkqpttgf/OneManager-php/archive/refs/heads/master.zip 下载�
 
 选择想要新建的网盘，点击添加盘
 
-![设置界面](https://mydrive.jerryz.com.cn/Photos/7228653f4d3a3651ff41d1b4e8bd12af.png)
+![设置界面](https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/3803468_8fcb7896_7318_6533_472@1056x1132.png.m.5j403xzefl.jpg)
 
 ## OneDrive、GoogleDrive
 
@@ -79,13 +79,9 @@ https://github.com/qkqpttgf/OneManager-php/archive/refs/heads/master.zip 下载�
 
 打开 https://alist.nn.ci/zh/guide/drivers/aliyundrive.html ，点击获取Token，接下来扫描弹出的二维码即可获取refresh token。再回到网盘，新建阿里云盘，输入刚刚获取的refresh token即可
 
-![获取Token](https://mydrive.jerryz.com.cn/Photos/Screenshot_20230129-210624.png)
-
 最后，个人网盘就大功告成了
 你还可以自己探索设置中的更多选项，也可以在Vercel中绑定个人域名
 
 我的个人网盘： https://drive.jerryz.com.cn/ 
 
-![我的个人网盘](https://mydrive.jerryz.com.cn/Photos/f9d0bf8a2423657714fec0906833a84c.png)
-
-你也可以在[这里](https://drive.jerryz.com.cn/Drive/%E8%AE%BF%E5%AE%A2/)自由上传文件，把这里当作你的图床
+![我的个人网盘](https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/3803468_67528740_7318_6535_166@864x1357.png.m.2vejtl6fpy.jpg)
