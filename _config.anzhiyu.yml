@@ -152,7 +152,7 @@ category_img: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
 category_per_img: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
 
 # The banner image of home page
-index_img: false # "background: url() top / cover no-repeat"
+index_img: "background: url(https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg) top / cover no-repeat" # "background: url() top / cover no-repeat"
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
@@ -1043,37 +1043,37 @@ css_prefix: true
 
 # 首页顶部相关配置
 home_top:
-  enable: false # 开关
+  enable: true # 开关
   timemode: date #date/updated
   title: 生活明朗
   subTitle: 万物可爱。
-  siteText: anheyu.com
+  siteText: jerryz.com.cn
   category:
-    - name: 前端
-      path: /categories/前端开发/
+    - name: 编程
+      path: /categories/编程/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 大学
-      path: /categories/大学生涯/
+    - name: 题解
+      path: /categories/C++题解/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 生活
-      path: /categories/生活日常/
+    - name: AI
+      path: /categories/AI/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book
   default_descr: 再怎么看我也不知道怎么描述它的啦！
   swiper:
-    enable: false
+    enable: true
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css #swiper css依赖
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js #swiper js依赖
   banner:
-    tips: 新品主题
-    title: Theme-AnZhiYu
-    image: https://bu.dusays.com/2023/05/13/645fa3cf90d70.webp
-    link: https://docs.anheyu.com/
+    tips: ChatGPT官网镜像站
+    title: CNChat
+    image: https://img.examcoo.com/ask/7386438/202404/171414645629320.png
+    link: https://cn.jerryz.com.cn/
 
 # 朋友圈配置
 friends_vue:
