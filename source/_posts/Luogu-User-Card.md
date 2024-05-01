@@ -10,6 +10,7 @@ tags:
   - 洛谷
 keywords: '编程,GitHub,洛谷,Luogu,vercel,卡片,洛谷卡片'
 abbrlink: 51822
+main_color: '#279cff'
 description: 'Luogu-User-Card是一个动态生成洛谷用户数据卡片的工具,可以展示用户的基本信息、做题情况、咕值信息等,可以插入到个人主页、博客、GitHub等支持插入图片的地方'
 ---
 
@@ -19,9 +20,7 @@ description: 'Luogu-User-Card是一个动态生成洛谷用户数据卡片的工
 
 ---
 
-{% note info %}
-注意：为了不滥用洛谷服务器流量，本项目利用 vercel 的边缘缓存功能缓存了 12 小时数据，即同一个用户卡片 **24 小时内最多只会向洛谷服务器请求 2 次数据**，并且只有在用户访问卡片时才会请求数据。不过，可以在链接最后带上`&disable_cache=true`禁用缓存。
-{% endnote %}
+{% note info simple %}注意：为了不滥用洛谷服务器流量，本项目利用 vercel 的边缘缓存功能缓存了 12 小时数据，即同一个用户卡片 **24 小时内最多只会向洛谷服务器请求 2 次数据**，并且只有在用户访问卡片时才会请求数据。不过，可以在链接最后带上`&disable_cache=true`禁用缓存。{% endnote %}
 
 ---
 
