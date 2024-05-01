@@ -30,15 +30,17 @@ nav:
         - name: 个人主页
           link: https://jerryz.com.cn/
           icon: https://jerryz.com.cn/favicon.png
-        - name: 工具和项目
-          link: https://tools.jerryz.com.cn/
-          icon: https://cdn.jerryz.com.cn/gh/YangguangZhou/blog@main/source/img/tools.svg
         - name: 站点监控
           link: https://status.jerryz.com.cn/
           icon: https://status.jerryz.com.cn/favicon.ico
         - name: Alist 云盘
           link: https://cloud.jerryz.com.cn/
           icon: https://jsd.nn.ci/gh/alist-org/logo@main/logo.png
+    - title: 项目
+      item:
+        - name: 工具和项目
+          link: https://tools.jerryz.com.cn/
+          icon: https://cdn.jerryz.com.cn/gh/YangguangZhou/blog@main/source/img/tools.svg
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -111,7 +113,7 @@ docsearch:
 
 # Local search
 local_search:
-  enable: false
+  enable: true
   preload: true
   CDN:
 
@@ -1122,7 +1124,7 @@ comment_barrage_config:
 # 左下角音乐配置项
 # https://github.com/metowolf/MetingJS
 nav_music:
-  enable: true
+  enable: false
   console_widescreen_music: false # 宽屏状态控制台显示音乐而不是标签 enable为true 控制台依然会显示
   id: 8152976493
   server: netease
@@ -1233,6 +1235,8 @@ inject:
   head:
     # Links
     # - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_3891026_wggdqlhqrxg.css">
+    - <script defer src="mathjax_config.js"></script>
+    - <script type="text/javascript" id="MathJax-script" defer src="https://unpkg.com/mathjax@3/es5/tex-chtml.js"></script>
     - <link rel="stylesheet" href="https://unpkg.com/heti/umd/heti.min.css">
     - <link rel="stylesheet" href="https://unpkg.com/@waline/client@2.15.0/dist/waline-meta.css" />
     - <script async src="https://umami.jerryz.com.cn/script.js" data-website-id="a219fdba-6ff8-4e89-b50a-56124d4fc5fa"></script>
