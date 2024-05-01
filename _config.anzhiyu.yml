@@ -5,7 +5,7 @@ menu:
     标签: /tags/ || fas fa-tags
 
   友链:
-    友人帐: /links/ || fas fa-link
+    友人帐: /link/ || fas fa-link
     朋友圈: /fcircle/ || anzhiyu-icon-artstation
     留言板: https://jerryz.com.cn/messageboard/ || fas fa-comments
 
@@ -148,14 +148,14 @@ avatar:
 
 # Disable all banner image
 disable_top_img: false
-tag_img	tag: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
-category_img: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
+tag_img: false
+category_img: false
 
 # The banner image of home page
 index_img: "background: url(https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg) top / cover no-repeat" # "background: url() top / cover no-repeat"
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://img.examcoo.com/ask/7386438/202111/163673216190400.jpg
+default_top_img: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
 
 archive_img: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
 
@@ -1055,7 +1055,7 @@ home_top:
       class: blue
       icon: anzhiyu-icon-dove
     - name: 题解
-      path: /categories/C++题解/
+      path: /categories/C-题解/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
@@ -1145,7 +1145,7 @@ ptool:
 
 # 欢迎语配置
 greetingBox:
-  enable: true #开启后必须配置下面的list对应的时间段，不然会出现小白条
+  enable: false #开启后必须配置下面的list对应的时间段，不然会出现小白条
   default: 晚上好👋
   list:
     # - greeting: 晚安😴
@@ -1176,10 +1176,10 @@ greetingBox:
 # 文章顶部ai摘要
 post_head_ai_description:
   enable: true
-  gptName: AnZhiYu
+  gptName: ChatGPT
   mode: local # 默认模式 可选值: tianli/local
   switchBtn: false # 可以配置是否显示切换按钮 以切换tianli/local
-  btnLink: https://afdian.net/item/886a79d4db6711eda42a52540025c377
+  btnLink: https://cn.ai0.cn/
   randomNum: 3 # 按钮最大的随机次数，也就是一篇文章最大随机出来几种
   basicWordCount: 1000 # 最低获取字符数, 最小1000, 最大1999
   key: xxxx
@@ -1195,6 +1195,7 @@ shortcutKey:
 accesskey:
   enable: true
 
+# 友情链接顶部相关配置
 # 友情链接顶部相关配置
 linkPageTop:
   enable: true

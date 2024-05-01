@@ -1,18 +1,55 @@
 ---
 title: 友链 
-type: links
-cover: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
+top_img: false
+type: "link"
 ---
 
 # 友链
 
-<div id="qexo-friends"></div>
-<link rel="stylesheet" href="https://unpkg.com/qexo-static@1.6.0/hexo/friends.css"/>
+- class_name: 友链合集
+  class_desc: 一起共同进步
+  flink_style: anzhiyu
+  link_list:
+    - name: Links
+      link: https://links.jerryz.com.cn/go
+      avatar: https://cdn.jerryz.com.cn/gh/YangguangZhou/image@main/blog/24/4/Links.png
+      descr: 友链合集
+      recommend: true
+    - name: 开往
+      link: https://www.travellings.cn/go.html
+      avatar: https://cdn.jerryz.com.cn/gh/YangguangZhou/image@main/blog/24/4/travelling.png
+      descr: 友链相互接力
 
-<script src="https://unpkg.com/qexo-static@1.6.0/hexo/friends.js"></script>
-<script>loadQexoFriends("qexo-friends", "https://qexo.jerryz.com.cn")</script>
+- class_name: 小伙伴
+  class_desc: 那些人，那些事
+  flink_style: anzhiyu
+  link_list:
+    - name: Efu
+      link: https://www.efu.me/
+      avatar: https://s3.qjqq.cn/47/660a7ece07609.webp!color
+      descr: An Open Source worker.
+    - name: gorpeln的个人博客 - gorpeln
+      link: https://gorpeln.top/
+      avatar: https://gorpeln.top/favicon.ico
+      descr: 趁年轻，做自己想做的！
+    - name: 冬天的小窝
+      link: https://www.iamdt.cn/
+      avatar: https://img.iamdt.cn/2023/09/26/6512ccfe73f56.png
+      descr: 人生若只如初见，何事秋风悲画扇。
+    - name: 安知鱼
+      link: https://blog.anheyu.com/
+      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+      descr: 生活明朗，万物可爱
+    - name: 张洪Heo
+      link: https://blog.zhheo.com/
+      avatar: https://bu.dusays.com/2022/12/28/63ac2812183aa.png
+      descr: 分享设计与科技生活
+    - name: 马卡龙
+      link: https://blog.bsw8.com/
+      avatar: https://blog.bsw8.com/upload/bd0e3b556ab4ca8f95b1fb55ea959c04.jpg
+      descr: 马卡龙的博客
 
-# 申请友链
+<!-- # 申请友链
 
 ## 我的友链💕
 
@@ -143,4 +180,4 @@ function askFriend (event) {
         }
     });
 }
-</script>
+</script> -->
