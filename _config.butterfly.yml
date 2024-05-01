@@ -39,7 +39,6 @@ inject:
     # Links
     # - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_3891026_wggdqlhqrxg.css">
     - <link rel="stylesheet" href="/css/mycss.css">
-    - <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
     - <link rel="stylesheet" href="https://unpkg.com/heti/umd/heti.min.css">
     - <link rel="stylesheet" href="https://unpkg.com/@waline/client@2.15.0/dist/waline-meta.css" />
     - <script async src="https://umami.jerryz.com.cn/script.js" data-website-id="a219fdba-6ff8-4e89-b50a-56124d4fc5fa"></script>
@@ -411,7 +410,7 @@ index_post_content:
   length: 500 # if you set method to 2 or 3, the length need to config
 
 google_adsense:
-  enable: false
+  enable: true
   auto_ads: true
   js: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
   client: ca-pub-2597042766299857 # 填入个人识别码
