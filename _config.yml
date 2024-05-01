@@ -118,14 +118,14 @@ restful:
   post: true               # 文章数据
   pages: true             # 额外的 Hexo 页面数据, 如 About
 
-aiexcerpt:
-  default_enable: true
-  custom: false
-  api: https://burn.hair/v1/chat/completions
-  token: sk-cEkBosWTJHakgALEBe76Cf24366d4d2e8f202b82C17c6072
-  model: gpt-4-turbo
-  prompt: '你是一个摘要生成工具，你需要解释我发送给你的内容，不要换行，不要超过200字，只需要介绍文章的内容，不需要提出建议和缺少的东西。请用中文回答，输出的内容开头为“ai: 这篇文章介绍了”'
-  ignoreEl: [
-    'table', 'pre', 'figure'
-  ]
-  max_token: 128000,
+# aiexcerpt:
+#   default_enable: true
+#   custom: true
+#   api: https://burn.hair/v1/chat/completions
+#   token: sk-cEkBosWTJHakgALEBe76Cf24366d4d2e8f202b82C17c6072
+#   model: gpt-4-turbo
+#   prompt: '你是一个摘要生成工具，你需要解释我发送给你的内容，不要换行，不要超过200字，只需要介绍文章的内容，不需要提出建议和缺少的东西。请用中文回答，输出的内容开头为“ai: 这篇文章介绍了”'
+#   ignoreEl: [
+#     'table', 'pre', 'figure'
+#   ]
+#   max_token: 128000,

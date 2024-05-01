@@ -43,10 +43,15 @@ inject:
     - <link rel="stylesheet" href="https://unpkg.com/heti/umd/heti.min.css">
     - <link rel="stylesheet" href="https://unpkg.com/@waline/client@2.15.0/dist/waline-meta.css" />
     - <script async src="https://umami.jerryz.com.cn/script.js" data-website-id="a219fdba-6ff8-4e89-b50a-56124d4fc5fa"></script>
+    # GPT
+    - <link rel="stylesheet" href="https://cdn1.tianli0.top/gh/zhheo/Post-Abstract-AI@0.18/tianli_gpt.css">
     # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StylishThemes/GitHub-Dark@master/github-dark.user.css">
   # javascript
   bottom:
-  # - <script src="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/js/hideMobileSidebar.js"></script>
+    # GPT
+    - <script>let tianliGPT_postSelector = '\#post \#article-container';let tianliGPT_key = '5Q5mpqRK5DkwT1X9Gi5e';</script>
+    - <script src="https://cdn.jerryz.com.cn/gh/YangguangZhou/blog@main/source/chuckle-post-ai.js"></script>
+    # - <script src="https://cdn.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/js/hideMobileSidebar.js"></script>
 
 cover:
   # display the cover or not (是否显示文章封面)
