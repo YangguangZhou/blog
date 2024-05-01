@@ -51,11 +51,11 @@ mourn:
 # Code Blocks (代码相关)
 # --------------------------------------
 
-highlight_theme: ocean #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
 highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
-highlight_height_limit: 330 # unit: px
+highlight_height_limit: false # unit: px
 code_word_wrap: true
 
 # copy settings
@@ -131,8 +131,8 @@ mathjax:
 
 # KaTeX
 katex:
-  enable: false
-  per_page: false
+  enable: true
+  per_page: true
   hide_scrollbar: true
 
 # Image (图片设置)
@@ -1235,8 +1235,6 @@ inject:
   head:
     # Links
     # - <link rel="stylesheet" href="https://at.alicdn.com/t/c/font_3891026_wggdqlhqrxg.css">
-    - <script defer src="/mathjax_config.js"></script>
-    - <script type="text/javascript" id="MathJax-script" defer src="https://unpkg.com/mathjax@3/es5/tex-chtml.js"></script>
     - <link rel="stylesheet" href="https://unpkg.com/heti/umd/heti.min.css">
     - <link rel="stylesheet" href="https://unpkg.com/@waline/client@2.15.0/dist/waline-meta.css" />
     - <script async src="https://umami.jerryz.com.cn/script.js" data-website-id="a219fdba-6ff8-4e89-b50a-56124d4fc5fa"></script>
