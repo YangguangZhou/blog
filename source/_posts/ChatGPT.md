@@ -18,7 +18,7 @@ ai: 这篇文章介绍了一个名为CNChat的在线聊天工具，旨在降低�
 
 **[网址：cn.ai0.cn](https://cn.ai0.cn/)**
 
-### 特性
+# 特性
 
 - 🛡️ **稳定**
   自2023年3月份起开始运营，运营时间超过多数网站。拥有API备用站点，确保CNChat始终在线。
@@ -34,7 +34,7 @@ ai: 这篇文章介绍了一个名为CNChat的在线聊天工具，旨在降低�
 
 <img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/cnchat.png" width="100px" alt="logo">
 
-## 简介
+# 简介
 
 网址：https://cn.ai0.cn/
 
@@ -54,7 +54,7 @@ CNChat的初衷是降低ChatGPT官网的使用门槛，CNChat支持的功能，�
 
 ![演示](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/1.png)
 
-## 定价
+# 定价
 
 🤖4.0会员价格：
 
