@@ -13,6 +13,7 @@ description: >-
 keywords: 'ChatGPT,PandoraNext,AI,国内,免费,GPT3.5,GPT4,镜像站'
 cover: 'https://img.examcoo.com/ask/7386438/202404/171414645629320.png'
 abbrlink: 26443
+ai: 这篇文章介绍了一个名为CNChat的在线聊天工具，旨在降低使用ChatGPT官网的门槛。CNChat自2023年3月起运营，特点包括稳定性高、精准度高、使用简洁以及易用无需科学上网。它支持所有GPTs功能，包括DALL·E-3模型和所有Plugin插件功能，支持上传PDF、图片进行分析和联网对话等全态模型。CNChat在保障用户隐私和账号安全的同时，提供了与官网相同的使用体验，并嵌入了多个Plus账号，摒弃封号风险。此外，还列出了CNChat的会员定价和指向详细使用说明的文档链接。
 ---
 
 **[网址：cn.ai0.cn](https://cn.ai0.cn/)**

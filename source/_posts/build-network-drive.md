@@ -9,6 +9,7 @@ tags:
 keywords: 'Vercel,网站,OneManager,网盘,云盘'
 abbrlink: 30026
 description: '本文介绍利用Vercel平台和OneManager程序搭建个人网盘的方法。文章首先介绍了Vercel和OneManager,接着列出了搭建所需的准备工作,然后详细讲解了在Vercel上部署OneManager的具体步骤,以及如何配置OneDrive、GoogleDrive和阿里云盘等不同存储方式。最后,作者分享了成功搭建的个人网盘,展示了其功能。通过这种方法,可以零成本拥有一个功能完善的个人网盘。'
+ai: 这篇文章介绍了如何使用Vercel和OneManager搭建一个零成本的个人网盘。首先解释了Vercel的基本功能和OneManager的特点。然后，文章详细说明了部署个人网盘的具体步骤，包括使用GitHub账号注册Vercel、配置访问令牌、上传项目文件、部署项目以及如何连接至OneDrive、GoogleDrive或阿里云盘等服务。最后，还提及了如何配置网盘，包括添加云盘服务、设置密码和绑定个人域名等操作，以及作者自己搭建的个人网盘实例。
 ---
 
 # 前言

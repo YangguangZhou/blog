@@ -10,8 +10,9 @@ tags:
   - Hexo
   - 博客配置
 keywords: 'Hexo,butterfly,bilibili,哔哩哔哩,视频,博客,博客美化'
-description: 如何在Hexo博客（butterfly主题）中插入bilibili视频
+description: 如何在Hexo博客中插入bilibili视频
 abbrlink: 15474
+ai: 这篇文章介绍了如何在Hexo博客中嵌入B站视频。文章通过详细步骤和代码示例展示了将B站视频通过iframe标签以合适的尺寸和比例显示在博客文章中的过程。主要方法包括在iframe标签中添加CSS样式使视频响应式适应屏幕大小，并提供了如何防止视频被点击时跳转到B站、如何设置视频默认为最高质量等附加配置选项。此外，还介绍了B站视频链接的不同参数及其作用，帮助用户更好地自定义视频播放的相关设置。
 ---
 
 # 引言

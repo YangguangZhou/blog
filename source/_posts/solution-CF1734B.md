@@ -10,6 +10,7 @@ tags:
   - C++
 keywords: '题解,CF1734B,C++,CodeForces'
 abbrlink: 49538
+ai: 这篇文章介绍了在CodeForces平台上的一道编程题CF1734B Bright, Nice, Brilliant的解决方案。题目要求设计一种方案在一个金字塔形结构中放置灯泡，满足特定的亮度要求。解题思路是在每一层金字塔的两端放置灯泡，以保证每层房间的亮度相同。文章中还提供了用C++实现的代码示例。
 ---
 
 读题点 [这里](https://www.luogu.com.cn/problem/CF1734B)

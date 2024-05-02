@@ -10,6 +10,7 @@ keywords: 'Hexo,网站,API,计数器,markdown,HTML'
 description: 可以插入Markdown文件或HTML网页的计数器
 cover: 'https://img.examcoo.com/ask/7386438/202312/170399415281190.png'
 abbrlink: 41528
+ai: 这篇文章介绍了一个可嵌入Markdown文件或HTML网页的计数器项目“Counter”的使用方法与部署步骤。Counter项目托管在GitHub，支持通过URL参数自定义显示效果，如是否计入计数、字体大小、深色模式以及字体颜色等。文章还提供了使用不同编程语言发送API请求的示例代码，包括Python、JavaScript、Java、PHP、微信小程序，方便用户实现更复杂的功能。最后，文章说明了如何将项目部署到AirCode和Vercel平台上。
 ---
 
 # Counter 计数器

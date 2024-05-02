@@ -3,6 +3,7 @@ title: Material You 软件仓库
 date: '2023/06/03 20:16:01'
 hidden: true
 abbrlink: 8127
+ai: 这篇文章介绍了Material You软件仓库的相关内容，包括Material Design 3和Material You的概念、特性，Material You APP生态的现状以及为何会有这个列表。文章列出了不同类别下支持Material You的应用和游戏，以及特别推荐的20个Material You应用，并提供了各应用的标签说明。除此之外，还涵盖了如何通过Magisk/KernelSU模块为第三方应用添加Monet取色的方法，以及酷安社区知名的Monet APP作者信息。
 ---
 <h1 align="center">Material You软件仓库</h1>
 
