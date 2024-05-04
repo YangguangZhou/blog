@@ -40,7 +40,7 @@ nav:
       item:
         - name: 工具和项目
           link: https://tools.jerryz.com.cn/
-          icon: https://cdn.jerryz.com.cn/gh/YangguangZhou/blog@main/source/img/tools.svg
+          icon: https://cdn.jerryz.com.cn/gh/YangguangZhou/blog@anzhiyu/source/img/tools.svg
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -1078,7 +1078,7 @@ home_top:
 # 朋友圈配置
 friends_vue:
   enable: true
-  vue_js: https://cdn.jerryz.com.cn/gh/YangguangZhou/blog@main/source/friend.js
+  vue_js: https://cdn.jerryz.com.cn/gh/YangguangZhou/blog@anzhiyu/source/friend.js
   apiurl: https://friends.jerryz.com.cn/ # 朋友圈后端地址
   top_tips: 使用 友链朋友圈 订阅友链最新文章
   top_background: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
