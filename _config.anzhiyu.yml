@@ -270,7 +270,6 @@ post_edit: # 目前仅可选择一个平台在线编辑
   enable: false
   # github: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  github: https://github.com/YangguangZhou/blog/edit/main/source
 
   # yuque: https://www.yuque.com/user-name/repo-name/
   # 示例: https://www.yuque.com/yuque/yuque/
