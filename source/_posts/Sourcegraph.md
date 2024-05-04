@@ -9,7 +9,7 @@ tags:
   - 白嫖
 ai: 这篇文章介绍了如何免费获取Sourcegraph的Cody订阅，以及如何使用GPT-4和Claude 3模型。文章提供了详细的注册、开通会员、获取Access Token和使用方法。还列出了Pro用户支持的模型列表，并给出了API请求地址和建议的接口限制，包括Claude3 Sonnet/Opus模型、其他Anthropic模型和OpenAI模型的上下文长度和输出长度。最后，文章还分享了一个Access Token供读者体验。
 keywords: 'Cody,Sourcegraph,免费,GPT3.5,GPT4,Claude,Claude Opus,Claude Sonnet,GPT-4'
-cover: 'https://img.examcoo.com/ask/7386438/202404/171414645629320.png'
+cover: 'https://img.examcoo.com/ask/7386438/202405/171480471022220.jpg'
 ---
 
 分享一个白嫖 Sourcegraph 的 Cody 订阅的方法，支持 `gpt-4-turbo-preview`、`claude-3-opus-20240229` 和  `claude-3-sonnet-20240229` 等众多模型。
