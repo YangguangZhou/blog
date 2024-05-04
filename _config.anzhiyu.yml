@@ -730,7 +730,7 @@ display_mode: light
 
 # Beautify (美化页面显示)
 beautify:
-  enable: true
+  enable: false
   field: post # site/post
   title-prefix-icon: 'fas fa-link'
   title-prefix-icon-color: "#F47466"
