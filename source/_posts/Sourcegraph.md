@@ -28,7 +28,7 @@ main_color: "#5137dc"
 
 # 获取 Access Token
 
-1.. 打开[设置](https://sourcegraph.com/settings)页面
+1. 打开[设置](https://sourcegraph.com/settings)页面
 2. 进入"Access tokens"页面
 3. 点击"Generate new token"
 4. 随便填写一个令牌名称，最后点击"Generate token"生成API令牌
