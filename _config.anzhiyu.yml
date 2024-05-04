@@ -1078,7 +1078,7 @@ home_top:
 # 朋友圈配置
 friends_vue:
   enable: true
-  vue_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.1/friends/index.4f887d95.js
+  vue_js: https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/friend.js
   apiurl: https://friends.jerryz.com.cn/ # 朋友圈后端地址
   top_tips: 使用 友链朋友圈 订阅友链最新文章
   top_background: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
