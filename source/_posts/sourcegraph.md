@@ -12,6 +12,7 @@ description: >-
   PDF、图片进行分析、联网对话等功能
 keywords: 'Cody,Sourcegraph,免费,GPT3.5,GPT4,Claude,Claude Opus,Claude Sonnet,GPT-4'
 cover: 'https://img.examcoo.com/ask/7386438/202404/171414645629320.png'
+hidden: true
 ---
 
 分享一个白嫖 Sourcegraph 的 Cody 订阅的方法，支持 `gpt-4-turbo-preview`、`claude-3-opus-20240229` 和  `claude-3-sonnet-20240229` 等众多模型。
