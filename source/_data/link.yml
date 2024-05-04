@@ -16,6 +16,10 @@
   class_desc: 那些人，那些事
   flink_style: anzhiyu
   link_list:
+    - name: Jerry Zhou
+      link: https://blog.jerryz.com.cn/
+      avatar: https://img.examcoo.com/ask/7386438/202111/163626915705190.jpg
+      descr: 永远相信美好的事情即将发生
     - name: Efu
       link: https://www.efu.me/
       avatar: https://s3.qjqq.cn/47/660a7ece07609.webp!color
