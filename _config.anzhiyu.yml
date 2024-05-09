@@ -1241,7 +1241,7 @@ inject:
   bottom:
     # - <script src="//unpkg.com/heti/umd/heti-addon.min.js"></script>
     # - <script>const heti = new Heti('.heti');heti.autoSpacing();</script>
-
+    - <script src="https://embed.elephant.ai/static/js/chatbot.js" id="593ca80b-e1d8-41d3-8f3c-983b4822c13b"></script>
 # CDN
 # Don't modify the following settings unless you know how they work
 # 非必要请不要修改
