@@ -158,7 +158,7 @@ index_img: "background: url(https://img.examcoo.com/ask/7386438/202111/163673216
 # If the banner of page not setting, it will show the top_img
 default_top_img: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
 
-archive_img: https://img.examcoo.com/ask/7386438/202404/171414086813420.png
+archive_img: false
 
 cover:
   # display the cover or not (是否显示文章封面)
@@ -225,7 +225,7 @@ index_post_content:
 
 # anchor
 # when you scroll in post, the URL will update according to header id.
-anchor: false
+anchor: true
 
 # Post
 # --------------------------------------
@@ -680,13 +680,13 @@ canvas_ribbon:
 
 # Fluttering Ribbon (动态彩带)
 canvas_fluttering_ribbon:
-  enable: false
-  mobile: false
+  enable: true
+  mobile: true
 
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: true
+  enable: false
   color: "0,0,255" #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   opacity: 0.7 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
@@ -760,8 +760,8 @@ subtitle:
   # Typewriter Effect (打字效果)
   effect: true
   # Effect Speed Options (打字效果速度参数)
-  startDelay: 300 # time before typing starts in milliseconds
-  typeSpeed: 150 # type speed in milliseconds
+  startDelay: 150 # time before typing starts in milliseconds
+  typeSpeed: 100 # type speed in milliseconds
   backSpeed: 50 # backspacing speed in milliseconds
   # loop (循环打字)
   loop: true
