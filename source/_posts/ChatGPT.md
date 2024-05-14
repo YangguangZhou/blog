@@ -1,34 +1,30 @@
 ---
-title: ChatGPT 国内镜像站 - CNChat
-date: '2024/04/26 22:56:01'
-categories:
-  - AI
-tags:
-  - 编程
-  - AI
-  - ChatGPT
-description: >-
-  CNChat - ChatGPT官网镜像站，支持GPTs、DALL·E-3 模型、所有 Plugin 插件功能。全态模型包括上传
-  PDF、图片进行分析、联网对话等功能
-keywords: 'ChatGPT,PandoraNext,AI,国内,免费,GPT3.5,GPT4,镜像站'
-cover: 'https://img.examcoo.com/ask/7386438/202404/171414645629320.png'
 abbrlink: 26443
 ai: 这篇文章介绍了一个名为CNChat的在线聊天工具，旨在降低使用ChatGPT官网的门槛。CNChat自2023年3月起运营，特点包括稳定性高、精准度高、使用简洁以及易用无需科学上网。它支持所有GPTs功能，包括DALL·E-3模型和所有Plugin插件功能，支持上传PDF、图片进行分析和联网对话等全态模型。CNChat在保障用户隐私和账号安全的同时，提供了与官网相同的使用体验，并嵌入了多个Plus账号，摒弃封号风险。此外，还列出了CNChat的会员定价和指向详细使用说明的文档链接。
+categories:
+- AI
+cover: https://img.examcoo.com/ask/7386438/202404/171414645629320.png
+date: 2024/04/26 22:56:01
+description: CNChat - ChatGPT官网镜像站，支持GPTs、DALL·E-3 模型、所有 Plugin 插件功能。全态模型包括上传 PDF、图片进行分析、联网对话等功能
+hidden: ''
+keywords: ChatGPT,PandoraNext,AI,国内,免费,GPT3.5,GPT4,镜像站
+tags:
+- 编程
+- AI
+- ChatGPT
+- LLM
+title: ChatGPT 国内镜像站 - CNChat
 ---
-
 **[网址：cn.ai0.cn](https://cn.ai0.cn/)**
 
 # 特性
 
 - 🛡️ **稳定**
   自2023年3月份起开始运营，运营时间超过多数网站。拥有API备用站点，确保CNChat始终在线。
-
 - 🤖 **精准**
   CNChat 支持 GPTs、DALL·E-3 模型、所有 Plugin 插件功能。全态模型包括上传 PDF、图片进行分析、联网对话等，无需担心封号风险。
-
 - ✨ **简洁**
   使用体验与官网完全一致，能够第一时间体验到官网的所有新功能。与其他国内版本相比，CNChat 支持的功能更全面，使用体验更佳。
-
 - 🚀 **易用**
   无需科学上网，内置多个 Plus 账号，无需担心次数限制，真正做到打开即用。
 
