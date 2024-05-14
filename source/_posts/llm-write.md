@@ -6,7 +6,7 @@ cover: ''
 date: 2024/05/14 21:56:01
 description: ''
 hidden: true
-keywords: ''
+keywords: AI,ChatGPT,gpt-4o,gpt-4,claude-3-opus,语言能力,作文,通义千问,ChatGLM
 tags:
 - AI
 - 编程
@@ -65,4 +65,8 @@ title: 常见大模型语言能力测评
 {% endfolding %}
 
 # 评价
+
+## 排序
+
+百度文库文档助手>gpt-4o>qwen-max=qwen-plus>claude-3-opus-20240229>glm-4>gpt-4-turbo
 
