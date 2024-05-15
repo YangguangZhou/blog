@@ -447,7 +447,7 @@ footer:
       #   shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/CDN-多吉云-3693F3.svg
       #   message: 本站使用多吉云为静态资源提供CDN加速
       # - link: https://github.com/
-      - shields: https://cdn.jerryz.com.cn/gh/YangguangZhou/blog@main/source/img/vercel.svg
+      - shields: https://cdn.jerryz.com.cn/gh/YangguangZhou/blog@anzhiyu/source/img/vercel.svg
         message: 本站项目由Vercel托管
       - link: http://creativecommons.org/licenses/by-nc-sa/4.0/
         shields: https://npm.elemecdn.com/anzhiyu-blog@2.2.0/img/badge/Copyright-BY-NC-SA.svg

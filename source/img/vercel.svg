@@ -1,1 +1,26 @@
-<svg t="1714566361965" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4258" width="200" height="200"><path d="M1024 961.066667H0l512-898.133334 512 898.133334z" p-id="4259"></path></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="119" height="20" role="img"
+    aria-label="Deploy: Vercel">
+    <title>Deploy: Vercel</title>
+    <linearGradient id="s" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+        <stop offset="1" stop-opacity=".1" />
+    </linearGradient>
+    <clipPath id="r">
+        <rect width="110" height="20" rx="3" fill="#fff" />
+    </clipPath>
+    <g clip-path="url(#r)">
+        <rect width="64" height="20" fill="#555" />
+        <rect x="64" width="55" height="20" fill="#000" />
+        <rect width="119" height="20" fill="url(#s)" />
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
+        text-rendering="geometricPrecision" font-size="110">
+        <image x="5" y="3" width="14" height="14"
+            xlink:href="data:image/svg+xml;base64,PHN2ZyB0PSIxNzE0NTY2MzYxOTY1IiBmaWxsPSIjZmZmIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iMCAwIDEwMjQgMTAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHAtaWQ9IjQyNTgiIHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIj4NCjxwYXRoIGQ9Ik0xMDI0IDk2MS4wNjY2NjdIMGw1MTItODk4LjEzMzMzNCA1MTIgODk4LjEzMzM0eiIgcC1pZD0iNDI1OSI+PC9wYXRoPg0KPC9zdmc+" />
+        <text aria-hidden="true" x="415" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)"
+            textLength="370">Deploy</text><text x="415" y="140" transform="scale(.1)" fill="#fff"
+            textLength="370">Deploy</text><text aria-hidden="true" x="870" y="150" fill="#010101" fill-opacity=".3"
+            transform="scale(.1)" textLength="345">Vercel</text><text x="870" y="140" transform="scale(.1)" fill="#fff"
+            textLength="345">Vercel</text>
+    </g>
+</svg>
