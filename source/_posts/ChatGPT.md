@@ -8,6 +8,7 @@ date: 2024/04/26 22:56:01
 description: CNChat - ChatGPT官网镜像站，支持GPTs、DALL·E-3 模型、所有 Plugin 插件功能。全态模型包括上传 PDF、图片进行分析、联网对话等功能
 hidden: ''
 keywords: ChatGPT,PandoraNext,AI,国内,免费,GPT3.5,GPT4,镜像站
+main_color: '#5087e7'
 tags:
 - 编程
 - AI
