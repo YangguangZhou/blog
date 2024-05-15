@@ -3,7 +3,6 @@ categories:
   - AI
 cover: https://img.examcoo.com/ask/7386438/202405/171570395812800.png
 date: '2024/05/14 21:56:01'
-hidden: true
 keywords: 'AI,ChatGPT,gpt-4o,gpt-4,claude-3-opus,语言能力,作文,通义千问,ChatGLM'
 tags:
   - AI
