@@ -1,18 +1,20 @@
 ---
-title: GitHub访问加速
-cover: 'https://img.examcoo.com/ask/7386438/202112/163868409645050.png'
-date: '2021/12/04 11:33:23'
-categories:
-  - 编程
-tags:
-  - GitHub
-  - Windows
-  - 编程
-keywords: 'GitHub,Windows,编程,加速'
 abbrlink: 9564
 ai: 这篇文章介绍了如何通过修改系统hosts文件的方法来加速在国内访问GitHub的速度。文章解释了GitHub访问缓慢的主要原因是DNS污染，并详细指导了如何获取GitHub的CDN地址，如何显示隐藏的文件并获取完全控制权限，以及如何修改hosts文件和刷新系统DNS缓存，目的是直接访问GitHub的CDN节点，从而实现访问加速。此方法不需要海外服务器辅助，操作简单易行。
+categories:
+- 编程
+cover: https://img.examcoo.com/ask/7386438/202112/163868409645050.png
+date: 2021/12/04 11:33:23
+description: ''
+hidden: ''
+keywords: GitHub,Windows,编程,加速
+main_color: '#6ebbe9'
+tags:
+- GitHub
+- Windows
+- 编程
+title: GitHub访问加速
 ---
-
 # 背景
 
 > GitHub在国内访问速度慢的问题原因有很多,但最直接和最主要的原因是GitHub的分发加速网络的域名遭到DNS污染,下载网站上任何东西的时候会下半天,有时还会失败需要从头再来,多失败了几次又因访问次数过多被做了ip限制,让人恼火
@@ -76,23 +78,19 @@ ai: 这篇文章介绍了如何通过修改系统hosts文件的方法来加速�
 
 #### Win10或Win7
 
-1. 从任务栏中打开文件资源管理器。 
-
+1. 从任务栏中打开文件资源管理器。
 2. 选择“视图”>“选项”>“更改文件夹和搜索选项”。
-
 3. 选择“视图”选项卡，在“高级设置”下选择“显示隐藏的文件、文件夹和驱动器“，然后选择“确定”。
 
 ### 打开文件夹“完全控制”权限
 
 1. 右击hosts文件，选择“属性”
-
 2. 打开“安全”选项卡，点击“编辑”
 
-    ![属性](https://img.examcoo.com/ask/7386438/202112/163859038069680.jpg)
-
+   ![属性](https://img.examcoo.com/ask/7386438/202112/163859038069680.jpg)
 3. 在“组或用户名中”选中“Users”，在“Users的权限”中勾选“完全控制”，点击“确定”
 
-    ![权限](https://img.examcoo.com/ask/7386438/202112/163859038762490.jpg)
+   ![权限](https://img.examcoo.com/ask/7386438/202112/163859038762490.jpg)
 
 ### 修改文件
 
@@ -129,10 +127,9 @@ ai: 这篇文章介绍了如何通过修改系统hosts文件的方法来加速�
 
 1. 右击任务栏上的“开始”按钮，打开“Windows终端（管理员）”
 
-    ![打开Windows终端（管理员）](https://img.examcoo.com/ask/7386438/202112/163859100271740.jpg)
-
+   ![打开Windows终端（管理员）](https://img.examcoo.com/ask/7386438/202112/163859100271740.jpg)
 2. 再在命令行中输入 `ipconfig /flushdns` 来手动刷新系统DNS缓存
 
-    ![手动刷新系统DNS缓存](https://img.examcoo.com/ask/7386438/202112/163859039979400.jpg)
+   ![手动刷新系统DNS缓存](https://img.examcoo.com/ask/7386438/202112/163859039979400.jpg)
 
 **这样再次打开GitHub时就可以加速访问了**
