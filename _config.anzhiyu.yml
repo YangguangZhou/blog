@@ -366,6 +366,7 @@ waline:
   imageUploader: true # 是否启用图片上传功能，默认开启，限制为 128kb 的 base64 图片
   # 以下为可选配置，后续若有新增/修改配置参数可在此自行添加/修改
   option:
+    - reaction: true
 
 # Twikoo
 # https://github.com/imaegoo/twikoo
