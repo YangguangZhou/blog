@@ -123,6 +123,6 @@ restful:
 #   ]
 #   max_token: 128000,
 
-markdown:
-  plugins:
-    - "@renbaoshuo/markdown-it-katex"
+# markdown:
+#   plugins:
+#     - "@renbaoshuo/markdown-it-katex"
