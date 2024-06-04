@@ -325,7 +325,7 @@ https://github.com/qy527145/openai_token
 
 # 生成 Access/Share Token
 
-进入 https://tokens.jerryz.com.cn/ ，在文本框中填入 Refresh Token（可以填入多个Tokens，用英文逗号`,`隔开即可），点击获取按钮，即可得到两个链接，分别是Access Tokens 和 Share Tokens 的链接，格式为 txt ，一行一个 Tokens。
+进入 https://tokens.jerryz.com.cn/ ，在文本框中填入 Refresh Token（可以填入多个Tokens，用英文逗号`,`隔开即可），点击获取按钮，即可得到两个链接，分别是 Access Tokens 和 Share Tokens 的链接，格式为 txt ，一行一个 Tokens。
 
 **请妥善保管这两个链接，链接中随机生成的的8位ID是您访问 Token 和后续新功能的唯一方式**
 
