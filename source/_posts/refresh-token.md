@@ -11,7 +11,10 @@ tags:
   - LLM
 abbrlink: 25137
 highlight_shrink: true
-hidden: true
+cover: https://img.examcoo.com/ask/7386438/202406/171749993128340.png
+main_color: '#c0d7f7'
+ai: 这篇文章介绍了如何通过OpenAI Refresh Token自动获取Access/Share Token。获取Refresh Token的方法包括前往指定网站、自己获取或联系提供者。生成Access/Share Token的步骤是在指定网站输入Refresh Token，点击获取按钮，即可得到相应的链接。链接中的Token会每七天自动刷新。文章还提到利用Tokens建立共享站的计划和隐私声明，保证用户的Refresh Tokens会被加密保存且不会被滥用。
+description: 通过OpenAI Refresh Token自动获取Access/Share Token，Token每七天自动刷新。
 ---
 
 https://tokens.jerryz.com.cn/
@@ -318,7 +321,7 @@ https://github.com/qy527145/openai_token
 3. 输出token信息，同时会自动将`refresh token` 和`access_token`保存到 token.json文件
 {% endfolding %}
 
-3. 少量的 Refresh Token 获取可以找[我](https://t.me/jerryzyg)
+3. 少量的 Refresh Token 获取可以[联系我](https://t.me/jerryzyg)
 4. ~~DDOS或线下真实始皇让他给你 Refresh Token~~
 
 # 生成 Access/Share Token
@@ -336,5 +339,5 @@ https://github.com/qy527145/openai_token
 
 # 隐私声明
 
-- 由于需要定时刷新，所以用户输入的 Refresh Tokens 将会被加密上传的云端
+- 由于需要定时刷新，所以用户输入的 Refresh Tokens 将会被上传到云端并加密保存
 - 承诺不会出于任何目的，通过任何方式盗用、共享用户的 Refresh Tokens
