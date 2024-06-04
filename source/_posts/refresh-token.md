@@ -331,6 +331,13 @@ https://github.com/qy527145/openai_token
 
 每七天，文件中的 Token 就会自动刷新一次，无需手动操作
 
+# 可以使用 Tokens 的项目
+
+1. https://new.oaifree.com/ ：OpenAI镜像站
+2. https://tts.jerryz.com.cn/ ：OpenAI TTS 文本转语音（需要Plus账号）
+3. https://github.com/nianhua99/PandoraHelper ：轻松使用 Pandora 并在网页中管理所有Token
+……
+
 # Todo
 
 - [ ] 利用 Tokens 建立用户自己的共享站
