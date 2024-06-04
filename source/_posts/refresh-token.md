@@ -322,7 +322,6 @@ https://github.com/qy527145/openai_token
 {% endfolding %}
 
 3. 少量的 Refresh Token 获取可以[联系我](https://t.me/jerryzyg)
-4. ~~DDOS或线下真实始皇让他给你 Refresh Token~~
 
 # 生成 Access/Share Token
 
