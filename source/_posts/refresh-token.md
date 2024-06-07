@@ -325,11 +325,15 @@ https://github.com/qy527145/openai_token
 
 # 生成 Access/Share Token
 
-进入 https://tokens.jerryz.com.cn/ ，在文本框中填入 Refresh Token（可以填入多个Tokens，用英文逗号`,`隔开即可），点击获取按钮，即可得到两个链接，分别是 Access Tokens 和 Share Tokens 的链接，格式为 txt ，一行一个 Tokens。
+进入 https://tokens.jerryz.com.cn/ ，在文本框中填入 Refresh Token（可以填入多个Tokens，用英文逗号`,`隔开即可），点击获取按钮，即可得到三个个链接，前两行分别是 Access Tokens 和 Share Tokens 的链接，格式为 txt ，一行一个 Tokens。第三行是共享站点的链接，访问后可以从你的号池中随机抽取 Share Tokens 作为共享站点，默认开启会话隔离和临时聊天。
 
-**请妥善保管这两个链接，链接中随机生成的的8位ID是您访问 Token 和后续新功能的唯一方式**
+**请妥善保管这三个链接，链接中随机生成的的8位ID是您访问 Token 和后续新功能的唯一方式**
 
 每七天，文件中的 Token 就会自动刷新一次，无需手动操作
+
+# 上传到 [Shared Chat 共享站](https://shared.oaifree.com/)
+
+点击复选框后，填入你的昵称（需要符合正则表达式 `[0-9a-zA-Z_\- ]{0,11}` ），就可以将 Refresh Tokens 上传到始皇的公益 [Shared Chat 共享站](https://shared.oaifree.com/)，你可以前往 https://shared.oaifree.com/dashboard 查看提交情况。
 
 # 可以使用 Tokens 的项目
 
@@ -340,8 +344,8 @@ https://github.com/qy527145/openai_token
 
 # Todo
 
-- [ ] 利用 Tokens 建立用户自己的共享站
-- [ ] （可选）自动将 Share Tokens 上传到始皇的 Share 站
+- [x] 利用 Tokens 建立用户自己的共享站
+- [x] （可选）自动将 Share Tokens 上传到始皇的 Share 站
 
 # 隐私声明
 
