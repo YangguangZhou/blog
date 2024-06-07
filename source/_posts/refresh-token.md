@@ -13,7 +13,7 @@ abbrlink: 25137
 highlight_shrink: true
 cover: https://img.examcoo.com/ask/7386438/202406/171749993128340.png
 main_color: '#c0d7f7'
-ai: ai: 这篇文章介绍了获取和生成Refresh Token以及Access/Share Token的详细步骤。用户需通过特定网站获取Refresh Token，然后在另一个网站生成三个链接，包括Access Tokens和Share Tokens的链接。每七天自动刷新Token，用户可以选择将Tokens上传到共享站。文章还列出了可以使用Tokens的项目，并强调了隐私声明，保证用户输入的Refresh Tokens会被加密保存，不会被盗用或共享。
+ai: 这篇文章介绍了获取和生成Refresh Token以及Access/Share Token的详细步骤。用户需通过特定网站获取Refresh Token，然后在另一个网站生成三个链接，包括Access Tokens和Share Tokens的链接。每七天自动刷新Token，用户可以选择将Tokens上传到共享站。文章还列出了可以使用Tokens的项目，并强调了隐私声明，保证用户输入的Refresh Tokens会被加密保存，不会被盗用或共享。
 description: 通过OpenAI Refresh Token自动获取Access/Share Token，Token每七天自动刷新。
 ---
 
