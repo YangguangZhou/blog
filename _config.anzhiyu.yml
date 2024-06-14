@@ -129,7 +129,7 @@ mathjax:
 
 # KaTeX
 katex:
-  enable: false
+  enable: true
   per_page: true
   hide_scrollbar: true
 
