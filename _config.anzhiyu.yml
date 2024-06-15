@@ -124,7 +124,7 @@ local_search:
 
 # MathJax
 mathjax:
-  enable: true
+  enable: false
   per_page: true
 
 # KaTeX
