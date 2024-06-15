@@ -6,7 +6,6 @@
     "version": "7.2.0"
   },
   "dependencies": {
-    "@renbaoshuo/markdown-it-katex": "^2.0.2",
     "ackee-tracker": "^5.1.0",
     "hexo": "^7.2.0",
     "hexo-abbrlink": "^2.2.1",
