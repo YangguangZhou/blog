@@ -73,6 +73,10 @@ copy:
 social:
   Github: https://github.com/YangguangZhou || icon-github
   Email: https://img.shields.io/badge/Email-i%40jerryz.com.cn-279cff || icon-email
+  Weixin: https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-ilovegithub-279cff || icon-weixin
+  Bilibili: https://space.bilibili.com/489004177 || icon-bilibili
+  Telegram: https://t.me/jerryzyg || icon-telegram
+  QQ: https://img.shields.io/badge/QQ-2098412009-279cff || icon-QQ
 
 # 作者卡片 状态
 author_status:
@@ -480,6 +484,8 @@ footer:
             link: https://links.jerryz.com.cn/go
           - title: 开往
             link: https://www.travellings.cn/go.html
+          - title: 笔墨迹
+            link: https://blogscn.fun
       - title: 主题
         links:
           - title: 文档
@@ -778,8 +784,8 @@ aside:
     category: true
   card_author:
     enable: true
-    description: # <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">这有关于<b style="color:#fff">产品、设计、开发</b>相关的问题和看法，还有<b style="color:#fff">文章翻译</b>和<b style="color:#fff">分享</b>。</div><div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">相信你可以在这里找到对你有用的<b style="color:#fff">知识</b>和<b style="color:#fff">教程</b>。</div> # 默认为站点描述
-    name_link: /
+    description: <div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">这里是Jerry Zhou的个人博客，记录有趣的<b style="color:#fff">信息学</、<b style="color:#fff">IT</b>和<b style="color:#fff">个人内容</b></div><div style="line-height:1.38;margin:0.6rem 0;text-align:justify;color:rgba(255, 255, 255, 0.8);">相信你可以在这里找到对你有用的<b style="color:#fff">知识</b>和<b style="color:#fff">教程</b>。</div>
+    name_link: https://jerryz.com.cn/
 
   card_announcement:
     enable: false
@@ -794,8 +800,8 @@ aside:
     sort: date # date or updated
     sort_order: # Don't modify the setting unless you know how it works
   card_categories:
-    enable: false
-    limit: 8 # if set 0 will show all
+    enable: true
+    limit:  6 # if set 0 will show all
     expand: none # none/true/false
     sort_order: # Don't modify the setting unless you know how it works
   card_tags:
@@ -945,7 +951,7 @@ note:
   light_bg_offset: 0
 
 icons:
-  ali_iconfont_js: https://at.alicdn.com/t/c/font_2954574_vj3hyt34ia.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
+  ali_iconfont_js: https://at.alicdn.com/t/c/font_2954574_dc544sm2tgn.js # 阿里图标symbol 引用链接，主题会进行加载 symbol 引用
   fontawesome: true #是否启用fontawesome6图标
   fontawesome_animation_css: https://npm.elemecdn.com/hexo-butterfly-tag-plugins-plus@1.0.17/lib/assets/font-awesome-animation.min.css
 
@@ -1120,7 +1126,7 @@ ptool:
 
 # 欢迎语配置
 greetingBox:
-  enable: false #开启后必须配置下面的list对应的时间段，不然会出现小白条
+  enable: true #开启后必须配置下面的list对应的时间段，不然会出现小白条
   default: 晚上好👋
   list:
     # - greeting: 晚安😴
