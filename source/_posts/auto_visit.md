@@ -6,12 +6,12 @@ categories:
 tags:
   - 编程
   - GitHub
-cover: 'https://img.examcoo.com/ask/7386438/202112/163940894215270.png'
+cover: 'https://img.examcoo.com/ask/7386438/202406/171851122817340.png'
 keywords: '自动,防休眠,GitHub,Workflow,Huggingface,Render'
 abbrlink: 44121
 description: 了解如何通过GitHub Workflow实现网站防休眠，使用自动访问脚本保持网站在线，防止因长时间未访问而被休眠。
-mathjax: false
-katex: false
+main_color: "#d0ced2"
+ai: 这篇文章介绍了如何通过GitHub Workflow实现网站防休眠。文章首先说明了背景，即许多平台上部署的网站会自动休眠。接着提供了详细代码，展示了如何通过定期向网站发送访问请求来避免休眠。代码部分包括设置Python环境、安装requests库以及运行自动访问脚本。此外，文章还介绍了如何调整运行时间的cron表达式，并详细解释了cron表达式的格式和特殊符号。
 ---
 
 # 背景
