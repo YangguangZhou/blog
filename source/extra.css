@@ -27,7 +27,7 @@
 #article-container h6 a:not([rel="external nofollow noreferrer"])::before {
     font: var(--fa-font-solid);
     content: '\f0c1'; /* FontAwesome icon for 'link' */
-    float: right;
+    /* float: right; */
     color: var(--headline-presudo);
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
