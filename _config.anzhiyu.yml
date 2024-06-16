@@ -1219,7 +1219,7 @@ inject:
     - <link rel="stylesheet" href="/extra.css">
     - <link rel="stylesheet" href="https://unpkg.com/@waline/client@2.15.0/dist/waline-meta.css" />
     - <script async src="https://umami.jerryz.com.cn/script.js" data-website-id="a219fdba-6ff8-4e89-b50a-56124d4fc5fa"></script>
-    # - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/StylishThemes/GitHub-Dark@master/github-dark.user.css">
+    - <script src="https://kit.fontawesome.com/56f8739d61.js" crossorigin="anonymous"></script>
   # javascript
   bottom:
     # - <script src="//unpkg.com/heti/umd/heti-addon.min.js"></script>

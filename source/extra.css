@@ -1,4 +1,9 @@
-/* #article-container h1 a  {
+#article-container h1 a:not([rel="external nofollow noreferrer"]),
+#article-container h2 a:not([rel="external nofollow noreferrer"]),
+#article-container h3 a:not([rel="external nofollow noreferrer"]),
+#article-container h4 a:not([rel="external nofollow noreferrer"]),
+#article-container h5 a:not([rel="external nofollow noreferrer"]),
+#article-container h6 a:not([rel="external nofollow noreferrer"]) {
     float: right;
     opacity: .08;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=8)";
@@ -7,77 +12,47 @@
     padding: 0;
     border: none;
     line-height: 2;
-    font-size: 2rem;
+    font-size: 2rem; /* Adjust the font-size accordingly for each header */
     border-radius: 8px!important;
-    text-decoration: none;
-    font-weight: 700
+    text-decoration: none!important;
+    border-bottom: none!important;
+    font-weight: 700;
 }
 
-#article-container h1 a ::before {
-    font-size: 2rem
-}
-
-#article-container>:first-child:is(h2 a) {
-    border-top: none;
-    padding-top: 0;
-    margin-top: 0
-}
-
-#article-container h2 a {
-    float: right;
-    opacity: .08;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=8)";
-    filter: alpha(opacity=8);
-    position: relative;
-    padding: 0;
-    border: none;
-    line-height: 2;
-    font-size: 1.8rem;
-    border-radius: 8px!important;
-    text-decoration: none;
-    font-weight: 700
-}
-
-#article-container h2 a ::before {
-    font-size: 1.8rem
-}
-
-#article-container h3 ,#article-container h4 ,#article-container h5 ,#article-container h6  {
-    float: right;
-    opacity: .08;
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=8)";
-    filter: alpha(opacity=8);
-    position: relative;
-    padding: 0;
-    border: none;
-    line-height: 2;
-    font-size: 1.3rem;
-    border-radius: 8px!important;
-    text-decoration: none;
-    font-weight: 700
-}
-
-#article-container h3 ::before,#article-container h4 ::before,#article-container h5 ::before,#article-container h6 ::before {
-    font-size: 1.3rem
-}
-
-#article-container a.headerlink::before {
-    content: '\f0c1';
+#article-container h1 a:not([rel="external nofollow noreferrer"])::before,
+#article-container h2 a:not([rel="external nofollow noreferrer"])::before,
+#article-container h3 a:not([rel="external nofollow noreferrer"])::before,
+#article-container h4 a:not([rel="external nofollow noreferrer"])::before,
+#article-container h5 a:not([rel="external nofollow noreferrer"])::before,
+#article-container h6 a:not([rel="external nofollow noreferrer"])::before {
+    font: var(--fa-font-solid);
+    content: '\f0c1'; /* FontAwesome icon for 'link' */
     float: right;
     color: var(--headline-presudo);
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     -o-transition: all .3s;
     -ms-transition: all .3s;
-    transition: all .3s
+    transition: all .3s;
 }
 
-#article-container a.headerlink:hover:after {
-    color: var(--pseudo-hover)
+#article-container>:first-child:is(h2) {
+    border-top: none;
+    padding-top: 0;
+    margin-top: 0;
 }
 
-#article-container a.headerlink h1:hover a.headerlink:after,#article-container a.headerlink h2:hover a.headerlink:after,#article-container a.headerlink h3:hover a.headerlink:after,#article-container a.headerlink h4:hover a.headerlink:after,#article-container a.headerlink h5:hover a.headerlink:after,#article-container a.headerlink h6:hover a.headerlink:after {
+#article-container a:not([rel="external nofollow noreferrer"]):hover:after {
+    color: var(--pseudo-hover);
+}
+
+#article-container a:not([rel="external nofollow noreferrer"]) h1:hover a:after,
+#article-container a:not([rel="external nofollow noreferrer"]) h2:hover a:after,
+#article-container a:not([rel="external nofollow noreferrer"]) h3:hover a:after,
+#article-container a:not([rel="external nofollow noreferrer"]) h4:hover a:after,
+#article-container a:not([rel="external nofollow noreferrer"]) h5:hover a:after,
+#article-container a:not([rel="external nofollow noreferrer"]) h6:hover a:after {
     opacity: 1;
     -ms-filter: none;
-    filter: none
-} */
+    filter: none;
+}
