@@ -340,6 +340,7 @@ https://github.com/qy527145/openai_token
 1. https://new.oaifree.com/ ：OpenAI镜像站
 2. https://tts.jerryz.com.cn/ ：OpenAI TTS 文本转语音（需要Plus账号）
 3. https://github.com/nianhua99/PandoraHelper ：轻松使用 Pandora 并在网页中管理所有Token
+4. https://chat2api.jerryz.com.cn/ : 用法同 OpenAI API ，API Key 传 `id=` 加上你的 id 即可（需要Plus账号）
 ……
 
 # Todo
@@ -351,3 +352,5 @@ https://github.com/qy527145/openai_token
 
 - 由于需要定时刷新，所以用户输入的 Refresh Tokens 将会被上传到云端并加密保存
 - 承诺不会出于任何目的，通过任何方式盗用、共享用户的 Refresh Tokens
+
+Code by [Jerry Zhou](https://jerryz.com.cn/), Powered by [Linux Do](https://linux.do/)
