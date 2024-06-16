@@ -1,0 +1,83 @@
+/* #article-container h1 a  {
+    float: right;
+    opacity: .08;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=8)";
+    filter: alpha(opacity=8);
+    position: relative;
+    padding: 0;
+    border: none;
+    line-height: 2;
+    font-size: 2rem;
+    border-radius: 8px!important;
+    text-decoration: none;
+    font-weight: 700
+}
+
+#article-container h1 a ::before {
+    font-size: 2rem
+}
+
+#article-container>:first-child:is(h2 a) {
+    border-top: none;
+    padding-top: 0;
+    margin-top: 0
+}
+
+#article-container h2 a {
+    float: right;
+    opacity: .08;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=8)";
+    filter: alpha(opacity=8);
+    position: relative;
+    padding: 0;
+    border: none;
+    line-height: 2;
+    font-size: 1.8rem;
+    border-radius: 8px!important;
+    text-decoration: none;
+    font-weight: 700
+}
+
+#article-container h2 a ::before {
+    font-size: 1.8rem
+}
+
+#article-container h3 ,#article-container h4 ,#article-container h5 ,#article-container h6  {
+    float: right;
+    opacity: .08;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=8)";
+    filter: alpha(opacity=8);
+    position: relative;
+    padding: 0;
+    border: none;
+    line-height: 2;
+    font-size: 1.3rem;
+    border-radius: 8px!important;
+    text-decoration: none;
+    font-weight: 700
+}
+
+#article-container h3 ::before,#article-container h4 ::before,#article-container h5 ::before,#article-container h6 ::before {
+    font-size: 1.3rem
+}
+
+#article-container a.headerlink::before {
+    content: '\f0c1';
+    float: right;
+    color: var(--headline-presudo);
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -o-transition: all .3s;
+    -ms-transition: all .3s;
+    transition: all .3s
+}
+
+#article-container a.headerlink:hover:after {
+    color: var(--pseudo-hover)
+}
+
+#article-container a.headerlink h1:hover a.headerlink:after,#article-container a.headerlink h2:hover a.headerlink:after,#article-container a.headerlink h3:hover a.headerlink:after,#article-container a.headerlink h4:hover a.headerlink:after,#article-container a.headerlink h5:hover a.headerlink:after,#article-container a.headerlink h6:hover a.headerlink:after {
+    opacity: 1;
+    -ms-filter: none;
+    filter: none
+} */
