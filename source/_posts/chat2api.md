@@ -17,7 +17,7 @@ abbrlink: 57524
 
 # 通过 Refresh Token 请求（推荐）
 
-1. 参考 [优雅地通过 OpenAI Refresh Token 自动获取 Access/Share Token](https://blog.jerryz.com.cn/article/refresh-token/) 获取 Refresh Token 并前往 tokens.jerryz.com.cn 获取八位ID
+1. 参考 [优雅地通过 OpenAI Refresh Token 自动获取 Access/Share Token](https://blog.jerryz.com.cn/article/refresh-token/) 获取 Refresh Token，并前往 tokens.jerryz.com.cn 获取八位ID
 
 2. 按照 OpenAI API 的格式发送请求，将 API Key 设置为 `id=` 加上您的八位数ID
 
@@ -28,6 +28,11 @@ abbrlink: 57524
 按照 OpenAI API 的格式发送请求，将 API Key 设置为 Access Token，多个 Token 间用逗号隔开即可。
 
 通过此方法请求时，支持使用多个 Access Token 实现多账号负载均衡，但是 Access Token 有七天的时间限制，无法自动刷新
+
+# 请求示例
+
+```sh
+```
 
 # 说明
 
