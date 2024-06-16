@@ -5,8 +5,7 @@ categories:
 - 编程
 cover: https://img.examcoo.com/ask/7386438/202302/167611637160090.png
 date: 2023/02/11 17:27:01
-description: ''
-hidden: ''
+description: '这篇文章介绍了一个名为Links的友链合集平台，通过该平台用户可以实现成员间的网页随机跳转，以增加友链接力和分享流量。文章详细阐述了如何加入Links，包括提交申请的链接、加入的要求、如何在网站中放置Links链接与图标，并提供了具体的代码和图标资源。同时，还提到了如何更新网站名称或域名，并邀请读者查看成员列表。最后，文章提供了赞助链接，鼓励对Links感兴趣或受益的用户提供赞助支持。'
 keywords: 编程,GitHub,网站,友链,Links,Links-友链合集,随机跳转
 main_color: '#4774b8'
 tags:

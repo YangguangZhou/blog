@@ -5,8 +5,7 @@ categories:
 - 编程
 cover: https://img.examcoo.com/ask/7386438/202112/163868409645050.png
 date: 2021/12/04 11:33:23
-description: ''
-hidden: ''
+description: '这篇文章介绍了如何通过修改系统hosts文件的方法来加速在国内访问GitHub的速度。文章解释了GitHub访问缓慢的主要原因是DNS污染，并详细指导了如何获取GitHub的CDN地址，如何显示隐藏的文件并获取完全控制权限，以及如何修改hosts文件和刷新系统DNS缓存，目的是直接访问GitHub的CDN节点，从而实现访问加速。此方法不需要海外服务器辅助，操作简单易行。'
 keywords: GitHub,Windows,编程,加速
 main_color: '#6ebbe9'
 tags:

@@ -1,14 +1,11 @@
 ---
 abbrlink: 8127
-ai: 这篇文章介绍了Material You软件仓库的相关内容，包括Material Design 3和Material You的概念、特性，Material You
-  APP生态的现状以及为何会有这个列表。文章列出了不同类别下支持Material You的应用和游戏，以及特别推荐的20个Material You应用，并提供了各应用的标签说明。除此之外，还涵盖了如何通过Magisk/KernelSU模块为第三方应用添加Monet取色的方法，以及酷安社区知名的Monet
-  APP作者信息。
+ai: 这篇文章介绍了Material You软件仓库的相关内容，包括Material Design 3和Material You的概念、特性，Material You APP生态的现状以及为何会有这个列表。文章列出了不同类别下支持Material You的应用和游戏，以及特别推荐的20个Material You应用，并提供了各应用的标签说明。除此之外，还涵盖了如何通过Magisk/KernelSU模块为第三方应用添加Monet取色的方法，以及酷安社区知名的Monet APP作者信息。
 categories:
 - 编程
 cover: https://img.examcoo.com/ask/7386438/202405/171463721827860.jpg
 date: 2023/06/03 20:16:01
-description: ''
-hidden: ''
+description: '这篇文章介绍了Material You软件仓库的相关内容，包括Material Design 3和Material You的概念、特性，Material You APP生态的现状以及为何会有这个列表。文章列出了不同类别下支持Material You的应用和游戏，以及特别推荐的20个Material You应用，并提供了各应用的标签说明。除此之外，还涵盖了如何通过Magisk/KernelSU模块为第三方应用添加Monet取色的方法，以及酷安社区知名的Monet APP作者信息。'
 keywords: 编程,GitHub,Material You,Android
 main_color: '#b0b28f'
 tags:

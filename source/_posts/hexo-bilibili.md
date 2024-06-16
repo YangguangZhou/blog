@@ -7,7 +7,6 @@ categories:
 cover: https://img.examcoo.com/ask/7386438/202112/163897318350010.png
 date: 2021/12/07 21:03:22
 description: 如何在Hexo博客中插入bilibili视频
-hidden: ''
 keywords: Hexo,butterfly,bilibili,哔哩哔哩,视频,博客,博客美化
 main_color: '#bba180'
 tags:

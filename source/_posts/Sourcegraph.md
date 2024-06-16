@@ -3,8 +3,12 @@ title: 白嫖 Sourcegraph Cody 的 GPT-4 和 Claude 3
 cover: 'https://img.examcoo.com/ask/7386438/202405/171480471022220.jpg'
 date: '2024/05/04 14:25:01'
 keywords: 'Cody,Sourcegraph,免费,GPT3.5,GPT4,Claude,Claude Opus,Claude Sonnet,GPT-4'
-ai: >-
-  这篇文章介绍了如何免费获取Sourcegraph的Cody订阅，以及如何使用GPT-4和Claude
+ai: 这篇文章介绍了如何免费获取Sourcegraph的Cody订阅，以及如何使用GPT-4和Claude
+  3模型。文章提供了详细的注册、开通会员、获取Access
+  Token和使用方法。还列出了Pro用户支持的模型列表，并给出了API请求地址和建议的接口限制，包括Claude3
+  Sonnet/Opus模型、其他Anthropic模型和OpenAI模型的上下文长度和输出长度。最后，文章还分享了一个Access
+  Token供读者体验并解答了一些常见问题。
+description: 这篇文章介绍了如何免费获取Sourcegraph的Cody订阅，以及如何使用GPT-4和Claude
   3模型。文章提供了详细的注册、开通会员、获取Access
   Token和使用方法。还列出了Pro用户支持的模型列表，并给出了API请求地址和建议的接口限制，包括Claude3
   Sonnet/Opus模型、其他Anthropic模型和OpenAI模型的上下文长度和输出长度。最后，文章还分享了一个Access

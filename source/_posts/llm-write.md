@@ -5,8 +5,7 @@ categories:
 - AI
 cover: https://img.examcoo.com/ask/7386438/202405/171574398465740.png
 date: 2024/05/14 21:56:01
-description: ''
-hidden: ''
+description: '这篇文章介绍了多个大型语言模型在中文议论文写作任务上的表现和评估。包括gpt-4-turbo、claude-3-opus、gpt-4o、通义千问、glm-4、百度文库文档助手和deepseek等。作者通过一个具体的写作Prompt对这些模型的文学表达、逻辑连贯性和立意深度进行了测试和比较，并给出了主观的排序和评价。文章指出不同模型在处理中文文本时的优势和不足，强调选择合适的模型对于完成特定任务的重要性。'
 keywords: AI,ChatGPT,gpt-4o,gpt-4,claude-3-opus,语言能力,作文,通义千问,ChatGLM,deepseek
 main_color: '#a1b9b2'
 tags:

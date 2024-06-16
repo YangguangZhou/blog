@@ -12,7 +12,7 @@ cover: 'https://img.examcoo.com/ask/7386438/202112/163974886715310.png'
 keywords: 'CodeForces,翻译,编程,C++'
 abbrlink: 13045
 ai: 这篇文章介绍了CodeForces平台上的一个编程题目CF1608A Find Array的翻译。题目要求给定一个整数n，构造一个整数数组满足特定条件：数组的每个元素都在1到 $10^9$ 之间，数组是递增的，且任一元素不能被它前面的元素整除。输入包含多个测试用例，每个测试用例仅包含一个整数n，需要为每个测试用例输出满足条件的任意一个数组。
-main_color: ''
+main_color: '#6085d4'
 ---
 
 # [题目地址](https://www.luogu.com.cn/problem/CF1608A)
