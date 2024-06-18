@@ -2,7 +2,7 @@ name: Update Stars File
 
 on:
   schedule:
-    - cron: '0 1 * * *' # Adjust to UTC 00:00, which is 09:00 Beijing time
+    - cron: '0 1 * * 1' # Runs at 01:00 UTC on Mondays, which is 09:00 Beijing time
   workflow_dispatch: # Allows for manual triggering
 
 jobs:
