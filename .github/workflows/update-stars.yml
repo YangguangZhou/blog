@@ -1,0 +1,38 @@
+name: Update Stars File
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # 调整为UTC时间零点，相当于中国时间八点
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-stars:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Download README.md
+      run: curl -o temp.md https://raw.githubusercontent.com/YangguangZhou/some-stars/main/README.md
+
+    - name: Add header to the file
+      run: |
+        echo "---" > stars.md
+        echo "hidden: true" >> stars.md
+        echo "updated: $(date +'%Y/%m/%d %H:%M:%S')" >> stars.md
+        echo "---" >> stars.md
+        cat temp.md >> stars.md
+
+    - name: Move file to the target directory
+      run: mv stars.md source/_posts/stars.md
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add source/_posts/stars.md
+        git commit -m 'Update stars.md file'
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
