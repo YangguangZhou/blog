@@ -21,8 +21,7 @@ jobs:
         TZ=Asia/Shanghai
         echo "---" > stars.md
         echo "title: Some Stars - 我的 Star 列表" >> stars.md
-        echo "date: 2024:06:18 13:41:28" >> stars.md
-        echo "hidden: true" >> stars.md
+        echo "date: 2024:06:18 22:29:28" >> stars.md
         echo "description: Jerry Zhou的star列表，每周自动更新" >> stars.md
         echo "categories:" >> stars.md
         echo "- 编程" >> stars.md
