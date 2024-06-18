@@ -2,8 +2,8 @@ name: Update Stars File
 
 on:
   schedule:
-    - cron: '0 1 * * *' # 调整为UTC时间零点，相当于中国时间八点
-  workflow_dispatch: # 允许手动触发
+    - cron: '0 1 * * *' # Adjust to UTC 00:00, which is 09:00 Beijing time
+  workflow_dispatch: # Allows for manual triggering
 
 jobs:
   update-stars:
@@ -18,8 +18,22 @@ jobs:
 
     - name: Add header to the file
       run: |
+        TZ=Asia/Shanghai
         echo "---" > stars.md
+        echo "title: Some Stars - 我的 Star 列表" >> stars.md
+        echo "date: 2024:06:18 13:41:28" >> stars.md
         echo "hidden: true" >> stars.md
+        echo "description: Jerry Zhou的star列表，每周自动更新" >> stars.md
+        echo "categories:" >> stars.md
+        echo "- 编程" >> stars.md
+        echo "tags:" >> stars.md
+        echo "- 编程" >> stars.md
+        echo "- GitHub" >> stars.md
+        echo "keywords: 编程,GitHub,Stars,项目" >> stars.md
+        echo "abbrlink: 9569" >> stars.md
+        echo "cover: https://img.examcoo.com/ask/7386438/202406/171872023848900.png" >> stars.md
+        echo "main_color: '#271f5c'" >> stars.md
+        echo "ai: 这篇文章介绍了Jerry Zhou的GitHub star列表，涵盖了多个编程语言和工具的开源项目。主要类别包括Vue、Kotlin、Dart、JavaScript、Python、TypeScript、Go、Shell、Rust、Svelte、HTML、Stylus、Batchfile、Java、杂项、PHP以及Jupyter Notebook。每个类别下列出了相关的项目及其简短描述。" >> stars.md
         echo "updated: $(date +'%Y/%m/%d %H:%M:%S')" >> stars.md
         echo "---" >> stars.md
         cat temp.md >> stars.md
