@@ -32,6 +32,15 @@ abbrlink: 57524
 # 请求示例
 
 ```shell
+curl https://chat2api.jerryz.com.cn/v1/chat/completions \
+  -H "Content-Type: application/json" \
+  -H "Authorization: Bearer id=xxx/access_token_1,access_token_2..." \
+  -d '{
+    "model": "gpt-4",
+    "messages": [{"role": "user", "content": "鲁迅为什么要打周树人"}],
+    "temperature": 0.7
+  }'
+
 ```
 
 # 说明
