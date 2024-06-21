@@ -9,9 +9,10 @@ tags:
   - AI
   - ChatGPT
   - LLM
+  - API
 hidden: true
-cover: 'https://img.examcoo.com/ask/7386438/202406/171749993128340.png'
-main_color: '#c0d7f7'
+cover: 'https://img.examcoo.com/ask/7386438/202406/171898960285360.png'
+main_color: '#b3bae8'
 abbrlink: 57524
 ai: 这篇文章介绍了 OpenAI Chat2API 现已支持多账号负载均衡和通过 Refresh Token 请求。提供了两种请求方式：通过 Refresh Token 和 Access Token，并给出了具体请求示例。文章说明了服务的来源及其多账号负载均衡的实现原理。
 description: OpenAI Chat2API 现已支持通过 Refresh Token 和 Access Token 请求，实现多账号负载均衡。
@@ -20,7 +21,6 @@ description: OpenAI Chat2API 现已支持通过 Refresh Token 和 Access Token �
 # 请求地址
 
 https://chat2api.jerryz.com.cn
-
 
 # 请求方式
 
