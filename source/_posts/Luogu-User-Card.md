@@ -8,6 +8,7 @@ tags:
   - 编程
   - GitHub
   - 洛谷
+  - API
 keywords: '编程,GitHub,洛谷,Luogu,vercel,卡片,洛谷卡片'
 abbrlink: 51822
 main_color: '#e2cd9f'
