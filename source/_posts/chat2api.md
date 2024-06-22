@@ -2,7 +2,7 @@
 title: OpenAI Chat2API 现已支持多账号负载均衡和通过 Refresh Token 请求
 categories:
   - AI
-date: '2024/06/22 22:34:39'
+date: '2024/06/22 09:01:05'
 keywords: 'OpenAI,API,chat2api,ChatGPT,PandoraNext,AI,OpenAI,RefreshToken,Neo,始皇,AccessToken,ShareToken'
 tags:
   - 编程
@@ -10,7 +10,6 @@ tags:
   - ChatGPT
   - LLM
   - API
-hidden: true
 cover: 'https://img.examcoo.com/ask/7386438/202406/171898960285360.png'
 main_color: '#b3bae8'
 abbrlink: 57524
