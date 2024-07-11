@@ -341,16 +341,30 @@ https://github.com/qy527145/openai_token
 2. https://tts.jerryz.com.cn/ ：OpenAI TTS 文本转语音（需要Plus账号）
 3. https://github.com/nianhua99/PandoraHelper ：轻松使用 Pandora 并在网页中管理所有Token
 4. https://chat2api.jerryz.com.cn/ : 用法同 OpenAI API ，API Key 传 `id=` 加上你的 id 即可（需要Plus账号）
+5. https://github.com/jyx04/oaifree-helper : 组建合租共享车队，包含直链登陆、前端登陆页、用户管理、token池管理、车队管理、用户注册、用量查询等等功能。
 ……
 
 # Todo
 
 - [x] 利用 Tokens 建立用户自己的共享站
 - [x] （可选）自动将 Share Tokens 上传到始皇的 Share 站
+- [x] 实现通过 id 访问的 Chat2API
 
 # 隐私声明
 
 - 由于需要定时刷新，所以用户输入的 Refresh Tokens 将会被上传到云端并加密保存
 - 承诺不会出于任何目的，通过任何方式盗用、共享用户的 Refresh Tokens
+
+## 吊销 Refresh Token
+
+如果需要吊销 Refresh Token，可以通过以下方式：
+1. 修改账户密码
+2. 向以下地址发送 POST 请求：https://auth0.openai.com/oauth/revoke ，请求内容为json：
+    ```json
+    {
+        "client_id": "pdlLIX2Y72MIl2rhLhTE9VV9bN905kBh",
+        "token": "要吊销的refresh token"
+    }
+    ```
 
 Code by [Jerry Zhou](https://jerryz.com.cn/), Powered by [Linux Do](https://linux.do/)

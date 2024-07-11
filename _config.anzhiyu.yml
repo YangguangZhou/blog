@@ -1163,8 +1163,8 @@ post_head_ai_description:
   btnLink: https://cn.ai0.cn/
   randomNum: 3 # 按钮最大的随机次数，也就是一篇文章最大随机出来几种
   basicWordCount: 1000 # 最低获取字符数, 最小1000, 最大1999
-  key: xxxx
-  Referer: https://xx.xx/
+  key: https://cn.ai0.cn/
+  Referer: https://cn.ai0.cn/
 
 # 快捷键配置
 shortcutKey:
@@ -1224,7 +1224,7 @@ inject:
   bottom:
     # - <script src="//unpkg.com/heti/umd/heti-addon.min.js"></script>
     # - <script>const heti = new Heti('.heti');heti.autoSpacing();</script>
-    - <script src="https://embed.elephant.ai/static/js/chatbot.js" id="593ca80b-e1d8-41d3-8f3c-983b4822c13b"></script>
+    # - <script src="https://embed.elephant.ai/static/js/chatbot.js" id="593ca80b-e1d8-41d3-8f3c-983b4822c13b"></script>
 # CDN
 # Don't modify the following settings unless you know how they work
 # 非必要请不要修改
