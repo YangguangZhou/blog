@@ -19,18 +19,23 @@ title: ChatGPT 国内镜像站 - CNChat
 ---
 **[网址：cn.ai0.cn](https://cn.ai0.cn/)**
 
-CNChat - ChatGPT官网共享镜像站，支持GPT4o、GPTs、DALL·E-3 模型、所有 Plugin 插件功能。全态模型包括上传 PDF、图片进行分析、联网对话等功能。
+CNChat - ChatGPT＆Claude官网共享镜像站，支持 GPT-4o、GPT-4、Claude-3-Opus、Claude-3-5-Sonnet 等所有OpenAI和Anthropic官网模型，支持GPTs、Artifact等功能。OpenAI多模态模型包括上传 PDF、图片进行分析、联网对话、语音聊天等功能。
+
+{% note primary simple %} 
+CNChat现已支持Claude共享镜像站功能，面向月会员及以上用户开放，功能和Claude官网相同。
+{% endnote %}
+
 
 # 特性
 
 - 🛡️ **稳定**
   自2023年3月份起开始运营，运营时间超过多数网站。拥有API备用站点，确保CNChat始终在线。
 - 🤖 **精准**
-  CNChat 支持 GPT-4o、GPTs、DALL·E-3 模型、所有 Plugin 插件功能。全态模型包括上传 PDF、图片进行分析、联网对话等，无需担心封号风险。
+  CNChat 支持 GPT-4o、GPT-4、Claude-3-Opus、Claude-3-5-Sonnet 等所有OpenAI和Anthropic官网模型、所有 Plugin 插件功能，支持GPTs、Artifact等功能。OpenAI多模态模型包括上传 PDF、图片进行分析、联网对话、语音聊天等功能。无需担心封号风险。
 - ✨ **简洁**
   使用体验与官网完全一致，能够第一时间体验到官网的所有新功能。与其他国内版本相比，CNChat 支持的功能更全面，使用体验更佳。
 - 🚀 **易用**
-  无需科学上网，内置多个 Plus 账号，无需担心次数限制，真正做到打开即用。
+  无需科学上网，内置多个 OpenAI Plus 和 Claude Pro 账号，无需担心次数限制，真正做到打开即用。
 
 <img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/cnchat.png" width="100px" alt="logo">
 
@@ -38,14 +43,14 @@ CNChat - ChatGPT官网共享镜像站，支持GPT4o、GPTs、DALL·E-3 模型、
 
 网址：https://cn.ai0.cn/
 
-CNChat的初衷是降低ChatGPT官网的使用门槛，CNChat支持的功能，包括但不限于如下：
+CNChat的初衷是降低ChatGPT和Claude官网的使用门槛，CNChat支持的功能，包括但不限于如下：
 
-1. 使用体验与官网完全一致，可在第一时间体验到官网所有新功能。支持最新的 GPT-4o 模型。
+1. 使用体验与官网完全一致，可在第一时间体验到官网所有新功能。支持最新的 GPT-4o、GPT-4o-mini、Claude-3-5-Sonnet 模型。
 2. 无需科学上网。
-3. 内置多个Plus账号，不用担心次数不够。
-4. 支持所有GPTs功能：DALL·E-3模型等。
-5. 支持所有Plugin插件功能。
-6. 支持全态模型：上传PDF、图片进行分析。
+3. 内置多个 OpenAI Plus 和 Claude Prp账号，不用担心次数不够。
+4. 支持所有GPTs功能，DALL·E-3模型等。
+5. 支持Artifact插件功能。
+6. 支持多模态模型，可以上传PDF、图片进行分析，也可以语音聊天。
 7. 支持联网对话功能。
 8. 无需担心封号风险。
 9. 对话隔离，他人无法看到你的对话内容，保护隐私。
@@ -56,7 +61,7 @@ CNChat的初衷是降低ChatGPT官网的使用门槛，CNChat支持的功能，�
 
 # 定价
 
-🤖4.0会员价格：
+🤖会员价格：
 
 ✨限时特惠✨
 
