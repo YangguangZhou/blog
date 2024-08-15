@@ -5,17 +5,16 @@ categories:
 - AI
 cover: https://img.examcoo.com/ask/7386438/202404/171414645629320.png
 date: 2024/04/26 22:56:01
-description: CNChat - ChatGPT官网共享镜像站，支持GPT4o、GPTs、DALL·E-3 模型、所有 Plugin 插件功能。全态模型包括上传
-  PDF、图片进行分析、联网对话等功能
+description: CNChat - ChatGPT＆Claude官网共享镜像站，支持 GPT-4o、GPT-4、Claude-3-Opus、Claude-3-5-Sonnet 等所有OpenAI和Anthropic官网模型，支持GPTs、Artifact等功能。OpenAI多模态模型包括上传 PDF、图片进行分析、联网对话、语音聊天等功能。
 hidden: ''
-keywords: ChatGPT,PandoraNext,AI,国内,免费,GPT3.5,GPT4o,GPT4,镜像站
+keywords: ChatGPT,PandoraNext,AI,国内,免费,GPT3.5,GPT4o,GPT4,镜像站,Fuclaude,Claude,claude-3-5-sonnet,claude-3-opus,ClaudePro,OpenAI,Anthropic
 main_color: '#5087e7'
 tags:
 - 编程
 - AI
 - ChatGPT
 - LLM
-title: ChatGPT 国内镜像站 - CNChat
+title: ChatGPT＆Claude 官网共享镜像站 - CNChat
 ---
 **[网址：cn.ai0.cn](https://cn.ai0.cn/)**
 
@@ -31,7 +30,7 @@ CNChat现已支持Claude共享镜像站功能，面向月会员及以上用户�
 - 🛡️ **稳定**
   自2023年3月份起开始运营，运营时间超过多数网站。拥有API备用站点，确保CNChat始终在线。
 - 🤖 **精准**
-  CNChat 支持 GPT-4o、GPT-4、Claude-3-Opus、Claude-3-5-Sonnet 等所有OpenAI和Anthropic官网模型、所有 Plugin 插件功能，支持GPTs、Artifact等功能。OpenAI多模态模型包括上传 PDF、图片进行分析、联网对话、语音聊天等功能。无需担心封号风险。
+  CNChat 支持 GPT-4o、GPT-4、Claude-3-Opus、Claude-3-5-Sonnet 等所有OpenAI和Anthropic官网模型，支持GPTs、Artifact等功能。OpenAI多模态模型包括上传 PDF、图片进行分析、联网对话、语音聊天等功能。无需担心封号风险。
 - ✨ **简洁**
   使用体验与官网完全一致，能够第一时间体验到官网的所有新功能。与其他国内版本相比，CNChat 支持的功能更全面，使用体验更佳。
 - 🚀 **易用**
