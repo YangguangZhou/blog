@@ -16,7 +16,7 @@ title: Counter 计数器
 ---
 # Counter 计数器
 
-{% note primary simple %} 
+{% note primary modern%} 
 计数器现在已经可以正常使用了，欢迎大家使用！
 {% endnote %}
 

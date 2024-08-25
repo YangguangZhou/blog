@@ -346,9 +346,9 @@ https://github.com/qy527145/openai_token
 
 # Todo
 
-- [x] 利用 Tokens 建立用户自己的共享站
-- [x] （可选）自动将 Share Tokens 上传到始皇的 Share 站
-- [x] 实现通过 id 访问的 Chat2API
+- {% checkbox checked, 利用 Tokens 建立用户自己的共享站}
+- {% checkbox checked, （可选）自动将 Share Tokens 上传到始皇的 Share 站}
+- {% checkbox checked, 实现通过 id 访问的 Chat2API}
 
 # 隐私声明
 
