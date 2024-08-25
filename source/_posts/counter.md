@@ -16,6 +16,10 @@ title: Counter 计数器
 ---
 # Counter 计数器
 
+{% note primary simple %} 
+计数器现在已经可以正常使用了，欢迎大家使用！
+{% endnote %}
+
 可以插入Markdown文件或HTML网页的计数器
 
 [GitHub Repo](https://github.com/YangguangZhou/Counter)
@@ -228,15 +232,8 @@ wx.request({
 
 在这些示例中，将 `your_variable_here` 替换为你实际想要发送的变量值。然后运行相应的程序以发送POST请求。如果要将当前请求计入计数器，`url` 使用 `https://counter.jerryz.com.cn/api/counter`。如果不将当前请求计入计数器，`url` 使用 `https://counter.jerryz.com.cn/api/view`
 
-## 部署
+## 使用计数器的服务
 
-1. 部署到AirCode
-
-   [![Deploy with AirCode](https://aircode.io/aircode-deploy-button.svg)](https://aircode.io/dashboard?owner=YangguangZhou&repo=Counter&branch=main&path=Aircode&appname=counter)
-
-   成功创建项目后，点击 `Deploy`，得到Aircode分配的域名（形如 `https://xxxx.us.aircode.run` ）。
-2. 部署到Vercel
-
-   [![Vercel](https://vercel.com/button)](https://vercel.com/import/git?s=https://github.com/YangguangZhou/Counter)
-
-   项目创建完成后，请点击 `Settings - Environment Variables` 进入环境变量配置页创建环境变量 `AIRCODE_DOMAIN`，填写为Aircode分配的域名。
+1. [Cards Editor | Jerry Zhou](https://cards.jerryz.com.cn/)
+  ![Cards](https://card.jerryz.com.cn/white)
+2. [Tools & Projects](https://tools.jerryz.com.cn/)
