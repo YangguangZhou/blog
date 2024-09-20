@@ -41,6 +41,9 @@ nav:
         - name: 工具和项目
           link: https://tools.jerryz.com.cn/
           icon: https://cdn.jerryz.com.cn/gh/YangguangZhou/blog@anzhiyu/source/img/tools.svg
+        - name: ChatGPT＆Claude官网镜像站
+          link: https://cn.ai0.cn/
+          icon: https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/cnchat.png
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
 # 注意： 仅网站首页变灰，其他页面正常显示
@@ -1112,7 +1115,7 @@ nav_music:
 
 # 评论匿名邮箱
 visitorMail:
-  enable: true
+  enable: false
   mail: ""
 
 # ptool 文章底部工具

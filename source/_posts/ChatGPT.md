@@ -18,10 +18,11 @@ title: ChatGPT＆Claude 官网共享镜像站 - CNChat
 ---
 **[网址：cn.ai0.cn](https://cn.ai0.cn/)**
 
-CNChat - ChatGPT＆Claude官网共享镜像站，支持 GPT-4o、GPT-4、Claude-3-Opus、Claude-3-5-Sonnet 等所有OpenAI和Anthropic官网模型，支持GPTs、Artifact等功能。OpenAI多模态模型包括上传 PDF、图片进行分析、联网对话、语音聊天等功能。
+CNChat - ChatGPT＆Claude官网共享镜像站，支持 o1-preview、o1-mini、GPT-4o、GPT-4、Claude-3-Opus、Claude-3-5-Sonnet 等所有OpenAI和Anthropic官网模型，支持GPTs、Artifact等功能。OpenAI多模态模型包括上传 PDF、图片进行分析、联网对话、语音聊天等功能。
 
 {% note primary modern %} 
-CNChat现已支持Claude共享镜像站功能，面向月会员及以上用户开放，功能和Claude官网相同。
+CNChat现已支持Claude共享镜像站功能，面向**月会员及以上**用户开放，功能和Claude官网相同。
+CNChat现已支持o1-preview、o1-mini等最新模型，欢迎使用
 {% endnote %}
 
 
