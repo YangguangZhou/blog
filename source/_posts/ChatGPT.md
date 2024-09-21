@@ -45,9 +45,9 @@ CNChat现已支持o1-preview、o1-mini等最新模型，欢迎使用
 
 CNChat的初衷是降低ChatGPT和Claude官网的使用门槛，CNChat支持的功能，包括但不限于如下：
 
-1. 使用体验与官网完全一致，可在第一时间体验到官网所有新功能。支持最新的 GPT-4o、GPT-4o-mini、Claude-3-5-Sonnet 模型。
+1. 使用体验与官网完全一致，可在第一时间体验到官网所有新功能。支持最新的 o1、GPT-4o、GPT-4o-mini、Claude-3-5-Sonnet 模型。
 2. 无需科学上网。
-3. 内置多个 OpenAI Plus 和 Claude Prp账号，不用担心次数不够。
+3. 内置多个 OpenAI Plus 和 Claude Pro账号，不用担心次数不够。
 4. 支持所有GPTs功能，DALL·E-3模型等。
 5. 支持Artifact插件功能。
 6. 支持多模态模型，可以上传PDF、图片进行分析，也可以语音聊天。
