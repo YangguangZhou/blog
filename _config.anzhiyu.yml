@@ -1221,7 +1221,7 @@ inject:
     # - <link rel="stylesheet" href="https://unpkg.com/heti/umd/heti.min.css">
     - <link rel="stylesheet" href="/extra.css">
     - <link rel="stylesheet" href="https://unpkg.com/@waline/client@2.15.0/dist/waline-meta.css" />
-    - <script defer src="https://umami.jerryz.com.cn/script.js" data-website-id="e2c953d9-116a-4a26-8935-b6d64b4176bc"></script>
+    - <script defer src="https://umami.jerryz.com.cn/script.js" data-website-id="83b79435-5de1-4880-b3e8-d6bd1cf3e1ea"></script>
     - <script src="https://kit.fontawesome.com/56f8739d61.js" crossorigin="anonymous"></script>
   # javascript
   bottom:
