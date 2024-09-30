@@ -12,7 +12,7 @@ abbrlink: 9569
 cover: https://img.examcoo.com/ask/7386438/202406/171872023848900.png
 main_color: '#271f5c'
 ai: 这篇文章介绍了Jerry Zhou的GitHub star列表，涵盖了多个编程语言和工具的开源项目。主要类别包括Vue、Kotlin、Dart、JavaScript、Python、TypeScript、Go、Shell、Rust、Svelte、HTML、Stylus、Batchfile、Java、杂项、PHP以及Jupyter Notebook。每个类别下列出了相关的项目及其简短描述。
-updated: 2024/09/23 02:14:02
+updated: 2024/09/30 02:19:00
 ---
 <div align="center">
 
@@ -27,6 +27,7 @@ updated: 2024/09/23 02:14:02
 ## Table of Contents
 
 *   [JavaScript](#javascript)
+*   [Java](#java)
 *   [Python](#python)
 *   [HTML](#html)
 *   [Dart](#dart)
@@ -36,7 +37,6 @@ updated: 2024/09/23 02:14:02
 *   [C](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
-*   [Java](#java)
 *   [Vue](#vue)
 *   [C++](#c-2)
 *   [Shell](#shell)
@@ -51,6 +51,8 @@ updated: 2024/09/23 02:14:02
 *   [SCSS](#scss)
 
 ## JavaScript
+
+*   [FuShengPing/android-qinglong](https://github.com/FuShengPing/android-qinglong) - 基于青龙面板接口开发的App，支持面板大部分原生功能，同时提供拓展模块，帮助用户快捷管理。
 
 *   [luogu-dev/markdown-palettes](https://github.com/luogu-dev/markdown-palettes) - Markdown\*Palettes: Markdown editor for the modern web.
 
@@ -106,6 +108,26 @@ updated: 2024/09/23 02:14:02
 
 *   [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 
+## Java
+
+*   [Mino260806/KeyboardGPT](https://github.com/Mino260806/KeyboardGPT) - LSPosed Module to integrate Generative AI like ChatGPT in keyboard.
+
+*   [mywalkb/LSPosed\_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
+
+*   [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
+
+*   [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
+
+*   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
+
+*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
+
+*   [A5245/WatchSDK](https://github.com/A5245/WatchSDK) -
+
+*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
+
+*   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
+
 ## Python
 
 *   [SubConv/SubConv](https://github.com/SubConv/SubConv) - Yet Another Subscription Converter for Clash
@@ -144,7 +166,7 @@ updated: 2024/09/23 02:14:02
 
 *   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
-*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - This is an unofficial API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. 👇
+*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - Create Music in Seconds with SunoAPI. 👇
 
 *   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
 
@@ -207,8 +229,6 @@ updated: 2024/09/23 02:14:02
 *   [YangguangZhou/Game](https://github.com/YangguangZhou/Game) - 一个用HTML制作的解压小游戏
 
 *   [YangguangZhou/YangguangZhou](https://github.com/YangguangZhou/YangguangZhou) -
-
-*   [YangguangZhou/HTML-editor](https://github.com/YangguangZhou/HTML-editor) - HTML编辑器
 
 ## Dart
 
@@ -362,7 +382,7 @@ updated: 2024/09/23 02:14:02
 
 *   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
 
-*   [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts.
+*   [usememos/memos](https://github.com/usememos/memos) - An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes.
 
 *   [linux-do/new-api](https://github.com/linux-do/new-api) - 基于One API的二次开发版本，仅供个人管理渠道使用，请勿用于商业API分发！
 
@@ -377,24 +397,6 @@ updated: 2024/09/23 02:14:02
 *   [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~
 
 *   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
-
-## Java
-
-*   [mywalkb/LSPosed\_mod](https://github.com/mywalkb/LSPosed_mod) - My changes to LSPosed
-
-*   [WangDaYeeeeee/GeometricWeather](https://github.com/WangDaYeeeeee/GeometricWeather) - A Material Design Weather Application
-
-*   [novicezk/midjourney-proxy](https://github.com/novicezk/midjourney-proxy) - 代理 MidJourney 的discord频道，实现api形式调用AI绘图
-
-*   [cinit/QAuxiliary](https://github.com/cinit/QAuxiliary) - QNotified phoenix - To make OICQ great again
-
-*   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
-
-*   [A5245/WatchSDK](https://github.com/A5245/WatchSDK) -
-
-*   [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
-
-*   [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 
 ## Vue
 
@@ -448,7 +450,7 @@ updated: 2024/09/23 02:14:02
 
 *   [JacobLinCool/d1-manager](https://github.com/JacobLinCool/d1-manager) - D1 Manager is a web UI and API for Cloudflare D1, a serverless SQL database. It provides a web interface for managing databases, tables, and records, as well as an AI assistant to help you write query in natural language.
 
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 
 *   [YangguangZhou/genshin-impact-picker](https://github.com/YangguangZhou/genshin-impact-picker) - 原神随机点名器
 
@@ -489,8 +491,6 @@ updated: 2024/09/23 02:14:02
 *   [YangguangZhou/blog](https://github.com/YangguangZhou/blog) - Jerry Zhou 的个人博客
 
 *   [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
-
-*   [YangguangZhou/404](https://github.com/YangguangZhou/404) - Jerry Zhou的404页面
 
 ## SCSS
 
