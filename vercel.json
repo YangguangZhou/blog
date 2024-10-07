@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/messageboard/:path*",
-      "destination": "https://jerryz.com.cn/massageboard/:path*",
+      "destination": "https://jerryz.com.cn/messageboard/:path*",
       "permanent": true
     }
   ]
