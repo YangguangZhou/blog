@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/messageboard/:path*",
+      "destination": "https://jerryz.com.cn/massageboard/:path*",
+      "permanent": true
+    }
+  ]
+}
