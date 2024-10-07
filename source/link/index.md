@@ -13,6 +13,13 @@ type: "link"
 站点链接：https://blog.jerryz.com.cn
 站点图标：https://img.examcoo.com/ask/7386438/202111/163626915705190.jpg
 
+```yml
+- name: Jerry Zhou
+  link: https://blog.jerryz.com.cn/
+  avatar: https://img.examcoo.com/ask/7386438/202111/163626915705190.jpg
+  descr: 永远相信美好的事情即将发生
+```
+
 ## 友链交换须知🥰
 1. 友链网站必须为免费性质的**博客**。包括但不限于付费下载、付费浏览定义为非免费性质网站。一经发现，直接删除友联恕不通知。
 2. 友链的申请请在下方进行申请，申请前请先添加本站的友链。
