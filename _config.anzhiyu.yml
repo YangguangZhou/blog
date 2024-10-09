@@ -232,7 +232,7 @@ index_post_content:
 
 # anchor
 # when you scroll in post, the URL will update according to header id.
-anchor: true
+anchor: false
 
 # Post
 # --------------------------------------
