@@ -12,7 +12,7 @@ abbrlink: 9569
 cover: https://img.examcoo.com/ask/7386438/202406/171872023848900.png
 main_color: '#271f5c'
 ai: 这篇文章介绍了Jerry Zhou的GitHub star列表，涵盖了多个编程语言和工具的开源项目。主要类别包括Vue、Kotlin、Dart、JavaScript、Python、TypeScript、Go、Shell、Rust、Svelte、HTML、Stylus、Batchfile、Java、杂项、PHP以及Jupyter Notebook。每个类别下列出了相关的项目及其简短描述。
-updated: 2024/12/02 02:26:06
+updated: 2024/12/09 02:27:20
 ---
 <div align="center">
 
@@ -133,7 +133,7 @@ updated: 2024/12/02 02:26:06
 
 *   [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 
 *   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 
@@ -144,6 +144,8 @@ updated: 2024/12/02 02:26:06
 *   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 
 *   [fuergaosi233/wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt) - Use ChatGPT On Wechat via wechaty
+
+*   [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 
@@ -206,8 +208,6 @@ updated: 2024/12/02 02:26:06
 *   [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 
 *   [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) -  🦋 A Hexo Theme: Butterfly
-
-*   [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 
 ## PHP
 
@@ -303,7 +303,7 @@ updated: 2024/12/02 02:26:06
 
 *   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - Create Music in Seconds with SunoAPI.
 
-*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+*   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 
 *   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - SD-Trainer. LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
 
@@ -399,7 +399,7 @@ updated: 2024/12/02 02:26:06
 
 ## Go
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 #1 Rated Web-based Linux Server Management Tool. / 现代化、开源的 Linux 服务器运维管理面板。
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more,  letting you streamlines your server management experience.
 
 *   [kingwrcy/moments](https://github.com/kingwrcy/moments) - 极简朋友圈
 
