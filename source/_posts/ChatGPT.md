@@ -16,7 +16,7 @@ tags:
 - LLM
 title: ChatGPT＆Claude 官网共享镜像站 - CNChat
 ---
-**[网址：cn.ai0.cn](https://cn.ai0.cn/)**
+**[网址：cn.ai1.bar](https://cn.ai1.bar/)**
 
 CNChat - ChatGPT＆Claude官网共享镜像站，支持 o1-preview、o1-mini、GPT-4o、GPT-4、Claude-3-Opus、Claude-3-5-Sonnet 等所有OpenAI和Anthropic官网模型，支持GPTs、Artifact等功能。OpenAI多模态模型包括上传 PDF、图片进行分析、联网对话、语音聊天等功能。
 
