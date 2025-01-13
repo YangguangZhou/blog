@@ -12,7 +12,7 @@ abbrlink: 9569
 cover: https://img.examcoo.com/ask/7386438/202406/171872023848900.png
 main_color: '#271f5c'
 ai: 这篇文章介绍了Jerry Zhou的GitHub star列表，涵盖了多个编程语言和工具的开源项目。主要类别包括Vue、Kotlin、Dart、JavaScript、Python、TypeScript、Go、Shell、Rust、Svelte、HTML、Stylus、Batchfile、Java、杂项、PHP以及Jupyter Notebook。每个类别下列出了相关的项目及其简短描述。
-updated: 2025/01/06 02:17:53
+updated: 2025/01/13 02:18:44
 ---
 <div align="center">
 
@@ -100,7 +100,7 @@ updated: 2025/01/06 02:17:53
 
 *   [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 
-*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - Create Music in Seconds with SunoAPI.
+*   [SunoAI-API/Suno-API](https://github.com/SunoAI-API/Suno-API) - Create Music in Seconds with SunoAPI. Contact me , if you need suno api. 👇
 
 *   [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 
@@ -332,7 +332,7 @@ updated: 2025/01/06 02:17:53
 
 *   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 
-*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+*   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 *   [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
 
