@@ -1,10 +1,9 @@
-
-#article-container h1 a:not([rel="external nofollow noreferrer"]),
-#article-container h2 a:not([rel="external nofollow noreferrer"]),
-#article-container h3 a:not([rel="external nofollow noreferrer"]),
-#article-container h4 a:not([rel="external nofollow noreferrer"]),
-#article-container h5 a:not([rel="external nofollow noreferrer"]),
-#article-container h6 a:not([rel="external nofollow noreferrer"]) {
+#article-container h1 a.markdownIt-Anchor,
+#article-container h2 a.markdownIt-Anchor,
+#article-container h3 a.markdownIt-Anchor,
+#article-container h4 a.markdownIt-Anchor,
+#article-container h5 a.markdownIt-Anchor,
+#article-container h6 a.markdownIt-Anchor {
     float: right;
     opacity: .08;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=8)";
@@ -20,15 +19,14 @@
     font-weight: 700;
 }
 
-#article-container h1 a:not([rel="external nofollow noreferrer"])::before,
-#article-container h2 a:not([rel="external nofollow noreferrer"])::before,
-#article-container h3 a:not([rel="external nofollow noreferrer"])::before,
-#article-container h4 a:not([rel="external nofollow noreferrer"])::before,
-#article-container h5 a:not([rel="external nofollow noreferrer"])::before,
-#article-container h6 a:not([rel="external nofollow noreferrer"])::before {
+#article-container h1 a.markdownIt-Anchor::before,
+#article-container h2 a.markdownIt-Anchor::before,
+#article-container h3 a.markdownIt-Anchor::before,
+#article-container h4 a.markdownIt-Anchor::before,
+#article-container h5 a.markdownIt-Anchor::before,
+#article-container h6 a.markdownIt-Anchor::before {
     font: var(--fa-font-solid);
     content: '\f0c1'; /* FontAwesome icon for 'link' */
-    /* float: right; */
     color: var(--headline-presudo);
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
@@ -43,16 +41,16 @@
     margin-top: 0;
 }
 
-#article-container a:not([rel="external nofollow noreferrer"]):hover:after {
+#article-container a.markdownIt-Anchor:hover:after {
     color: var(--pseudo-hover);
 }
 
-#article-container a:not([rel="external nofollow noreferrer"]) h1:hover a:after,
-#article-container a:not([rel="external nofollow noreferrer"]) h2:hover a:after,
-#article-container a:not([rel="external nofollow noreferrer"]) h3:hover a:after,
-#article-container a:not([rel="external nofollow noreferrer"]) h4:hover a:after,
-#article-container a:not([rel="external nofollow noreferrer"]) h5:hover a:after,
-#article-container a:not([rel="external nofollow noreferrer"]) h6:hover a:after {
+#article-container a.markdownIt-Anchor h1:hover a:after,
+#article-container a.markdownIt-Anchor h2:hover a:after,
+#article-container a.markdownIt-Anchor h3:hover a:after,
+#article-container a.markdownIt-Anchor h4:hover a:after,
+#article-container a.markdownIt-Anchor h5:hover a:after,
+#article-container a.markdownIt-Anchor h6:hover a:after {
     opacity: 1;
     -ms-filter: none;
     filter: none;
