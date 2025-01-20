@@ -12,7 +12,7 @@ abbrlink: 9569
 cover: https://img.examcoo.com/ask/7386438/202406/171872023848900.png
 main_color: '#271f5c'
 ai: 这篇文章介绍了Jerry Zhou的GitHub star列表，涵盖了多个编程语言和工具的开源项目。主要类别包括Vue、Kotlin、Dart、JavaScript、Python、TypeScript、Go、Shell、Rust、Svelte、HTML、Stylus、Batchfile、Java、杂项、PHP以及Jupyter Notebook。每个类别下列出了相关的项目及其简短描述。
-updated: 2025/01/13 02:18:44
+updated: 2025/01/20 02:12:10
 ---
 <div align="center">
 
@@ -164,7 +164,7 @@ updated: 2025/01/13 02:18:44
 
 *   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
 *   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 
@@ -190,7 +190,7 @@ updated: 2025/01/13 02:18:44
 
 *   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
 
-*   [liruifengv/we-drawing](https://github.com/liruifengv/we-drawing) - AI画图。每天一句中国古诗词，生成 AI 图片 Powered by Bing DALL-E-3.
+*   [liruifengv/we-drawing](https://github.com/liruifengv/we-drawing) - AI画图。每天一句中国古诗词，生成 AI 图片。
 
 *   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 
@@ -204,7 +204,7 @@ updated: 2025/01/13 02:18:44
 
 *   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
 
-*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
 *   [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
 
