@@ -16,6 +16,12 @@ description: 'Luogu-User-Card是一个动态生成洛谷用户数据卡片的工
 ai: 这篇文章介绍了Luogu-User-Card项目，这是一个动态生成洛谷用户数据卡片的工具，用于展示用户的基本信息、做题情况和咕值信息等。文章详细讲解了如何使用这个工具，包括如何显示用户的基本信息、练习徽章、练习情况和咕值信息，并提供了禁用缓存和自定义选项的方法。此外，还说明了如何自行部署这个项目到Vercel服务器，如何参与贡献以及如何提供bug反馈或建议。最后，文章鼓励读者为项目点赞并介绍了项目的许可证信息。
 ---
 
+{% note primary modern %} 
+Luogu User Card 现在可以在网页端使用生成器简便生成，无需手动修改链接🎉
+
+使用地址：https://api.jerryz.com.cn/
+{% endnote %}
+
 # [Luogu-User-Card](https://api.jerryz.com.cn/)
 
 # [GitHub](https://github.com/YangguangZhou/Luogu-User-Card/)
