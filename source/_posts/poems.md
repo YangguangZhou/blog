@@ -1,18 +1,18 @@
 ---
-abbrlink: '26728'
+title: Poems：一个优雅的高中古诗文学习网站
+abbrlink: 26728
+description: 一个使用 Next.js 开发的古诗文网站，提供高中语文必背诗词和文言文的查询、学习功能。网站设计美观、响应式，支持多种设备访问。
+keywords: Poems,学习,高中,必背古诗文,文言文,诗词,高中必修,高中选择性必修
 ai: 这篇文章介绍了一个名为「Poems」的高中古诗文学习网站，旨在帮助学生高效记忆和理解古诗文。网站全面收录教材必背内容，提供智能搜索、详细注解、背诵模式、自适应设计及浅色/深色模式，采用Next.js框架和CSS开发，部署于Vercel平台，并已开源于GitHub。
 categories:
 - 编程
-cover: https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/1000064996.175k346rro.jpg
-date: 2025/03/29 21:56:15
-description: 一个使用 Next.js 开发的古诗文网站，提供高中语文必背诗词和文言文的查询、学习功能。网站设计美观、响应式，支持多种设备访问。
-keywords: Poems,学习,高中,必背古诗文,文言文,诗词,高中必修,高中选择性必修
-main_color: '#eddfc6'
 tags:
 - 编程
 - 学习
-title: Poems：一个优雅的高中古诗文学习网站
-updated: '2025-03-30T01:55:53.628+08:00'
+cover: https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/1000064996.175k346rro.jpg
+date: 2025/03/29 21:56:15
+updated: 2025/03/29 21:56:15
+main_color: '#eddfc6'
 ---
 👉 [**在线访问：poems.jerryz.com.cn**](https://poems.jerryz.com.cn)
 
