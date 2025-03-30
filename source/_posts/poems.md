@@ -18,7 +18,7 @@ main_color: '#eddfc6'
 
 # 项目介绍
 
-在高中语文学习中，古诗文背诵始终是学生们的痛 点。面对浩如烟海的诗文，如何高效记忆？如何准 确理解其内涵？带着这些问题，我开发了这款名为 「Poems」的古诗文学习平台。通过现代技术手段，我们为用户提供了一个集查询、学习、背诵于一体的智能学习空间。
+在高中语文学习中，古诗文背诵始终是学生们的痛点。面对浩如烟海的诗文，如何高效记忆？如何准确理解其内涵？带着这些问题，我开发了这款名为 「Poems」的古诗文学习平台。通过现代技术手段，为用户提供了一个集查询、学习、背诵于一体的智能学习空间。
 
 ### 主要功能
 
@@ -26,10 +26,16 @@ main_color: '#eddfc6'
 - **智能搜索**：支持按标题、作者、朝代、内容等多维度检索，提高查找效率。
 - **详细注解**：提供诗文的翻译及读音，帮助用户更好地理解古诗文。
 - **背诵模式**：特有的背诵练习功能，帮助用户更高效地记忆，并可以进行自我检测。
+- **支持打印**：可以将诗文打印出来或保存为PDF，方便学习和背诵
 - **自适应设计**：无论是在手机、平板还是电脑端，网站都能完美适配。
 - **浅色/深色模式**：满足不同用户的阅读习惯。
 
 ## 页面截图
+
+<img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ScreenShot-1.jpg" width="1024px" alt="Poems网站截图1" />
+<img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ScreenShot-2.jpg" width="1024px" alt="Poems网站截图2" />
+<img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ScreenShot-3.jpg" width="1024px" alt="Poems网站截图3" />
+<img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ScreenShot-4.jpg" width="1024px" alt="Poems网站截图4" />
 
 ## 技术栈
 

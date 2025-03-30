@@ -3,11 +3,11 @@ abbrlink: 40660
 ai: 这篇文章介绍了Monet-All莫奈取色整合模块，它是一个基于Magisk的模块，用于在Android设备上整合Material You的莫奈主题色取色功能。文章详述了该模块的v2.0.4版本更新内容，包括新支持的应用和一些修复与优化事项，同时列出了包含的应用及原作者信息。还说明了该模块的刷入方法、捐赠信息和加入交流群的方式。简介部分强调了莫奈主题的特点，即能够根据壁纸生成系统主题色，并让应用界面随之变化。最后，通过一系列效果图展示了该模块的实际应用效果。
 categories:
 - 编程
-cover: https://img.zcool.cn/community/015b0260af5e4911013f47205f9ade.gif
+cover: https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ChatGPT-Image-2025年3月30日-13_01_21.jpg
 date: 2023/01/08 23:56:06
 description: '这篇文章介绍了Monet-All莫奈取色整合模块，它是一个基于Magisk的模块，用于在Android设备上整合Material You的莫奈主题色取色功能。文章详述了该模块的v2.0.4版本更新内容，包括新支持的应用和一些修复与优化事项，同时列出了包含的应用及原作者信息。还说明了该模块的刷入方法、捐赠信息和加入交流群的方式。简介部分强调了莫奈主题的特点，即能够根据壁纸生成系统主题色，并让应用界面随之变化。最后，通过一系列效果图展示了该模块的实际应用效果。'
 keywords: 编程,GitHub,Android,MaterialYou,Monet,莫奈,谷歌,Android12,Android13
-main_color: '#ced5d5'
+main_color: '#fbddb4'
 tags:
 - 编程
 - GitHub
