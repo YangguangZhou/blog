@@ -17,6 +17,10 @@ ai: 这篇文章介绍了 OpenAI Chat2API 现已支持多账号负载均衡和�
 description: OpenAI Chat2API 现已支持通过 Refresh Token 和 Access Token 请求，实现多账号负载均衡。
 ---
 
+{% note warning simple %} 
+由于 [OAIFree的跑路](https://linux.do/t/topic/272012)，本项目也无法继续提供服务
+{% endnote %}
+
 # 请求地址
 
 https://chat2api.jerryz.com.cn

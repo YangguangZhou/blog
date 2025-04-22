@@ -17,6 +17,10 @@ ai: 这篇文章介绍了获取和生成Refresh Token以及Access/Share Token的
 description: 通过OpenAI Refresh Token自动获取Access/Share Token，Token每七天自动刷新。
 ---
 
+{% note warning simple %} 
+由于 [OAIFree的跑路](https://linux.do/t/topic/272012)，本项目也无法继续提供服务
+{% endnote %}
+
 https://tokens.jerryz.com.cn/
 
 # 获取Refresh Token
