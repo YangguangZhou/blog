@@ -12,7 +12,7 @@ abbrlink: 9569
 cover: https://img.examcoo.com/ask/7386438/202406/171872023848900.png
 main_color: '#271f5c'
 ai: 这篇文章介绍了Jerry Zhou的GitHub star列表，涵盖了多个编程语言和工具的开源项目。主要类别包括Vue、Kotlin、Dart、JavaScript、Python、TypeScript、Go、Shell、Rust、Svelte、HTML、Stylus、Batchfile、Java、杂项、PHP以及Jupyter Notebook。每个类别下列出了相关的项目及其简短描述。
-updated: 2025/04/21 02:37:32
+updated: 2025/04/28 02:38:07
 ---
 <div align="center">
 
@@ -26,10 +26,10 @@ updated: 2025/04/21 02:37:32
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Python](#python)
 *   [JavaScript](#javascript)
-*   [TypeScript](#typescript)
 *   [Dart](#dart)
 *   [Swift](#swift)
 *   [Java](#java)
@@ -49,6 +49,94 @@ updated: 2025/04/21 02:37:32
 *   [Batchfile](#batchfile)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Dockerfile](#dockerfile)
+
+## TypeScript
+
+*   [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+
+*   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
+
+*   [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
+
+*   [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
+
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+
+*   [VariantConst/OpenWebUI-Monitor](https://github.com/VariantConst/OpenWebUI-Monitor) - A dashboard for tracking user activity and enforcing usage limits in OpenWebUI. Set user quotas efficiently.
+
+*   [fstandhartinger/generative-chat-ui](https://github.com/fstandhartinger/generative-chat-ui) -
+
+*   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
+
+*   [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
+
+*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 A short link, temporary mailbox, p2p chat and subdomain management platform to release the potential of your domains. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
+
+*   [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+
+*   [Lordly-Tech/LordlyRead](https://github.com/Lordly-Tech/LordlyRead) -
+
+*   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
+
+*   [MiningCattiva/x-spider](https://github.com/MiningCattiva/x-spider) - A spider for X (Twitter)
+
+*   [MichaelYuhe/Artifacts-for-ChatGPT](https://github.com/MichaelYuhe/Artifacts-for-ChatGPT) - Instantly preview and deploy artifacts crafted by ChatGPT.
+
+*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+
+*   [lqzhgood/wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
+
+*   [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
+
+*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+*   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
+
+*   [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+
+*   [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
+
+*   [lobehub/sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) - 🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
+
+*   [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api) - 🚀 阿里通义千问2.5大模型逆向API【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、联网检索、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
+
+*   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
+
+*   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
+
+*   [LemonZuo/pandora-plus-helper](https://github.com/LemonZuo/pandora-plus-helper) -
+
+*   [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
+
+*   [aircodelabs/documate](https://github.com/aircodelabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
+
+*   [xhofe/imgbed](https://github.com/xhofe/imgbed) - 📒多接口/自定义接口的文件/图片上传
+
+*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+
+*   [liruifengv/we-drawing](https://github.com/liruifengv/we-drawing) - AI画图。每天一句中国古诗词，生成 AI 图片。
+
+*   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+
+*   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
+
+*   [OIerDb-ng/OIerDb](https://github.com/OIerDb-ng/OIerDb) - Next generation OIerDb.
+
+*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+
+*   [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
+
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+
+*   [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
+
+*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused alternative to Google Analytics.
+
+*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 
 ## Vue
 
@@ -201,92 +289,6 @@ updated: 2025/04/21 02:37:32
 *   [syzoj/syzoj](https://github.com/syzoj/syzoj) - 一个用于算法竞赛的在线评测系统。An online judge system for algorithm competition.
 
 *   [Postcatlab/postcat](https://github.com/Postcatlab/postcat) - Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.
-
-## TypeScript
-
-*   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
-
-*   [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic.
-
-*   [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
-
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-
-*   [VariantConst/OpenWebUI-Monitor](https://github.com/VariantConst/OpenWebUI-Monitor) - A dashboard for tracking user activity and enforcing usage limits in OpenWebUI. Set user quotas efficiently.
-
-*   [fstandhartinger/generative-chat-ui](https://github.com/fstandhartinger/generative-chat-ui) -
-
-*   [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
-
-*   [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
-
-*   [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 A short lin, temporary mailbox, p2p chat and subdomain management platform to release the potential of your domains. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
-
-*   [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
-
-*   [Lordly-Tech/LordlyRead](https://github.com/Lordly-Tech/LordlyRead) -
-
-*   [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-
-*   [MiningCattiva/x-spider](https://github.com/MiningCattiva/x-spider) - A spider for X (Twitter)
-
-*   [MichaelYuhe/Artifacts-for-ChatGPT](https://github.com/MichaelYuhe/Artifacts-for-ChatGPT) - Instantly preview and deploy artifacts crafted by ChatGPT.
-
-*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
-
-*   [lqzhgood/wechat-need-web](https://github.com/lqzhgood/wechat-need-web) - 让微信网页版可用 / Allow the use of WeChat via webpage access
-
-*   [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
-
-*   [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
-*   [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
-
-*   [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-
-*   [bepass-org/oblivion-desktop](https://github.com/bepass-org/oblivion-desktop) - Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux
-
-*   [lobehub/sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) - 🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
-
-*   [LLM-Red-Team/qwen-free-api](https://github.com/LLM-Red-Team/qwen-free-api) - 🚀 阿里通义千问2.5大模型逆向API【特长：六边形战士】，支持高速流式输出、无水印AI绘图、长文档解读、图像解析、联网检索、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
-
-*   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
-
-*   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
-
-*   [LemonZuo/pandora-plus-helper](https://github.com/LemonZuo/pandora-plus-helper) -
-
-*   [meetqy/aspoem](https://github.com/meetqy/aspoem) - Learn Chinese Poetry With AsPoem.com
-
-*   [aircodelabs/documate](https://github.com/aircodelabs/documate) - Embed AI chat dialog into your doc site to answer user questions based on your own content.
-
-*   [xhofe/imgbed](https://github.com/xhofe/imgbed) - 📒多接口/自定义接口的文件/图片上传
-
-*   [XPoet/picx](https://github.com/XPoet/picx) - 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
-
-*   [liruifengv/we-drawing](https://github.com/liruifengv/we-drawing) - AI画图。每天一句中国古诗词，生成 AI 图片。
-
-*   [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-
-*   [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
-
-*   [OIerDb-ng/OIerDb](https://github.com/OIerDb-ng/OIerDb) - Next generation OIerDb.
-
-*   [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
-
-*   [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
-
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
-
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-
-*   [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
-
-*   [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
-
-*   [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 
 ## Dart
 
@@ -463,8 +465,6 @@ updated: 2025/04/21 02:37:32
 *   [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 
 *   [Kingsman44/Pixelify](https://github.com/Kingsman44/Pixelify) - Magisk module to enables pixel exclusive features and ui
-
-*   [YangguangZhou/Monet-All](https://github.com/YangguangZhou/Monet-All) - 莫奈取色整合的Magisk模块，可通过音量键选择是否安装对应应用的取色模块
 
 ## Rust
 
