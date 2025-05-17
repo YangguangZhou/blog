@@ -31,10 +31,12 @@ ai: 这篇文章介绍了Caffeine Tracker这款简洁美观的咖啡因摄入追
 
 Caffeine Tracker 是一个简单实用的咖啡因摄入追踪应用，帮助你精准记录每天的咖啡因摄入量，实时监测咖啡因代谢情况，并提供丰富的历史数据分析。无论你是咖啡爱好者、健康达人，还是正准备调整咖啡因摄入习惯的人，这款应用都能给你带来绝佳体验。
 
-<img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ct-1.jpg" width="200px" alt="ct-4.jpg">
-<img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ct-2.jpg" width="200px" alt="ct-3.jpg">
-<img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ct-3.jpg" width="200px" alt="ct-2.jpg">
-<img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ct-4.jpg" width="200px" alt="ct-1.jpg">
+<div style="white-space: nowrap; overflow-x: auto;">
+  <img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ct-1.jpg" width="200px" alt="ct-1.jpg" style="display: inline-block; margin-right: 8px;">
+  <img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ct-2.jpg" width="200px" alt="ct-2.jpg" style="display: inline-block; margin-right: 8px;">
+  <img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ct-3.jpg" width="200px" alt="ct-3.jpg" style="display: inline-block; margin-right: 8px;">
+  <img src="https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/Qexo/ct-4.jpg" width="200px" alt="ct-4.jpg" style="display: inline-block;">
+</div>
 
 👉 立即体验：[ct.jerryz.com.cn](https://ct.jerryz.com.cn/)
 
