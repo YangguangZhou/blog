@@ -12,7 +12,7 @@ abbrlink: 9569
 cover: https://img.examcoo.com/ask/7386438/202406/171872023848900.png
 main_color: '#271f5c'
 ai: 这篇文章介绍了Jerry Zhou的GitHub star列表，涵盖了多个编程语言和工具的开源项目。主要类别包括Vue、Kotlin、Dart、JavaScript、Python、TypeScript、Go、Shell、Rust、Svelte、HTML、Stylus、Batchfile、Java、杂项、PHP以及Jupyter Notebook。每个类别下列出了相关的项目及其简短描述。
-updated: 2025/05/19 02:44:18
+updated: 2025/05/26 02:43:18
 ---
 <div align="center">
 
@@ -247,7 +247,7 @@ updated: 2025/05/19 02:44:18
 
 *   [YangguangZhou/Poems](https://github.com/YangguangZhou/Poems) - 使用 Next.js 开发的古诗文网站，提供高中语文必背诗词和文言文的查询、学习功能。网站设计美观、响应式，支持多种设备访问。
 
-*   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research.
+*   [u14app/deep-research](https://github.com/u14app/deep-research) - Use any LLMs (Large Language Models) for Deep Research. Support SSE API and MCP server.
 
 *   [walinejs/waline](https://github.com/walinejs/waline) - 💬 A Simple, Safe Comment System
 
