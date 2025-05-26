@@ -40,7 +40,7 @@ Caffeine Tracker 是一个简单实用的咖啡因摄入追踪应用，帮助你
 
 👉 立即体验：[ct.jerryz.com.cn](https://ct.jerryz.com.cn/)
 
-👉 Android 版 APP：[点此下载](https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Caffeine%20Manager/app-release.apk)
+👉 Android 版 APP：[点此下载](https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/Caffeine%20Tracker/app-release.apk)
 
 ## 为什么选择 Caffeine Tracker？
 
