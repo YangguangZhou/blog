@@ -13,7 +13,6 @@ menu:
     个人主页: https://jerryz.com.cn/ || fas fa-home
     支持: https://pay.jerryz.com.cn/ || fas fa-hand-holding-heart
     站点监控: https://status.jerryz.com.cn/ || fas fa-signal
-    相册集: /gallary/ || fas fa-images
 
   关于:
     关于本人: /article/about/ || fas fa-address-card
@@ -41,8 +40,8 @@ nav:
         - name: 工具和项目
           link: https://tools.jerryz.com.cn/
           icon: https://cdn.jerryz.com.cn/gh/YangguangZhou/blog@anzhiyu/source/img/tools.svg
-        - name: ChatGPT＆Claude官网镜像站
-          link: https://cn.ai0.cn/
+        - name: AI镜像站
+          link: https://cn.ai1.bar/
           icon: https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/cnchat.png
 
 # mourn （哀悼日，指定日期网站简单变灰，不包括滚动条）
