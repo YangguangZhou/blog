@@ -3,21 +3,20 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "7.2.0"
+    "version": "8.0.0"
   },
   "dependencies": {
     "ackee-tracker": "^5.1.0",
-    "hexo": "^7.2.0",
+    "hexo": "^8.0.0",
     "hexo-abbrlink": "^2.2.1",
     "hexo-browsersync": "^0.3.0",
     "hexo-cli": "^4.3.2",
     "hexo-deployer-git": "^4.0.0",
-    
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-baidu-sitemap": "^0.1.9",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-feed": "^3.0.0",
-    "hexo-generator-index": "^3.0.0",
+    "hexo-generator-index": "^4.0.0",
     "hexo-generator-search": "^2.4.3",
     "hexo-generator-sitemap": "^3.0.1",
     "hexo-generator-tag": "^2.0.0",
@@ -25,16 +24,16 @@
     "hexo-renderer-markdown-it-plus": "^1.0.6",
     "hexo-generator-restful": "^0.2.3",
     "hexo-hide-posts": "^0.4.3",
-    "hexo-math": "^4.0.0",
+    "hexo-math": "^5.0.0",
     "hexo-renderer-ejs": "^2.0.0",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
-    "hexo-theme-anzhiyu": "^1.6.14",
+    "hexo-theme-anzhiyu": "^1.6.15",
     "hexo-util": "^3.3.0",
     "hexo-wordcount": "^6.0.1",
-    "katex": "^0.16.10",
+    "katex": "^0.16.23",
     "markdown-toc": "^1.2.0",
-    "npm-check-updates": "^16.14.20",
+    "npm-check-updates": "^19.0.0",
     "package-lock.json": "^1.0.0",
     "package.json": "^2.0.1"
   },
@@ -43,6 +42,6 @@
     "build": "hexo generate"
   },
   "devDependencies": {
-    "@waline/client": "^3.2.1"
+    "@waline/client": "^3.6.0"
   }
 }
