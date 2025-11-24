@@ -12,7 +12,7 @@ abbrlink: 9569
 cover: https://img.examcoo.com/ask/7386438/202406/171872023848900.png
 main_color: '#271f5c'
 ai: 这篇文章介绍了Jerry Zhou的GitHub star列表，涵盖了多个编程语言和工具的开源项目。主要类别包括Vue、Kotlin、Dart、JavaScript、Python、TypeScript、Go、Shell、Rust、Svelte、HTML、Stylus、Batchfile、Java、杂项、PHP以及Jupyter Notebook。每个类别下列出了相关的项目及其简短描述。
-updated: 2025/11/17 02:41:45
+updated: 2025/11/24 02:49:13
 ---
 <div align="center">
 
@@ -47,7 +47,6 @@ updated: 2025/11/17 02:41:45
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [Stylus](#stylus)
-*   [Batchfile](#batchfile)
 *   [Jupyter Notebook](#jupyter-notebook)
 
 ## Vue
@@ -100,7 +99,7 @@ updated: 2025/11/17 02:41:45
 
 ## Kotlin
 
-*   [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is a Android APP that supports for multiple LLM providers.
+*   [rikkahub/rikkahub](https://github.com/rikkahub/rikkahub) - RikkaHub is an Android APP that supports for multiple LLM providers.
 
 *   [cwuom/NeriPlayer](https://github.com/cwuom/NeriPlayer) - A unified Android player for streaming music and videos from multiple online platforms. / ✨ 简易多平台音视频聚合流媒体播放器 🎵
 
@@ -302,6 +301,8 @@ updated: 2025/11/17 02:41:45
 
 *   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 
+*   [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro) - Hydro - Next generation high performance online-judge platform - 新一代高效强大的信息学在线测评系统 (a.k.a. vj5)
+
 ## C
 
 *   [tsl0922/EPD-nRF5](https://github.com/tsl0922/EPD-nRF5) - E-paper display firmware for Nordic nRF51/nRF52, with support for image transfer, OTA update.
@@ -487,10 +488,6 @@ updated: 2025/11/17 02:41:45
 ## Stylus
 
 *   [anzhiyu-c/hexo-theme-anzhiyu](https://github.com/anzhiyu-c/hexo-theme-anzhiyu) - 安知鱼主题，这是一个简洁美丽的hexo主题。
-
-## Batchfile
-
-*   [lstprjct/IDM-Activation-Script](https://github.com/lstprjct/IDM-Activation-Script) - IDM Activation & Trail Reset Script
 
 ## Jupyter Notebook
 
