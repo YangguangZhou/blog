@@ -17,7 +17,7 @@ abbrlink: 19487
 
 # 个人简介
 
-大家好，我是Jerry Zhou,今年高一，就读于YN的YNSDFZ。我是一名`OIer`和数码爱好者~~以及重度社恐患者~~。
+大家好，我是Jerry Zhou，今年高三，就读于YN的YNSDFZ。我是一名`OIer`和数码爱好者~~以及重度社恐患者~~。
 
 ## **[我的个人主页](https://jerryz.com.cn)**
 
@@ -27,22 +27,7 @@ abbrlink: 19487
 
 # 我的一些项目
 
-## **[我的项目](https://jerryz.com.cn/program)**
-
-
-# 我的目标
-
-- 进入`YN`最好的高中`YNSDFZ`
-- [洛谷](https://www.luogu.com.cn/)橙名
-- [OIer排名](https://bytew.net/OIer/)云南前二十
-
-# 信息学所获奖项
-
-1. `CSP2020`入门一等奖：分数`100`，排名`7543`
-2. `CSP2021`入门一等奖：分数`101`，排名`7913`
-3. `CSP2021`提高：分数`15`
-4. `NOIP2021`：分数`62`
-5. 信奥联合省选：分数`50`
+## **[我的项目](https://tools.jerryz.com.cn)**
 
 # 支持一下
 
