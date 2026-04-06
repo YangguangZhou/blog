@@ -12,7 +12,7 @@ abbrlink: 9569
 cover: https://img.examcoo.com/ask/7386438/202406/171872023848900.png
 main_color: '#271f5c'
 ai: 这篇文章介绍了Jerry Zhou的GitHub star列表，涵盖了多个编程语言和工具的开源项目。主要类别包括Vue、Kotlin、Dart、JavaScript、Python、TypeScript、Go、Shell、Rust、Svelte、HTML、Stylus、Batchfile、Java、杂项、PHP以及Jupyter Notebook。每个类别下列出了相关的项目及其简短描述。
-updated: 2026/03/30 03:55:49
+updated: 2026/04/06 03:54:43
 ---
 <div align="center">
 
@@ -26,6 +26,7 @@ updated: 2026/03/30 03:55:49
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
@@ -38,7 +39,6 @@ updated: 2026/03/30 03:55:49
 *   [HTML](#html)
 *   [Roff](#roff)
 *   [Dart](#dart)
-*   [Swift](#swift)
 *   [C++](#c-1)
 *   [miscellaneous](#miscellaneous)
 *   [PHP](#php)
@@ -48,6 +48,14 @@ updated: 2026/03/30 03:55:49
 *   [Svelte](#svelte)
 *   [Stylus](#stylus)
 *   [Jupyter Notebook](#jupyter-notebook)
+
+## Swift
+
+*   [Arthur-Ficial/apfel](https://github.com/Arthur-Ficial/apfel) - Apple Intelligence from the command line. On-device LLM via FoundationModels framework. No API keys, no cloud, no dependencies.
+
+*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
+
+*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
 
 ## Python
 
@@ -112,6 +120,8 @@ updated: 2026/03/30 03:55:49
 *   [Akegarasu/lora-scripts](https://github.com/Akegarasu/lora-scripts) - SD-Trainer. LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
 
 *   [y1ndan/onepush](https://github.com/y1ndan/onepush) - A Python library to send notifications to your iPhone, Discord, Telegram, WeChat, QQ and DingTalk. 一个消息推送Python库
+
+*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
 
 *   [google-deepmind/alphageometry](https://github.com/google-deepmind/alphageometry) -
 
@@ -389,8 +399,6 @@ updated: 2026/03/30 03:55:49
 
 *   [wozulong/openai-images-edits](https://github.com/wozulong/openai-images-edits) - 旨在打造一个使用 OpenAI 图片编辑API（或Chat2API）来让AI编辑图片的服务。
 
-*   [Qexo/Qexo](https://github.com/Qexo/Qexo) - A fast, powerful and beautiful online manager for all static blog frameworks.
-
 *   [YangguangZhou/PayAll](https://github.com/YangguangZhou/PayAll) - 万能收款码，支持微信、支付宝、QQ三码合一
 
 *   [YangguangZhou/Calculator](https://github.com/YangguangZhou/Calculator) - Online calculator
@@ -398,8 +406,6 @@ updated: 2026/03/30 03:55:49
 *   [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 
 *   [YangguangZhou/RandomName](https://github.com/YangguangZhou/RandomName) - 随机点名器
-
-*   [flwfdd/graduate-map](https://github.com/flwfdd/graduate-map) - 毕业去向统计展示网站
 
 ## Roff
 
@@ -418,12 +424,6 @@ updated: 2026/03/30 03:55:49
 *   [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 *   [jing332/AListFlutter](https://github.com/jing332/AListFlutter) - AList 安卓版本，APK安装即用，无需Root或Termux。
-
-## Swift
-
-*   [mangerlahn/Latest](https://github.com/mangerlahn/Latest) - A small utility app for macOS that makes sure you know about all the latest updates to the apps you use.
-
-*   [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
 
 ## C++
 
